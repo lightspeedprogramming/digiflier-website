@@ -70,9 +70,65 @@
     <!-- End of About Us -->
 
 
+    <!--  counter section  -->
 
+    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
+        <div class="container">
+            
+            <div class="row justify-content-center">
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
+                        <div class="single-feature-img">
+                            <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>6x</h1>
+                            <h4 style="font-weight:normal;color:#777;">Growth in <br/>keyword ranking</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
+                        <div class="single-feature-img">
+                            <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>398%</h1>
+                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Organic traffic</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
+                        <div class="single-feature-img">
+                            <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>1105%</h1>
+                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Top 10 ranking</h4>
+                        </div>
+                    </div>
+                </div>
 
-    <!--How We Do Section-->
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
+                        <div class="single-feature-img">
+                            <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>129%</h1>
+                            <h4 style="font-weight:normal;color:#777;">Increase in <br>Visit duration</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <!--  #counter-section  -->
+
+        <!--How We Do Section-->
 
     <section class="pt-120 pb-90">
         <div class="container">
@@ -86,7 +142,7 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/icons/earth.svg" alt="" class="svg">
+                        <img src="img/icons/keyword.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>KEYWORD</b> RESEARCH</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
                         
@@ -94,7 +150,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/icons/phone.svg" alt="" class="svg">
+                        <img src="img/icons/onsite-optimization.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>ONSITE</b> OPTIMIZATION</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
                         
@@ -102,15 +158,15 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
-                        <img src="img/icons/tv.svg" alt="" class="svg">
-                        <h4><b>LINK</b> BUILDING</h4>
+                        <img src="img/icons/link-building.png" alt="" class="rounded-circle img-fluid mb-30">
+                        <h4><b>LINK</b><br> BUILDING</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
-                        <img src="img/icons/server.svg" alt="" class="svg">
+                        <img src="img/icons/report-analysis.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>REPORTING AND ANALYSIS</b></h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
                         
@@ -124,13 +180,13 @@
 
 	
 	<!-- Take Our business to the nest level -->
-		<!-- Abut Us -->
+		
     <section class="pt-120 pb-55">
         <div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h3 style="font-size:32px;">TAKE YOUR BUSINESS <b>TO THE NEXT LEVEL</b></h3>
-					<p style="font-size:16px;line-height:1.3;margin-bottom:7px;">
+					<p style="font-size:16px;line-height:1.6;margin-bottom:7px;">
 						Digi Flier can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
 						technical and copywriting staff enables Digi Flier to successfully 
 						meet the needs of companies with complex<br> 

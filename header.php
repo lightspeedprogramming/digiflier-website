@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/colors/theme-color-1.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
 </head>
 
 <body>
@@ -55,7 +56,17 @@
                                 <ul>
                                     <li class="active"><a href="index.php">Home</a></li>
 									<li><a href="about.php">About</a></li>
-                                    <li><a href="#">Services</a></li>
+                                    <li>
+                                        <a href="#">Services <i class="fa fa-caret-down"></i></a>
+                                        <ul>
+                                            <li><a href="seo.php">Search Engine Optimization</a></li>
+                                            <li><a href="email-marketing.php">Email Marketing Service</a></li>
+                                            <li><a href="#">Pay Per Click Service</a></li>
+                                            <li><a href="#">Social Media Marketing</a></li>
+                                            <li><a href="#">Ecommerce Marketing</a></li>
+                                            <li><a href="content-marketing.php">Content Marketing Service</a></li>
+                                        </ul>
+                                    </li>
                                     <li>
                                         <a href="pricing.php">Pricing</a>
                                     </li>
