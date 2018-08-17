@@ -1,4 +1,8 @@
 <?php
+    $title = "Search Engine Optimization || Xyz";
+?>
+
+<?php
     include("header.php");
 ?>
 

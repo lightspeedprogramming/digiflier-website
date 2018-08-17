@@ -1,4 +1,8 @@
 <?php
+    $title = "About Us || Xyz";
+?>
+
+<?php
     include("header.php");
 ?>
 
@@ -21,14 +25,14 @@
     <!-- End of Page Title -->
 
     <!--  first row of about us section  -->
-    <section class="pt-120 pb-55">
+    <section class="pt-30 pb-55">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <p style="font-size:16px;line-height:1.3;margin-bottom:7px;color: #616161;">
+                    <p style="font-size:16px;line-height:1.8;margin-bottom:7px;color: #616161;">
                         We Help You define Your Business Better. Our Ideas Give You RESULTS. We work on keeping your site as well as you happy. We are SEO Corporation.
                     </p>
-                    <p style="font-size:16px;line-height:1.3;margin-bottom:7px;color: #616161;">
+                    <p style="font-size:16px;line-height:1.9;margin-bottom:7px;color: #616161;">
                         With 4 years of being in the field of digital marketing, some might call us too young for the business. But years can not define experience.<br>
                         With 24 full time SEO Engineers, 12 Content Writers, 8 Web Developers & Designers, 17 Link Builders, 35 Offpage Optimization Experts and 8 Project Managers – we know what we are doing. What makes us even more trustworthy is our impressive portfolio. In our 4 years of business we have designed and developed around 500 small business websites, 40 premium E-commerce sites and optimized more than 1200 sites.<br>More than building your business we believe in building relationships, we would love to have you as a part of our extended family. If you are a small business or a startup, then talk us. We would love to help you.
                     </p>
@@ -47,7 +51,7 @@
             <div class="row pb-4">
                 <div class="col-lg-6 col-sm-12">
                     <div class="">
-                        <img src="img/number-one.png" alt="">
+                        <img src="img/about-us.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -91,7 +95,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="single-service text-center">
                         <img src="img/icons/keyword.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>KEYWORD</b> RESEARCH</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
@@ -99,7 +103,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
+                    <div class="single-service text-center">
                         <img src="img/icons/onsite-optimization.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>ONSITE</b> OPTIMIZATION</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
@@ -107,7 +111,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
+                    <div class="single-service text-center">
                         <img src="img/icons/link-building.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>LINK</b><br> BUILDING</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
@@ -115,7 +119,7 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
-                    <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
+                    <div class="single-service text-center">
                         <img src="img/icons/report-analysis.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>REPORTING AND ANALYSIS</b></h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
@@ -148,11 +152,11 @@
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6 col-sm-12 mb-55">
                     <div class="">
-                        <img src="img/number-one.png" alt="">
+                        <img src="img/best-seo.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">What Makes Us Different.</h4>
                         <p>
                             We do not only provide SEO and Internet marketing services 

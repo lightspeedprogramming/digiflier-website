@@ -14,7 +14,7 @@
                                         <a href="tel:+1234567890">(+x) xxx-xxx-xxx</a>
                                     </li>
                                     <li>
-                                        <i class="fa fa-envelope-o"></i>
+                                        <i class="fas fa-envelope"></i>
                                         <a href="mailto:serviney.demo@fakemail.com">contact@domain.com</a>
                                     </li>
                                     <li>
@@ -33,11 +33,12 @@
                             <h3 class="h4">CATEGORIES</h3>
                             <div class="menu-wrap">
                                 <ul class="menu">
-                                    <li><a href="#">Marketing</a></li>
-                                    <li><a href="#">PPC</a></li>
-                                    <li><a href="#">Programming</a></li>
-                                    <li><a href="#">SEO</a></li>
-                                    <li><a href="#">Social Media</a></li>
+                                    <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
+                                    <li><a href="ppc.php">PPC</a></li>
+                                    <li><a href="email-marketing.php">Email Marketing</a></li>
+                                    <li><a href="seo.php">SEO</a></li>
+                                    <li><a href="content-marketing.php">Content Marketing</a></li>
+                                    <li><a href="e-commerce marketing.php">E-Commerce Marketing</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -50,10 +51,10 @@
                             <h3 class="h4">USEFULL LINKS</h3>
                             <div class="menu-wrap">
                                 <ul class="menu">
-                                    <li><a href="#">PRIVACY POLICY</a></li>
-                                    <li><a href="#">TERMS AND CONDITION</a></li>
-                                    <li><a href="#">REFUND POLICY</a></li>
-                                    <li><a href="#">CONTACT</a></li>
+                                    <li><a href="privacy.php">PRIVACY POLICY</a></li>
+                                    <li><a href="term.php">TERMS AND CONDITION</a></li>
+                                    <li><a href="refund.php">REFUND POLICY</a></li>
+                                    <li><a href="contact.php">CONTACT</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -80,22 +81,13 @@
             <div class="container">
                 <div class="row align-items-center">
                     <!-- Copyright -->
-                    <div class="col-md-6">
-                        <div class="copyright-text text-center text-md-left">
-                            <p class="mb-md-0">&copy; 2018 Serviney. All rights reserved.</p>
+                    <div class="col-md-12">
+                        <div class="copyright-text text-center ">
+                            <p class="mb-md-0">&copy; xxx xyz. All rights reserved.</p>
                         </div>
                     </div>
 
-                    <!-- Social Profiles -->
-                    <div class="col-md-6">
-                        <ul class="social-profiles nav justify-content-center justify-content-md-end">
-                            <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="fa fa-vimeo"></i></a></li>
-                        </ul>
-                    </div>
+                    
                 </div>
             </div>
         </div>

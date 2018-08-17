@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Document Title -->
-    <title>Serviney</title>
+    <title><?php echo $title; ?></title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/png" href="favicon.png">
@@ -61,16 +61,16 @@
                                         <ul>
                                             <li><a href="seo.php">Search Engine Optimization</a></li>
                                             <li><a href="email-marketing.php">Email Marketing Service</a></li>
-                                            <li><a href="#">Pay Per Click Service</a></li>
-                                            <li><a href="#">Social Media Marketing</a></li>
-                                            <li><a href="#">Ecommerce Marketing</a></li>
+                                            <li><a href="ppc.php">Pay Per Click Service</a></li>
+                                            <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
+                                            <li><a href="e-commerce marketing.php">Ecommerce Marketing</a></li>
                                             <li><a href="content-marketing.php">Content Marketing Service</a></li>
                                         </ul>
                                     </li>
                                     <li>
                                         <a href="pricing.php">Pricing</a>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                             <!-- End of Header-menu -->

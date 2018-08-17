@@ -1,10 +1,14 @@
 <?php
+    $title = "Content Marketing Services || Xyz";
+?>
+
+<?php
     include("header.php");
 ?>
 
     
     <!-- Service Details -->
-    <section class="pt-120 pb-120 light-bg">
+    <section class="pt-30 pb-30 light-bg">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-6">
@@ -32,13 +36,13 @@
             
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-30" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/content-writing.png" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content sm-device-padding" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                            Why Do You Need Content Marketing?
                         </h4>
@@ -62,7 +66,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/content-marketing-about-us.png" alt="" data-rjs="2">
                     </div>
@@ -75,18 +79,18 @@
 
     <!-- what we offer -->
         
-    <section class="pt-120">
+    <section class="pt-30" style="background-color: #efefef;">
         <div class="container">
             
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/content-writing.png" alt="" data-rjs="2">
+                        <img src="img/content-writer-img-3.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content sm-device-padding" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                            What We Offer:
                         </h4>
@@ -128,7 +132,7 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/icons/newsletter.png" alt="" class="rounded-circle img-fluid mb-30">
+                        <img src="img/content-counter-1.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>CONTENT</strong> STRATEGY</h4>
                         <p>One size fits all doesn’t work here. We will customized E-Commerce content strategy for your site and ensure that you get a great leverage through your content marketing investment</p>
                         
@@ -136,7 +140,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/icons/email-delivery.png" alt="" class="rounded-circle img-fluid mb-30">
+                        <img src="img/content-editing.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>WRITING</b> & EDITING</h4>
                         <p>Our content marketing experts will start customize content based on the tailored strategies defined for your project. This can be Guest Blogs, White Papers, Infographics, Case Studies, Video and more.</p>
                         
@@ -144,7 +148,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
-                        <img src="img/icons/campaign-deliver.png" alt="" class="rounded-circle img-fluid mb-30">
+                        <img src="img/content-distribution.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>CONTENT</strong> DISTRIBUTION</h4>
                         <p>With our established relationship with top notch social & online influencers, bloggers and content platform owners, our team will start distributing your content to relevant and popular sites.</p>
                         
@@ -152,7 +156,7 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
-                        <img src="img/icons/campaign-tracking.png" alt="" class="rounded-circle img-fluid mb-30">
+                        <img src="img/content-maintanence.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>CONTENT</strong> MAINTENANCE</h4>
                         <p>Swapping out outdated statistics with fresh ones, removing old screenshots, or replacing internal links with more relevant ones will reinvigorate the brand's content. Stay up-to-date!</p>
                         
@@ -163,68 +167,9 @@
     </section>
 
     <!--# How We Do-->
-   
-    <!--  counter section  -->
-
-    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
-        <div class="container">
-            
-            <div class="row justify-content-center">
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
-                        <div class="single-feature-img">
-                            <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>6x</h1>
-                            <h4 style="font-weight:normal;color:#777;">Growth in <br/>keyword ranking</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
-                        <div class="single-feature-img">
-                            <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>398%</h1>
-                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Organic traffic</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
-                        <div class="single-feature-img">
-                            <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>1105%</h1>
-                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Top 10 ranking</h4>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
-                        <div class="single-feature-img">
-                            <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>129%</h1>
-                            <h4 style="font-weight:normal;color:#777;">Increase in <br>Visit duration</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    
-
-    <!--  #counter-section  -->
-
 
     <!-- Packages Wrap -->
-    <section class="pt-120 pb-55">
+    <section class="pt-30 pb-55">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
@@ -305,11 +250,69 @@
             </div>
         </div>
     </section>
-            <!-- End of Packages -->
+    <!-- End of Packages -->
 
-            <?php
-                include("common.php");
-            ?>
+    <!--  counter section  -->
+
+    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
+        <div class="container">
+            
+            <div class="row justify-content-center">
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
+                        <div class="single-feature-img">
+                            <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>6x</h1>
+                            <h4 style="font-weight:normal;color:#777;">Growth in <br/>keyword ranking</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
+                        <div class="single-feature-img">
+                            <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>398%</h1>
+                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Organic traffic</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
+                        <div class="single-feature-img">
+                            <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>1105%</h1>
+                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Top 10 ranking</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
+                        <div class="single-feature-img">
+                            <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                        </div>
+                        <div class="single-feature-content mt-50">
+                            <h1>129%</h1>
+                            <h4 style="font-weight:normal;color:#777;">Increase in <br>Visit duration</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <!--  #counter-section  -->
+
+    <?php
+        include("common.php");
+    ?>
 
     <?php
         include("footer.php");

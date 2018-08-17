@@ -1,4 +1,8 @@
 <?php
+    $title = "Xyz";
+?>
+
+<?php
 	include("header.php");
 ?>
 
@@ -8,7 +12,7 @@
             <div class="swiper-wrapper">
                 <!-- Single slide -->
                 <div class="swiper-slide position-relative">
-                    <img src="img/slide1.jpg" data-rjs="2" alt="" class="img-responsive">
+                    <img src="img/slide1.jpg" data-rjs="2" alt="" class="img-responsive" width="100%">
                     <div class="slide-content container" >
                         <div class="row align-items-center" style="height: 427px;">
                             <div class="col-xl-12 col-lg-12" style="text-align: center">
@@ -79,7 +83,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                         <div class="single-feature-img">
-                            <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid">
+                            <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             <h1>6x</h1>
@@ -90,7 +94,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                         <div class="single-feature-img">
-                            <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid">
+                            <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             <h1>398%</h1>
@@ -101,7 +105,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid">
+                            <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             <h1>1105%</h1>
@@ -113,7 +117,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid">
+                            <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             <h1>129%</h1>
@@ -128,7 +132,7 @@
 
     <!--  #counter-section  -->
 
-        <!--How We Do Section-->
+    <!--How We Do Section-->
 
     <section class="pt-120 pb-90">
         <div class="container">
@@ -196,9 +200,9 @@
 			</div>
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/seo about.jpg" alt="" data-rjs="2">
+                        <img src="img/index-mage.png" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -218,7 +222,7 @@
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content" >
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Increase in Organic traffic.</h4>
                         <p>
 							We do not only provide SEO and Internet marketing services 
@@ -230,9 +234,9 @@
                     </div>
                 </div>
 				
-				<div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/laptop.png" alt="" data-rjs="2">
+				<div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/oraganic-trafic-section.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
             </div>

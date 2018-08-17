@@ -1,4 +1,8 @@
 <?php
+    $title = "Email Marketing || Xyz";
+?>
+
+<?php
     include("header.php");
 ?>
 
