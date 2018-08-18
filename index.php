@@ -7,31 +7,65 @@
 ?>
 
     <!-- Banner -->
-    <section>
-        <div class="main-slider swiper-container" style="max-height: 400px;">
-            <div class="swiper-wrapper">
-                <!-- Single slide -->
-                <div class="swiper-slide position-relative">
-                    <img src="img/slide1.jpg" data-rjs="2" alt="" class="img-responsive" width="100%">
-                    <div class="slide-content container" >
-                        <div class="row align-items-center" style="height: 427px;">
-                            <div class="col-xl-12 col-lg-12" style="text-align: center">
-                                <div class="slide-content-inner">
-                                    <h2 >FAST & EASY</h2>
-                                    <p style="color:#fff;">Don’t Suffer The Buffer Speeds Up to 1 Gbps with Unlimited Data</p>
-                                    <!--<a data-animate="fadeInUp" data-delay=".6" href="#" class="btn">Learn More</a>-->
+    <section id="banner" style="max-width: 100%;">
+        <div class="row">
+            <div class="col-md-12">
+                <img src="img/homepage-banner.jpg" height="100%" width="100%">
+            </div>
+        </div>
+    </section>
+    <!-- End of Banner -->
+
+
+    <!-- Banner Services Section -->
+            <section id="banner-services" class="text-center" style="margin-top: -300px;z-index: 1;left: 7%;">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-lg-3 col-sm-12">
+                            <div class="single-service bg-green color text-center">
+                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                    <i class="fas fa-align-center"></i>
                                 </div>
+                                <h4>Online Presence Analysis</h4>
+                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                                <a href="online-presence-analysis.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-12 ">
+                            <div class="single-service bg-green color text-center">
+                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                    <i class="fas fa-globe"></i>
+                                </div>
+                                <h4>Search Engine Optimization</h4>
+                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                                <a href="seo.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-12 single-service-col">
+                            <div class="single-service bg-green color text-center">
+                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                    <i class="far fa-envelope-open"></i>
+                                </div>
+                                <h4>Email<br> Marketing</h4>
+                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                                <a href="email-marketing.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-sm-12 single-service-col">
+                            <div class="single-service bg-green color text-center">
+                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                   <i class="fas fa-mouse-pointer"></i>
+                                </div>
+                                <h4>Pay Per Click Marketing</h4>
+                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                                <a href="ppc.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- End of Single slide -->
-            </div>
-            <!-- Banner Pagination -->
-            <!--<div class="swiper-pagination main-slider-pagination"></div>-->
-        </div>
-    </section>
-    <!-- End of Banner -->
+            </section>
+    <!--# Services Section-->
+
     
     <!-- Abut Us -->
     <section class="pt-120 pb-55">

@@ -12,15 +12,15 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
-                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                    <div class="service-details">
                         <h1><strong style="font-weight: 900;">Search Engine <br>Optimization</strong></h1>
                         <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
                         
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="service-img text-center" data-animate="fadeInUp" data-delay=".4">
-                        <img src="img/seo-service.jpg" alt="" data-rjs="2">
+                    <div class="service-img text-center">
+                        <img src="img/seo-service.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -46,13 +46,13 @@
             </div>
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/business.jpg" alt="" data-rjs="2">
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/business.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             Analyze a web site
                         </h4>
@@ -67,7 +67,7 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">On-Page & Off-Page Optimization</h4>
                         <p>
                             The goal of on page and off page optimization is to generate a theme consistent with your targeted keywords. The search engine is a robot, not a human … and therefore, you must follow our proven process to educate the robot so that it brings your website up when your potential customers are searching for specific business related keywords.
@@ -76,7 +76,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/seo-page-img-2.jpg" alt="" data-rjs="2">
                     </div>

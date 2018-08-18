@@ -134,6 +134,22 @@ p {
     line-height: 1.8;
     margin-bottom: 1.6rem;
 }
+
+.services-para p
+{
+    line-height: 1.8;
+    margin-bottom: 1.6rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.service-ul li 
+{
+    line-height: 1.7;
+    font-size: 15px;
+    font-weight: 600;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1rem;
@@ -1041,7 +1057,23 @@ label input[type=radio] {
 .single-service p {
     font-size: 0.9375rem;
     margin-bottom: 20px;
+    color: #464646;
 }
+.single-service h4
+{
+    color: #464646;
+}
+
+.single-service
+{
+    background-color: #fff;
+}
+
+.single-service i
+{
+    color: #464646;
+}
+
 .single-service a {
     color: #60c2a4;
     font-size: 0.875rem;
@@ -1098,6 +1130,27 @@ label input[type=radio] {
     font-size: 16px;
     line-height: 1.8;
 }
+/*banner service color*/
+
+.bg-green
+{
+    background-color: rgba(119,218,85,.7);
+}
+
+.color i
+{
+    color:#fff;
+}
+
+.color h4 {
+    color: #fff;
+}
+
+.color p {
+    color: #fff;
+}
+
+/*# baner service colr*/
 
 /*=============================================
     07: Packages
@@ -2588,6 +2641,10 @@ a.tip:hover {
     
 /*# about-us contact-form*/
 
+.main-content {
+    padding: 70px 0 30px;
+}
+
 /*Refund-Terms-privacy*/
   
 .blog-single-field {
@@ -2617,18 +2674,17 @@ a.tip:hover {
 }
 
 .breadcrumb-wrap {
-    padding: 113px 0 16px;
+    padding: 70px 0 16px;
     text-align: center;
 }
 
 .page-title {
-    font-size: 35px;
     margin: 0;
     text-transform: capitalize;
     color: #f8f9fa;
     font-weight:bolder;
-    text-align: center;
-    padding:43px;
+    text-align: left;
+    
 }
 
 .breadcrumb-item {
@@ -2639,7 +2695,7 @@ a.tip:hover {
 .breadcrumb > .active {
     color: #08d5b3;
 }
-/*
+
 @media only screen and (max-width:1024px)
 {
   div.promo-parallax
@@ -2683,6 +2739,16 @@ a.tip:hover {
     height:52vh;
   }
 }
+/*
+
+
+
+
+
+
+
+
+
 
 @media only screen and (max-width:414px)
 {
@@ -2692,9 +2758,7 @@ a.tip:hover {
   }
 }
 
-.main-content {
-    padding: 70px 0 30px;
-}
+
 
 .main-content .b-item-detail h2,h3,h4{
     color: #24282e;
@@ -2729,3 +2793,12 @@ a.tip:hover {
     width: 100%;
 }*/
 /*refun terms privacy*/
+
+/*banner section*/
+
+.bg-image
+{
+    background-image: url(img\bg\bg-2.jpg);
+}
+
+/*# Banner section*/

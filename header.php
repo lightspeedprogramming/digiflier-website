@@ -33,7 +33,7 @@
     <!-- Main header -->
     <header class="header">
 
-        <div class="main-header" data-animate="fadeInUp" data-delay=".9">
+        <div class="main-header">
             <div class="container">
 				<div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
 				  <div class="container">
@@ -65,6 +65,11 @@
                                             <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
                                             <li><a href="e-commerce marketing.php">Ecommerce Marketing</a></li>
                                             <li><a href="content-marketing.php">Content Marketing Service</a></li>
+                                            <li><a href="online-presence-analysis.php">Online Presence Analysis</a></li>
+                                            <li><a href="local-business-marketing.php">Local-Business-Marketing</a>
+                                            </li>
+                                            <li><a href="mobile-marketing.php">Mobile Marketing Services</a></li>
+                                            <li><a href="reputation-management.php">Reputation Management</a></li>
                                         </ul>
                                     </li>
                                     <li>

@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row">
                 <div class="col">
-                    <div class="page-title" data-animate="fadeInUp" data-delay="1.2">
+                    <div class="page-title">
                         <h2>About Us</h2>
                         <ul class="list-unstyled m-0 d-flex">
                             <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>

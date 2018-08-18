@@ -174,7 +174,7 @@
                 <div class="col-md-12 text-center">
                     <h3 style="font-size:32px;">OUR EMAIL MARKETING <strong>FEATURES</strong></h3>
                     <p style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-                        Digi Flier can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
+                        xyz website can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
                         technical and copywriting staff enables Digi Flier to successfully 
                         meet the needs of companies with complex<br> 
                         websites in competitive industries
