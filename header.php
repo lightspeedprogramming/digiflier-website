@@ -35,22 +35,22 @@
 
         <div class="main-header">
             <div class="container">
-				<div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
-				  <div class="container">
-					<p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:18776147291"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
-				  </div>
-				</div>
+    				<div class="fixed-top" style="text-align:center;background:#288FEB;width:100%; position:fixed;max-height: 26px;">
+    				  <div class="container">
+    					<p style="text-align:center; font-size:18px!important"><a style="color:#fff" href="tel:18776147291"><i class="fa fa-phone" style="color:white;"></i> x (xxx) xxx-xxx</a></p>
+    				  </div>
+    				</div>
                 <div class="row align-items-center" style="padding-top: 20px;">
                     <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-9">
                         <!-- Logo -->
-                        <div class="logo">
+                        <div class="logo" style="margin-left:50px;">
                             <a href="index.php" style="font-size:24px;">
                                 Xyz
                             </a>
                         </div>
                     </div>
-                    <div class="col-xl-8 col-lg-10 col-md-9 col-sm-2 col-3 text-right">
-                        <nav>
+                    <div class="col-xl-10 col-lg-10 col-md-9 col-sm-2 col-3 text-right">
+                        <nav style="margin-right:50px;">
                             <!-- Header-menu -->
                             <div class="header-menu">
                                 <ul>

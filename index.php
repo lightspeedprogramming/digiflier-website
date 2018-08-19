@@ -1,3 +1,4 @@
+
 <?php
     $title = "Xyz";
 ?>
@@ -5,7 +6,6 @@
 <?php
 	include("header.php");
 ?>
-
     <!-- Banner -->
     <section id="banner" style="max-width: 100%;">
         <div class="row">
@@ -66,7 +66,6 @@
             </section>
     <!--# Services Section-->
 
-    
     <!-- Abut Us -->
     <section class="pt-120 pb-55">
         <div class="container">
@@ -102,7 +101,7 @@
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </section>
     <!-- End of About Us -->
@@ -162,9 +161,9 @@
             </div>
         </div>
     </section>
-    
-
     <!--  #counter-section  -->
+
+		
 
     <!--How We Do Section-->
 
@@ -183,11 +182,12 @@
                         <img src="img/icons/keyword.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>KEYWORD</b> RESEARCH</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        
+
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
+
                         <img src="img/icons/onsite-optimization.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>ONSITE</b> OPTIMIZATION</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
@@ -204,10 +204,11 @@
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
+
                         <img src="img/icons/report-analysis.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>REPORTING AND ANALYSIS</b></h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                        
+					</div>
                     </div>
                 </div>
             </div>
@@ -216,11 +217,12 @@
 
     <!--# How We Do-->
 
-	
+
 	<!-- Take Our business to the nest level -->
 		
     <section class="pt-120 pb-55">
         <div class="container">
+
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h3 style="font-size:32px;">TAKE YOUR BUSINESS <b>TO THE NEXT LEVEL</b></h3>
@@ -243,38 +245,39 @@
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">What Makes Us Different.</h4>
                         <p>
-							We do not only provide SEO and Internet marketing services 
-							but we also offer a wide array of related services such as SEO 
-							friendly web design, pay per click, affiliate marketing, website audits, 
-							social media optimization, branding and several others.
-						</p>
-                       
+													We do not only provide SEO and Internet marketing services
+													but we also offer a wide array of related services such as SEO
+													friendly web design, pay per click, affiliate marketing, website audits,
+													social media optimization, branding and several others.
+												</p>
+
                     </div>
                 </div>
             </div>
-			
+
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
                     <div class="number-one-content" >
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Increase in Organic traffic.</h4>
                         <p>
-							We do not only provide SEO and Internet marketing services 
-							but we also offer a wide array of related services such as SEO 
-							friendly web design, pay per click, affiliate marketing, website audits, 
-							social media optimization, branding and several others.
-						</p>
-                       
+													We do not only provide SEO and Internet marketing services
+													but we also offer a wide array of related services such as SEO
+													friendly web design, pay per click, affiliate marketing, website audits,
+													social media optimization, branding and several others.
+												</p>
+
                     </div>
                 </div>
 				
 				<div class="col-lg-6">
                     <div class="text-center">
                         <img src="img/oraganic-trafic-section.jpg" alt="" data-rjs="2">
+
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </section>
 	<!-- take our business to the next level -->
