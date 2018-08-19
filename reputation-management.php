@@ -100,7 +100,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
                         <div class="single-feature-img">
-                            <img src="img/local-business-marketing/icons/icon-1.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                            <img src="img/reputation-management/icons/img-4.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             
@@ -114,7 +114,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
                         <div class="single-feature-img">
-                            <img src="img/local-business-marketing/icons/icon-2.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                            <img src="img/reputation-management/icons/img-5.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             
@@ -129,7 +129,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/local-business-marketing/icons/icon-3.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                            <img src="img/reputation-management/icons/img-6.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             
@@ -145,7 +145,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
                         <div class="single-feature-img">
-                            <img src="img/local-business-marketing/icons/icon-4.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
+                            <img src="img/reputation-management/icons/img-7.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
                             
@@ -164,91 +164,11 @@
 
     <!--  #our process  -->
 
-    <!--  What Does an Online Presence Analysis include? Section  -->
-    <section class="pt-30" style="background-color: #f7f7f7;">
-        <div class="container">
-          
-            
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80">
-                <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/online-presence-service/img-2.png" alt="" data-rjs="2">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 sm-device-padding">
-                    <div class="number-one-content services-para">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;margin-left: 20px;">What Does an Online Presence Analysis include ?</h4>
-                     
-                            <ul class="service-ul">
-                                <li>On-page and Off-page analysis</li>
-                                <li>Competition comparison</li>
-                                <li>Content reporting</li>
-                                <li>
-                                    Where you stand when searching keywords related to your website
-                                </li>
-                                <li>
-                                    Social Media presence
-                                </li>
-                                <li>
-                                    Brand’s visibility among search engines
-                                </li>
-                                <li>
-                                    Design and functionality of your website
-                                </li>
-                                <li>On-page and Off-page analysis</li>
-                                <li>Competition comparison</li>
-                                <li>Content reporting</li>
-                                <li>
-                                    Where you stand when searching keywords related to your website
-                                </li>
-                            </ul>                       
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </section>
-    <!--  # What Does an Online Presence Analysis include? Section  -->
-
-    <!--  Your Online Presence Evaluation Consists Of:  -->
-
-    <section class="pt-30">
-        <div class="container">
-          
-            
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80">
-                <div class="col-lg-6">
-                    <div class="number-one-content services-para">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;margin-left: 20px;">Your Online Presence Evaluation Consists Of:</h4>
-                     
-                            <ul class="service-ul">
-                                <li>A video review of our proprietary 30-point an analysis</li>
-                                <li>A detailed summary of our findings, recommendations and resources</li>
-                                <li>A 30-minute phone consultation</li>
-                                <li>Free email follow-up to insure results</li>
-                            </ul>                       
-                    </div>
-                </div>
-                
-                <div class="col-lg-6 sm-device-padding">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/online-presence-service/img-3.png" alt="" data-rjs="2">
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </section>
-
-    <!--  # Your Online Presence Evaluation Consists Of:  -->
 
     <!--  single row column  -->
 
     <!-- Banner -->
-    <section class="pt-30" style="background-image: url(img/bg/bg-2.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
+    <section class="pt-30" style="background-image: url(img/reputation-management/bg-img-2.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
         <div class="container">
           
             
@@ -281,7 +201,7 @@
     <!-- End of Banner -->
 
     <!-- Banner -->
-    <section class="pt-30" style="background-image: url(img/bg/bg-2.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
+    <section class="pt-30" style="background-image: url(img/reputation-management/bg-img-1.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
         <div class="container">
           
             
@@ -310,66 +230,6 @@
     <!-- End of Banner -->
 
     <!-- # single row column  -->
-
-    
-    <!--  counter section  -->
-
-    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
-        <div class="container">
-            
-            <div class="row justify-content-center">
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
-                        <div class="single-feature-img">
-                            <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>6x</h1>
-                            <h4 style="font-weight:normal;color:#777;"><strong>Growth in</strong> <br/>keyword ranking</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
-                        <div class="single-feature-img">
-                            <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>398%</h1>
-                            <h4 style="font-weight:normal;color:#777;"><strong>Increase in</strong> <br/>Organic traffic</h4>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
-                        <div class="single-feature-img">
-                            <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>1105%</h1>
-                            <h4 style="font-weight:normal;color:#777;"><strong>Increase in</strong> <br/>Top 10 ranking</h4>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
-                        <div class="single-feature-img">
-                            <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
-                        </div>
-                        <div class="single-feature-content mt-50">
-                            <h1>129%</h1>
-                            <h4 style="font-weight:normal;color:#777;"><strongt>Increase in</strongt> <br>Visit duration</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    
-
-    <!--  #counter-section  -->
-
 
     <?php
         include("common.php");
