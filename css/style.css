@@ -11,7 +11,7 @@ We may release future updates so it will overwrite this file. it's better and sa
 
 [Table of Content]
 
-01: General CSS 
+01: General CSS
     1.1: Default CSS
     1.2: Buttons
     1.3: Default Classes
@@ -100,7 +100,7 @@ button[type=submit] { cursor: pointer; }
 textarea { resize: none; }
 img {
     max-width: 100%;
-    height: auto; 
+    height: auto;
 }
 a {
     color: #202e39;
@@ -117,8 +117,8 @@ a:focus {
     text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6, 
-.h1, .h2, .h3, .h4, .h5, .h6 { 
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Rubik', sans-serif;
     color: #202e39;
     line-height: 1.4;
@@ -127,13 +127,29 @@ h1, .h1 { font-size: 2rem; }
 h2, .h2 { font-size: 1.875rem; }
 h3, .h3 { font-size: 1.5rem; }
 h4, .h4 { font-size: 1.125rem; }
-h5, .h5 { font-size: 1rem; } 
+h5, .h5 { font-size: 1rem; }
 h6, .h6 { font-size: 0.875rem; }
 
 p {
     line-height: 1.8;
     margin-bottom: 1.6rem;
 }
+
+.services-para p
+{
+    line-height: 1.8;
+    margin-bottom: 1.6rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.service-ul li 
+{
+    line-height: 1.7;
+    font-size: 15px;
+    font-weight: 600;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1rem;
@@ -303,14 +319,14 @@ label input[type=radio] {
 }
 
 .bordered-title {
-    font-size: 1.125rem;
+    font-size: -0.875rem;
     border-bottom: 1px solid #e2edea;
     padding-bottom: 8px;
     margin-bottom: 30px;
 }
 
 .table-bordered,
-.table-bordered td, 
+.table-bordered td,
 .table-bordered th {
     border-color: #e2edea;
 }
@@ -517,22 +533,22 @@ label input[type=radio] {
 }
 @-webkit-keyframes spin {
     0% {
-        -webkit-transform: rotate(0deg); 
-        transform: rotate(0deg); 
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
     }
-    100% { 
-        -webkit-transform: rotate(360deg); 
-        transform: rotate(360deg); 
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
     }
 }
 @keyframes spin {
-    0% { 
-        -webkit-transform: rotate(0deg); 
-        transform: rotate(0deg); 
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
     }
-    100% { 
-        -webkit-transform: rotate(360deg); 
-        transform: rotate(360deg); 
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
     }
 }
 .spin {
@@ -601,7 +617,7 @@ label input[type=radio] {
     text-transform: capitalize;
 }
 .section-title p {
-    font-size: 0.875rem;
+    font-size: 16px;
 }
 .section-title-white h2,
 .section-title-white p {
@@ -638,7 +654,7 @@ label input[type=radio] {
     color: #fff;
     width: 0;
     -webkit-transition: all .2s;
-    transition: all .2s; 
+    transition: all .2s;
 }
 .header-top-right form:hover input {
     padding: 0 15px;
@@ -714,9 +730,9 @@ label input[type=radio] {
     box-shadow: 0 0 0.625rem rgba(0,0,0,0.15);
     width: 100%;
 }
-.header-menu, .header-menu ul, 
-.header-menu ul li, 
-.header-menu ul li a, 
+.header-menu, .header-menu ul,
+.header-menu ul li,
+.header-menu ul li a,
 .header-menu #menu-button {
     margin: 0;
     padding: 0;
@@ -859,8 +875,8 @@ label input[type=radio] {
     right: 15px;
     top: 13px;
 }
-.header-menu ul ul li:hover > a, 
-.header-menu ul ul li > a:hover, 
+.header-menu ul ul li:hover > a,
+.header-menu ul ul li > a:hover,
 .header-menu ul ul li.active > a {
     color: #605cb8;
 }
@@ -900,7 +916,7 @@ label input[type=radio] {
     left: 0;
     top: 0;
     width: 100%;
-    height: 100%;
+    height: 0%;
     background: rgba(0,0,0,0.3);
 }
 .slide-content .row {
@@ -953,15 +969,9 @@ label input[type=radio] {
     position: relative;
     padding-bottom: 15px;
     margin-bottom: 10px;
+    font-size: 36px;
 }
-.single-feature-content h4:before {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    width: 40px;
-    height: 1px;
-    background-color: #60c2a4;
-}
+
 .text-center .single-feature-content h4:before {
     left: 0;
     right: 0;
@@ -974,8 +984,12 @@ label input[type=radio] {
     right: 0;
 }
 .single-feature p {
-    font-size: 0.875rem;
-    margin: 0;
+    text-transform: none;
+    font-size: 15px;
+    font-weight: 400;
+    padding-top: 3px;
+    margin-top: 30px;
+    letter-spacing: 0;
 }
 .single-feature-img-left .single-feature-img {
     text-align: left;
@@ -1001,6 +1015,13 @@ label input[type=radio] {
         -ms-flex-align: center;
             align-items: center;
 }
+
+.single-feature .single-feature-img i
+{
+    font-size: 50px;
+}
+
+
 .single-feature-img-left .single-feature-img,
 .single-feature-img-right .single-feature-img {
     -webkit-box-flex: 0;
@@ -1041,7 +1062,23 @@ label input[type=radio] {
 .single-service p {
     font-size: 0.9375rem;
     margin-bottom: 20px;
+    color: #464646;
 }
+.single-service h4
+{
+    color: #464646;
+}
+
+.single-service
+{
+    background-color: #fff;
+}
+
+.single-service i
+{
+    color: #464646;
+}
+
 .single-service a {
     color: #60c2a4;
     font-size: 0.875rem;
@@ -1092,6 +1129,33 @@ label input[type=radio] {
     top: 3px;
     font-size: 0.75rem;
 }
+.service-details p
+{
+    color: #616161;
+    font-size: 16px;
+    line-height: 1.8;
+}
+/*banner service color*/
+
+.bg-green
+{
+    background-color: rgba(119,218,85,.7);
+}
+
+.color i
+{
+    color:#fff;
+}
+
+.color h4 {
+    color: #fff;
+}
+
+.color p {
+    color: #fff;
+}
+
+/*# baner service colr*/
 
 /*=============================================
     07: Packages
@@ -1861,7 +1925,7 @@ label input[type=radio] {
     margin-right: 3px;
 }
 .review-count {
-    font-size: 0.875rem; 
+    font-size: 0.875rem;
     color: #777;
 }
 
@@ -2565,6 +2629,182 @@ a.tip:hover {
     padding: 10px 15px;
 }
 
-/*our process*/
+
+/*about us contact-form*/
+
+    @media (max-width: 414px)
+    {
+        .theme-bg-overlay .pd-top
+        {
+            padding-top: 50px;
+        }
+
+        .row .sm-device-padding
+        {
+            padding-top: 30px;
+        }
+    }
     
-/*# our process*/
+/*# about-us contact-form*/
+
+.main-content {
+    padding: 70px 0 30px;
+}
+
+/*Refund-Terms-privacy*/
+  
+.blog-single-field {
+    padding: 120px 0 70px;
+
+}
+
+.blog-single-col h2
+{
+  font-size: 28px;
+  color: #424242;
+  font-weight: bold;
+  font-family: Rubik-Medium;
+}
+
+.blog-single-col h3 {
+    margin: 15px 0;
+    font-size: 22px;
+}
+
+
+.promo-parallax {
+    background-size: cover;
+    z-index: 1;
+    position: relative;
+    height: 30vh;
+}
+
+.breadcrumb-wrap {
+    padding: 70px 0 16px;
+    text-align: center;
+}
+
+.page-title {
+    margin: 0;
+    text-transform: capitalize;
+    color: #f8f9fa;
+    font-weight:bolder;
+    text-align: left;
+    
+}
+
+.breadcrumb-item {
+    font-family: Roboto-Medium;
+    text-transform: capitalize;
+}
+
+.breadcrumb > .active {
+    color: #08d5b3;
+}
+
+@media only screen and (max-width:1024px)
+{
+  div.promo-parallax
+  {
+    height:21vh;
+  }
+}
+
+@media only screen and (max-width:768px)
+{
+  div.promo-parallax
+  {
+    height: 27vh;
+  }
+}
+
+@media only screen and (width: 1019px)
+{
+  div.promo-parallax
+  {
+    height: 50vh;
+  }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 767px)
+{
+  div.promo-parallax
+  {
+    height: 40vh;
+  }
+  div.breadcrumb-wrap
+  {
+    padding: 94px 0px 16px;
+  }
+}
+
+@media only screen and (max-width: 360px)
+{
+  div.promo-parallax
+  {
+    height:52vh;
+  }
+}
+/*
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:414px)
+{
+  .main-content .b-item-detail h2
+  {
+    padding-top: 20px;
+  }
+}
+
+
+
+.main-content .b-item-detail h2,h3,h4{
+    color: #24282e;
+    font-family: Rubik-Medium;
+    margin: 0 0 15px;
+    line-height: 1;
+    font-size: 30px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.main-content .b-item-detail h3 {
+   
+    font-size: 22px;
+    
+}
+
+.main-content .b-item-detail h4 {
+   
+    font-size: 18px;
+    
+}
+
+.main-content .b-item-detail h4 {
+   
+    font-size: 16px;
+    
+}
+
+.main-content .b-item-thumb > img {
+    height: 100%;
+    width: 100%;
+}*/
+/*refun terms privacy*/
+
+/*banner section*/
+
+.bg-image
+{
+    background-image: url(img\bg\bg-2.jpg);
+}
+
+/*# Banner section*/
