@@ -1,7 +1,7 @@
 
 
 <?php
-    $title=" Price || Xyz ";
+    $title=" Pricing || Xyz ";
     include("header.php");
 ?>
 
