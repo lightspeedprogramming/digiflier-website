@@ -8,7 +8,7 @@
 
     
     <!-- Service Details -->
-    <section class="pt-120 pb-120 light-bg">
+    <section class="pt-50 pb-50 light-bg">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -31,7 +31,7 @@
 
     <!-- Take Our business to the nest level -->
         
-    <section class="pt-120 pb-55">
+    <section class="pt-50 pb-55">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -51,7 +51,7 @@
                         <img src="img/business.jpg" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             Analyze a web site
@@ -90,7 +90,7 @@
 
     <!--How We Do Section-->
 
-    <section class="pt-120 pb-90">
+    <section class="pt-50 pb-50">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -190,7 +190,7 @@
                         </div>
                         <div class="single-feature-content mt-50">
                             <h1>129%</h1>
-                            <h4 style="font-weight:normal;color:#777;"><strongt>Increase in</strongt> <br>Visit duration</h4>
+                            <h4 style="font-weight:normal;color:#777;"><strong>Increase in</strong> <br>Visit duration</h4>
                         </div>
                     </div>
                 </div>

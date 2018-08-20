@@ -35,8 +35,8 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
-                    <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
-                        <h2>SEO PRICING PACKAGES</h2>
+                    <div class="section-title text-center">
+                        <h2><font style="font-weight: 100;">SEO</font> <strong>PRICING PACKAGES</strong></h2>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
             <!-- Packages -->
             <div class="row pb-90">
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="single-package text-center">
                         <h4>Basic</h4>
                         <span style="font-size: 23px;color: green;">$450.00/MO</span>
                         <hr>
@@ -78,7 +78,7 @@
                     </div>
                 </div>-->
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay=".7">
+                    <div class="single-package text-center">
                         <h4>Standard</h4>
                         <span style="font-size: 23px;color: green;">$850.00/MO</span>
                         <hr>
@@ -94,7 +94,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-package text-center" data-animate="fadeInUp" data-delay="1">
+                    <div class="single-package text-center">
                         <h4>Professional</h4>
                         <span style="font-size: 23px;color: green;">$1499.00/MO</span>
                         <hr>
@@ -195,6 +195,159 @@
     </section>
     <!-- End of Packages Wrap -->
 
+    <!--  Pricing Table  -->
+    <section class="pt-30 pb-90">
+        <div class="container text-center">
+
+            <div class="row">
+                <div class="col-md-12 text-left">
+                    <h2 class="section-title"><font style="font-weight: 100;">SEO</font> <strong>PRICING TABLES</strong></h2>
+                    <p>
+                        Listed below are our Standard SEO prices and service packages. One of these options may suit your business goals and budget and offer you a great return on your marketing investment. However, we do offer custom online marketing campaigns and requests. If you believe none of these plans fit the needs of your organization, please contact us now for a personalized marketing solution that fits your needs.
+                    </p>
+                </div>
+            </div>
+            <div class="row header mt-50" style="background-color: #77da55;">
+                <div class="col-md-3">
+                    <h4 class="">Features</h4>
+                </div>
+                <div class="col-md-3">
+                    <h4>Basic</h4>
+                </div>
+                <div class="col-md-3">
+                    <h4>Standard</h4>
+                </div>
+                <div class="col-md-3">
+                    <h4>
+                        Proffessional
+                    </h4>
+                </div>
+            </div>
+
+            <div class="row header" style="background-color: #77da55;">
+                <div class="col-md-3">
+                    <h4 class="">Price</h4>
+                </div>
+                <div class="col-md-3">
+                    <h4>$400/mo</h4>
+                </div>
+                <div class="col-md-3">
+                    <h4>$800/mo</h4>
+                </div>
+                <div class="col-md-3">
+                    <h4>
+                        $1300/mo
+                    </h4>
+                </div>
+            </div>
+
+            <div class="row price-font col-padding row-padding">
+                <div class="col-md-3">
+                    <h4>Keywords Optimized</h4>
+                </div>
+                <div class="col-md-3">
+                    <h6>5</h6>
+                </div>
+                <div class="col-md-3">
+                    <h6>10</h6>
+                </div>
+                <div class="col-md-3">
+                    <h6>20</h6>
+                </div>
+            </div>
+
+          <div class="row price-font color-icon row-padding row-light-grey">
+                <div class="col-md-3">
+                    <h4>Comprehensive On-site Analysis</h4>
+                </div>
+                <div class="col-md-3">
+                    <i  class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+            </div>
+
+            <div class="row price-font color-icon row-padding">
+                <div class="col-md-3">
+                    <h4>HTML Optimization</h4>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+            </div>
+
+            <div class="row price-font color-icon row-padding row-light-grey">
+                <div class="col-md-3">
+                    <h4>Robots.txt Creation</h4>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+            </div>
+
+            <div class="row price-font color-icon row-padding">
+                <div class="col-md-3">
+                    <h4>Sitemap.xml Creation</h4>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+            </div>
+
+            <div class="row price-font color-icon row-padding row-light-grey">
+                <div class="col-md-3">
+                    <h4>Internal Links Optimization</h4>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+                <div class="col-md-3">
+                    <i class="fas fa-check"></i>
+                </div>
+            </div>
+
+            <div class="row price-font color-icon row-padding ">
+                <div class="col-md-3">
+                    <h4>Call us for more info :</h4>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="btn btn-sm magicmore">BUY</a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="btn btn-sm magicmore">BUY</a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#" class="btn btn-sm magicmore">BUY</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--  # Pricing Table  -->
 
 <?php
     include("footer.php");

@@ -7,34 +7,17 @@
 ?>
 
     <!-- Banner -->
-    <section>
-        <div class="main-slider swiper-container" style="max-height: 400px;">
-            <div class="swiper-wrapper">
-                <!-- Single slide -->
-                <div class="swiper-slide position-relative">
-                    <img src="img/contact-us.jpg" alt="" class="img-responsive img-fluid" width="100%">
-                    <div class="slide-content container" >
-                        <div class="row align-items-center" style="height: 427px;">
-                            <div class="col-xl-12 col-lg-12" style="text-align: center">
-                                <div class="slide-content-inner pb-120">
-                                    <h2 style="color: #ff007f">FAST & EASY</h2>
-                                    <h3 style="color:#76d621; font-weight: 300px;">Don’t Suffer The Buffer Speeds Up to 1 Gbps with Unlimited Data</h3>
-                                    <!--<a data-animate="fadeInUp" data-delay=".6" href="#" class="btn">Learn More</a>-->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- End of Single slide -->
+    <section id="banner img-responsive" style="max-width: 100%;height:300px;background-image: url(img/homepage-banner.jpg);background-size: cover; background-repeat: no-repeat;">
+        <div class="row">
+            <div class="col-md-12 pt-90">
+                <h2 class="page-title text-center">Contact Us</h2>
             </div>
-            <!-- Banner Pagination -->
-            <!--<div class="swiper-pagination main-slider-pagination"></div>-->
         </div>
     </section>
     <!-- End of Banner -->
 
     <!-- Contacts -->
-    <section class="">
+    <section class="mb-60">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">

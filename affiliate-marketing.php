@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-6">
-                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                    <div class="service-details">
                         <h1 style="font-weight: 900;">Affiliate Marketing</h1>
                         <p>
                             Affiliate marketing is the process of earning a commission by promoting other people’s (or company’s) products. You find a product you like, promote it to others, and earn a piece of the profit for each sale that you make. Affiliate marketing is a cost effective means of combining established marketing techniques with technology for business success.
@@ -43,7 +43,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">How Does Affiliate Marketing Work?</h4>
                         <p>

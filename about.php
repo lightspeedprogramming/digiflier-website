@@ -54,7 +54,7 @@
                         <img src="img/about-us.jpg" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="single-about-us" data-animate="fadeInUp" data-delay=".1">

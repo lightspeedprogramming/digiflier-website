@@ -67,7 +67,7 @@
     <!--# Services Section-->
 
     <!-- Abut Us -->
-    <section class="pt-120 pb-55">
+    <section class="pt-90 pb-55">
         <div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
@@ -80,12 +80,12 @@
 			</div>
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/seo about.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 24px;line-height: 1.2;margin-bottom: 10px;">We help your site get found.</h4>
                         <p>
@@ -220,14 +220,14 @@
 
 	<!-- Take Our business to the nest level -->
 		
-    <section class="pt-120 pb-55">
+    <section class="pt-50 pb-55">
         <div class="container">
 
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<h3 style="font-size:32px;">TAKE YOUR BUSINESS <b>TO THE NEXT LEVEL</b></h3>
 					<p style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-						Digi Flier can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
+						xyzr can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
 						technical and copywriting staff enables Digi Flier to successfully 
 						meet the needs of companies with complex<br> 
 						websites in competitive industries
@@ -235,7 +235,7 @@
 				</div>
 			</div>
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+            <div class="row align-items-center pb-30" style="margin-bottom:35px;">
                 <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/index-mage.png" alt="" data-rjs="2">
@@ -256,7 +256,7 @@
             </div>
 
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80">
+            <div class="row align-items-center pb-30">
                 <div class="col-lg-6">
                     <div class="number-one-content" >
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Increase in Organic traffic.</h4>
