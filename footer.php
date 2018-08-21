@@ -5,7 +5,7 @@
                 <div class="row">
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".1">
+                        <div class="footer-widget mb-30">
                             <h3 class="h4">Our Office</h3>
                             <div class="contact-widget-content">
                                 <ul class="list-unstyled">
@@ -29,7 +29,7 @@
 
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".3">
+                        <div class="footer-widget mb-30">
                             <h3 class="h4">CATEGORIES</h3>
                             <div class="menu-wrap">
                                 <ul class="menu">
@@ -47,7 +47,7 @@
 
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".5">
+                        <div class="footer-widget mb-30">
                             <h3 class="h4">USEFULL LINKS</h3>
                             <div class="menu-wrap">
                                 <ul class="menu">
@@ -63,7 +63,7 @@
 
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
-                        <div class="footer-widget mb-30" data-animate="fadeInUp" data-delay=".7">
+                        <div class="footer-widget mb-30">
                             <h3 class="h4">ABOUT US</h3>
                             <div class="menu-wrap">
                                 <P>
@@ -83,7 +83,7 @@
                     <!-- Copyright -->
                     <div class="col-md-12">
                         <div class="copyright-text text-center ">
-                            <p class="mb-md-0">&copy; xxx xyz. All rights reserved.</p>
+                            <p class="mb-md-0">&copy; xyz All rights reserved.</p>
                         </div>
                     </div>
 

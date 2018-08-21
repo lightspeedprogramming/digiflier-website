@@ -359,6 +359,8 @@ label input[type=radio] {
 .mb-50 { margin-bottom: 50px; }
 .mt-30 { margin-top: 30px; }
 .mb-30 { margin-bottom: 30px; }
+.mt-10 { margin-top: 15px; }
+.mb-10 { margin-bottom: 15px; }
 
 /* 1.5: Animations */
 .animated {
@@ -861,7 +863,7 @@ label input[type=radio] {
     opacity: 1;
 }
 .header-menu ul ul li a {
-    width: 180px;
+    width: 120px;
     padding: 10px 20px;
     color: #555c55;
     font-size: 0.875rem;
@@ -2631,7 +2633,7 @@ a.tip:hover {
 
 /*about us contact-form*/
 
-    @media (max-width: 414px)
+    @media (max-width: 768px)
     {
         .theme-bg-overlay .pd-top
         {
@@ -2643,6 +2645,7 @@ a.tip:hover {
             padding-top: 30px;
         }
     }
+
     
 /*# about-us contact-form*/
 
@@ -2744,15 +2747,57 @@ a.tip:hover {
     height:52vh;
   }
 }
+
+/*pricing table*/
+
+.row-padding {
+    padding: 10px 0px 10px 0px;
+}
+
+.row-light-grey
+{
+    background-color: #f5f5f5; 
+}
+
+.price-font h4,h6
+{
+    color: #616161 !important;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.col-padding h4,h6,i 
+{
+    padding: 5px 0px 5px 0px;
+}
+
+.color-icon i
+{
+    padding: 5px 0px 5px 0px;
+    color: #00C376;
+}
+
+.magicmore
+{
+    background: #51c1e9;
+    border-radius: 50px;
+    color: #fff !important;
+    padding: 7px 20px;
+    transition: all 0.3s ease;
+}
+
+.header h4
+{
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.2;
+    padding: 15px 20px;
+    font-weight: 600;
+}
+/*# pricing table*/
+
+
 /*
-
-
-
-
-
-
-
-
 
 
 @media only screen and (max-width:414px)
@@ -2801,9 +2846,45 @@ a.tip:hover {
 
 /*banner section*/
 
+#banner .img-wrap
+{
+    height: 500px;
+    width: 100%;
+}
+
+.img-wrap .heading-title h1
+{
+    color: #fff;
+    text-align: center;
+    font-size:70px;
+}
+
+.heading-title p
+{
+    text-align: center;
+    color: #fff;
+}
+
+.heading-title
+{
+    padding-top: 90px;
+}
+
+@media (max-width: 414px)
+{
+    .img-wrap .heading-title h1
+    {
+        color: #fff;
+        text-align: center;
+        font-size:30px;
+    }
+}
+
+
 .bg-image
 {
     background-image: url(img\bg\bg-2.jpg);
 }
-
+.dropdown-menu .megamenu .row{margin-left: -50%; max-width: 1280px;}
 /*# Banner section*/
+.container .tagpoint_container{margin-left: -50%;}

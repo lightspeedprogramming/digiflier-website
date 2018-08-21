@@ -7,10 +7,17 @@
 	include("header.php");
 ?>
     <!-- Banner -->
-    <section id="banner" style="max-width: 100%;">
+    <section id="banner" style="max-width: 100%;height: 700px;">
         <div class="row">
             <div class="col-md-12">
-                <img src="img/homepage-banner.jpg" height="100%" width="100%">
+                <div class="img-wrap" style="background-image: url('img/bg/bg-2.jpg');">
+                    <div class="heading-title">
+                        <h1 style=""><strong>Fast & Easy</strong></h1>
+                        <p>
+                            We are building bridges in seo technology in order to <br>connect the client’s goal to reality.
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -18,12 +25,12 @@
 
 
     <!-- Banner Services Section -->
-            <section id="banner-services" class="text-center" style="margin-top: -300px;z-index: 1;left: 7%;">
+            <section id="banner-services" class="text-center" style="margin-top: -390px; z-index: 1;left: 7%;">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-lg-3 col-sm-12">
                             <div class="single-service bg-green color text-center">
-                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                <div class="mt-10 mb-10" style="font-size: 50px;">
                                     <i class="fas fa-align-center"></i>
                                 </div>
                                 <h4>Online Presence Analysis</h4>
@@ -33,7 +40,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-12 ">
                             <div class="single-service bg-green color text-center">
-                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                <div class="mt-10 mb-10" style="font-size: 50px;">
                                     <i class="fas fa-globe"></i>
                                 </div>
                                 <h4>Search Engine Optimization</h4>
@@ -43,7 +50,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-12 single-service-col">
                             <div class="single-service bg-green color text-center">
-                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                <div class="mt-10 mb-10" style="font-size: 50px;">
                                     <i class="far fa-envelope-open"></i>
                                 </div>
                                 <h4>Email<br> Marketing</h4>
@@ -53,7 +60,7 @@
                         </div>
                         <div class="col-lg-3 col-sm-12 single-service-col">
                             <div class="single-service bg-green color text-center">
-                                <div class="mt-30 mb-30" style="font-size: 50px;">
+                                <div class="mt-10 mb-10" style="font-size: 50px;">
                                    <i class="fas fa-mouse-pointer"></i>
                                 </div>
                                 <h4>Pay Per Click Marketing</h4>
@@ -81,12 +88,12 @@
 			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/seo about.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
-                <div class="col-lg-6 sm-device-padding">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                <div class="col-lg-6 col-md-12 sm-device-padding">
+                    <div class="number-one-content">
                         <h4 style="font-size: 24px;line-height: 1.2;margin-bottom: 10px;">We help your site get found.</h4>
                         <p>
 							Our Consultancy SEO services provide research, analysis and recommendations for all websites, but especially for those having difficulty with their Search Engine visibility. Digi Flier successfully meet the needs of companies with complex websites in competitive industries.

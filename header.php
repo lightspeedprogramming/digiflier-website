@@ -24,6 +24,8 @@
     <link rel="stylesheet" href="css/colors/theme-color-1.css">
     <link rel="stylesheet" href="css/custom.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="menu.css">
 </head>
 
 <body>
@@ -55,8 +57,8 @@
                             <div class="header-menu">
                                 <ul>
                                     <li class="active"><a href="index.php">Home</a></li>
-									<li><a href="about.php">About</a></li>
-                                    <li>
+									                  <li><a href="about.php">About</a></li>
+                                    <!--<li>
                                         <a href="#">Services <i class="fa fa-caret-down"></i></a>
                                         <ul>
                                             <li><a href="seo.php">Search Engine Optimization</a></li>
@@ -73,7 +75,104 @@
                                             <li><a href="conversion-rate.php">Conversion Rate Optimization</a></li>
                                             <li><a href="affiliate-marketing.php">Affiliate Marketing</a></li>
                                         </ul>
-                                    </li>
+                                    </li>-->
+
+                                    <!--  sanjay sir dropdown menu  -->
+                                    
+                                    <li>
+               <a href="" class="dropdown-toggle" data-toggle="dropdown"> Services <b class="caret"></b> </a>
+               <ul class="dropdown-menu megamenu row">
+                  <li>
+                    <div class="container tagpoint_container">
+                      <div class="row">
+                        
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="local-business-marketing.php" class="thumbnail"><img src="02/icpt-local-seo.png" /></a>
+                          <h5>Local Business Marketing</h5>
+                          <a class="menu_btn" href="local-business-marketing.php">Read more</a>
+                        </div>
+
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="affiliate-marketing.php" class="thumbnail"><img src="02/icpt-affiliate.png" /></a>
+                         <h5>Affiliate Marketing Service</h5>
+                         <a class="menu_btn" href="affiliate-marketing.php">Read more</a>
+                        </div>
+
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="online-presence.php" class="thumbnail"><img src="02/icpt-analy-n.png" /></a>
+                          <h5>Online presence analysis</h5>
+                              <a class="menu_btn" href="online-presence.php">Read more</a>
+                        </div>
+                        
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="mobile-marketing.php" class="thumbnail"><img src="02/icpt-mobilem.png" /></a>
+                          <h5>Mobile Marketing Service</h5>
+                          <a class="menu_btn" href="mobile-marketing.php">Read more</a>            
+                        </div>
+                     
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="seo.php" class="thumbnail">
+                          <img src="02/icpt-seo.png" /></a>
+                          <h5>Search Engine Optimization</h5>
+                            <a class="menu_btn" href="seo.php">Read more</a>
+                        </div>
+                       
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="ecommerce-marketing.php" class="thumbnail">
+                          <img src="02/icpt-ecomrc.png" /></a>
+                          <h5>Ecommerce Marketing</h5>
+                          <a class="menu_btn" href="ecommerce-marketing.php">Read more</a>
+                        </div>
+                        
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="pay-per-click.php" class="thumbnail">
+                          <img src="02/icpt-ppc.png" /></a>
+                          <h5>Pay Per Click Service</h5>
+                          <a class="menu_btn" href="pay-per-click.php">Read more</a>
+                        </div>
+                        
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="conversion-rate-optimization.php" class="thumbnail">
+                          <img src="02/icpt-conver.png" /></a>
+                         <h5>Conversion Rate Optimization</h5>
+                         <a class="menu_btn" href="conversion-rate-optimization.php">Read more</a>
+                        </div>
+
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="content-marketing.php" class="thumbnail">
+                          <img src="02/icpt-contentm.png" /></a>
+                          <h5>Content Marketing Service</h5>
+                          <a class="menu_btn" href="content-marketing.php">Read more</a>
+                        </div>
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="reputation-management.php" class="thumbnail">
+                          <img src="02/icpt-repu.png" /></a>
+                          <h5>Reputation Management</h5>
+                          <a class="menu_btn" href="reputation-management.php">Read more</a>
+                       </div>
+                       <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="email-marketing.php" class="thumbnail">
+                          <img src="02/icpt-emailm.png" /></a>
+                          <h5>Email Marketing Service</h5>
+                          <a class="menu_btn" href="email-marketing.php">Read more</a>
+                        </div>
+                        
+                        <div class="col-md-2 col-sm-6 col-12" style="margin-left:2px;padding:4px;">
+                          <a href="social-media-marketing.php" class="thumbnail">
+                          <img src="02/icpt-socialm.png" /></a>
+                          <h5>Social Media Marketing</h5>
+                          <a class="menu_btn" href="social-media-marketing.php">Read more</a>
+                        </div>
+                       </div>
+                  </div>
+                </li>
+                
+               </ul>
+            </li>
+
+                                    <!--  #  sanjay sir dropdown menu  -->
+
+
                                     <li>
                                         <a href="pricing.php">Pricing</a>
                                     </li>
