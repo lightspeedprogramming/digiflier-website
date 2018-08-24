@@ -28,50 +28,170 @@
             <section id="banner-services" class="text-center" style="margin-top: -390px; z-index: 1;left: 7%;">
                 <div class="container">
                     <div class="row text-center">
-                        <div class="col-lg-3 col-sm-12">
-                            <div class="single-service bg-green color text-center">
-                                <div class="mt-10 mb-10" style="font-size: 50px;">
-                                    <i class="fas fa-align-center"></i>
-                                </div>
-                                <h4>Online Presence Analysis</h4>
-                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                                <a href="online-presence-analysis.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
-                            </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="mobile-app-development.php">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/mobile-app-development/icons/mobile-app-development.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Mobile <br>App Development</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
                         </div>
-                        <div class="col-lg-3 col-sm-12 ">
-                            <div class="single-service bg-green color text-center">
-                                <div class="mt-10 mb-10" style="font-size: 50px;">
-                                    <i class="fas fa-globe"></i>
-                                </div>
-                                <h4>Search Engine Optimization</h4>
-                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                                <a href="seo.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
-                            </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="affiliate-marketing.php">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/affiliate-marketing/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Affiliate Marketing Services</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
                         </div>
-                        <div class="col-lg-3 col-sm-12 single-service-col">
-                            <div class="single-service bg-green color text-center">
-                                <div class="mt-10 mb-10" style="font-size: 50px;">
-                                    <i class="far fa-envelope-open"></i>
-                                </div>
-                                <h4>Email<br> Marketing</h4>
-                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                                <a href="email-marketing.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
-                            </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/mobile-app-hosting/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Mobile<br> App <br>Hosting</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
                         </div>
-                        <div class="col-lg-3 col-sm-12 single-service-col">
-                            <div class="single-service bg-green color text-center">
-                                <div class="mt-10 mb-10" style="font-size: 50px;">
-                                   <i class="fas fa-mouse-pointer"></i>
-                                </div>
-                                <h4>Pay Per Click Marketing</h4>
-                                <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
-                                <a href="ppc.php" class="btn btn-md btn-primary" style="color: #fff;">Read More</a>
-                            </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/email-marketing-servers/icons/icon-1.svg" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Email Marketing Servers</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
                         </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="seo.php">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/search-engine-optimization/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Search Engine Optimization</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/email-hosting-services/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Email Hosting Services</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img\moile-marketing-services\icons\icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Mobile Marketing Services</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/email-marketing-services/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Email Marketing Services</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img\local-business-marketing\icons\icon-5.ico" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Local Business Marketing</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="#">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/content-marketing-services/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Content Marketing Services</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="ppc.php">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/pay-per-click-services/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Pay Per Click Services</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+
+                        <div class="col-lg-2 col-sm-3 col-12">
+                            <a href="social-media-marketing.php">
+                                <div class="single-service single-blog bg-green color text-center">
+                                    <div class="img-wrap">
+                                        <img src="img/social-media-marketing-services/icons/icon-1.png" class="rounded-circle">
+                                    </div>
+                                    <div class="content text-center">
+                                        <h4>Social Media Marketing</h4>
+                                    </div>
+                                </div>    
+                            </a>
+                            
+                        </div>
+                        
                     </div>
                 </div>
             </section>
     <!--# Services Section-->
+
+
 
     <!-- Abut Us -->
     <section class="pt-90 pb-55">

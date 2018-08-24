@@ -30,7 +30,7 @@
 
 <body>
     <!-- Preloader -->
-    <div class="preLoader"></div>
+    <!--<div class="preLoader"></div>-->
 
     <!-- Main header -->
     <header class="header">
@@ -58,9 +58,15 @@
                                 <ul>
                                     <li class="active"><a href="index.php">Home</a></li>
 									                  <li><a href="about.php">About</a></li>
-                                    <!--<li>
+                                    <li>
                                         <a href="#">Services <i class="fa fa-caret-down"></i></a>
                                         <ul>
+                                            <li><a href="mail-hosting.php">Email Hosting</a></li>
+                                            <li><a href="domain-registration.php">Domain Registering</a></li>
+                                            <li><a href="website-hosting.php">Website Hosting</a></li>
+                                            <li><a href="website-development.php">Website Development</a></li>
+                                            <li><a href="mobile-app-hosting.php">Mobile App Hosting</a></li>
+                                            <li><a href="mobile-app-designing.php">Mobile App Designing</a></li>
                                             <li><a href="seo.php">Search Engine Optimization</a></li>
                                             <li><a href="email-marketing.php">Email Marketing Service</a></li>
                                             <li><a href="ppc.php">Pay Per Click Service</a></li>
@@ -75,13 +81,13 @@
                                             <li><a href="conversion-rate.php">Conversion Rate Optimization</a></li>
                                             <li><a href="affiliate-marketing.php">Affiliate Marketing</a></li>
                                         </ul>
-                                    </li>-->
+                                    </li>
 
                                     <!--  sanjay sir dropdown menu  -->
                                     
-                                    <li>
+                                    <!--<li>
                <a href="" class="dropdown-toggle" data-toggle="dropdown"> Services <b class="caret"></b> </a>
-               <ul class="dropdown-menu megamenu row">
+               <ul class="dropdown-menu megamenu row" style="margin-right:20%;">
                   <li>
                     <div class="container tagpoint_container">
                       <div class="row">
@@ -168,7 +174,7 @@
                 </li>
                 
                </ul>
-            </li>
+            </li>-->
 
                                     <!--  #  sanjay sir dropdown menu  -->
 
