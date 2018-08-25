@@ -6,6 +6,21 @@
     include("header.php");
 ?>
 
+
+    <!-- Banner -->
+    <section id="banner" style="max-width: 100%;height: 302px;">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="img-wrap-services" style="background-image: url('img/bg/bg-3.jpg');">
+                    <div class="heading-title">
+                        <h4 style=""><strong>Affiliate Marketing</strong></h4>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Banner -->
     
     <!-- Service Details -->
     <section class="pt-30 pb-30 light-bg">

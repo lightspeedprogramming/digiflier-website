@@ -1,0 +1,129 @@
+
+
+.pnbtn {
+    background: #E88C2C none repeat scroll 0 0;
+    border-radius: 50px;
+    color: #fff;
+    display: inline-block;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 50px 0;
+    padding: 5px 50px;
+}
+.headbox1 h4 {
+    font-size: 33px;
+    font-weight: 700;
+    margin-bottom: 34px;
+    position: relative;
+    z-index: 1;
+}
+
+.our-process {
+    background-image: url(../images/processbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px 0;
+    width: 100%;
+}
+.simlepbox {
+    margin: 20px 0;
+    position: relative;
+    text-align: center;
+}
+.simlepbox::before {
+    background: rgba(0, 0, 0, 0) url(../img/process/arrow.png) no-repeat;
+    content: "";
+    height: 40px;
+    position: absolute;
+    right: -35px;
+    top: 30%;
+    width: 61px;
+}
+.simlepbox.slast::before {
+        display: none;
+    }
+	
+	@media screen and (max-width: 1024px){
+.simlepbox::before {
+        background: rgba(0, 0, 0, 0) url(../img/process/arrow.png) no-repeat;
+    content: "";
+    height: 29px;
+    position: absolute;
+    right: -47px;
+    top: 26%;
+    width: 57px;
+}
+ .simlepbox.slast::before {
+        display: none;
+    }
+}
+@media screen and (max-width: 768px){
+.simlepbox::before {
+    background: rgba(0, 0, 0, 0);
+    content: "";
+    height: 40px;
+    position: absolute;
+    right: -35px;
+    top: 30%;
+    width: 61px;
+}
+ .simlepbox.slast::before {
+        display: none;
+    }
+
+}
+@media screen and (max-width: 500px){
+.simlepbox::before {
+    background: rgba(0, 0, 0, 0);
+    content: "";
+    height: 40px;
+    position: absolute;
+    right: -35px;
+    top: 30%;
+    width: 61px;
+}
+ .simlepbox.slast::before {
+        display: none;
+    }
+
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+.simplepbox .images {
+    border: 1px solid #635cff;
+    border-radius: 50px;
+    height: 85px;
+    line-height: 85px;
+    margin: 0 auto;
+    width: 85px;
+}
+
+.simlepbox .images img {
+    width: 55px;
+}
+.simlepbox h3 {
+    color: #151b2b;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 10px 0;
+}
+.headbox1 {
+    text-align: center;
+    
+.headbox1 p {
+    font-family: Hind Siliguri;
+    font-size: 24px;
+}
+
+ 
+

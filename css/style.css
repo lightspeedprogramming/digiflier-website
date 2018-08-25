@@ -2939,3 +2939,9 @@ a.tip:hover {
     height: 50px; width: 50px;
 }
 /*# banner-services-section*/
+
+/*index page ul */
+.number-one-content .margin-left ul {
+    margin-left: -21px;
+}
+/*index page ul */

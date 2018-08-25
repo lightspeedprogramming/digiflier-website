@@ -6,6 +6,21 @@
     include("header.php");
 ?>
 
+    <!-- Banner -->
+    <section id="banner" style="max-width: 100%;height: 302px;">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="img-wrap-services" style="background-image: url('img/bg/bg-3.jpg');">
+                    <div class="heading-title">
+                        <h4 style=""><strong>Content Marketing</strong></h4>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Banner -->
+
      <section class="pt-30 pb-30 light-bg">
         <div class="container">
             <div class="row align-items-center">
@@ -24,27 +39,7 @@
             </div>
         </div>
     </section>
-    <!-- Service Details -->
-    <section class="pt-30 pb-30 light-bg">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6 col-md-6">
-                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
-                        <h1 style="font-weight: 900;">Content Marketing</h1>
-                        <p>What is content exactly? Content is blogs, infographics, videos, emails, eBooks, social media updates, and the text on your website. Yep, content is everywhere. Which is why it’s so important to have a content marketing strategy that aligns your content with your core values and each of your audiences’ wants, needs, and unique, preferred ways of consuming content.</p>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <div class="service-img text-center">
-                        <img src="img/content-marketing.png" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End of Service Details -->
-
+    
 
     <!-- Take Our business to the nest level -->
         

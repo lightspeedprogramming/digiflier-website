@@ -30,12 +30,12 @@
            
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/email-hosting/img-1.png" alt="" data-rjs="2" height="300px" width="200px">
+                    <div class="text-center">
+                        <img src="img/email-hosting/img-1.png" alt="" height="300px" width="200px">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">YOUR EMAIL, OUR COMPANY
                         </h4>
                         <p>
@@ -48,7 +48,7 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">WE CAN KEEP A SECRET</h4>
                         <p>
                             We trust that email is between the gatherings concerned. That’s why we have a tendency to don’t access or share any of your information at any time or deliver ads throughout your online expertise. It's solitary one a considerable measure of techniques we're recognition your back.
@@ -58,7 +58,7 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/email-hosting/img-2.jpg" alt="" data-rjs="2" height="400px" width="400px">
                     </div>
                 </div>
@@ -67,12 +67,12 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/email-hosting/img-3.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             STORAGE? NO PROBLEM
                         </h4>
@@ -86,7 +86,7 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">SEARCH THAT MAKES PEOPLE JEALOUS</h4>
                         <p>
                             Having such enough space storage means you’ve got the area for tons of emails. Our search engine makes it easy to find out what you’re trying to find, and it’s simple to use. And once you’re ready to realize things in your archives, it makes your life easier. That’s a winning combination for you and us.
@@ -95,7 +95,7 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center" >
                         <img src="img/email-hosting/img-4.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
@@ -104,12 +104,12 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/email-hosting/img-5.png" alt="" data-rjs="2">
+                    <div class="text-center">
+                        <img src="img/email-hosting/img-5.png" alt="" >
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             ON THE WEB OR ON THE GO
                         </h4>

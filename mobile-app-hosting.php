@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="service-img text-center">
-                        <img src="img/mobile-app-hosting/img-2.jpg" alt="">
+                        <img src="img/mobile-app-hosting/img-9.png" alt="">
                     </div>
                 </div>
             </div>

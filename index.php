@@ -55,7 +55,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="mobile-app-hosting.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img/mobile-app-hosting/icons/icon-1.png" class="rounded-circle">
@@ -68,7 +68,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="email-marketing-servers.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img/email-marketing-servers/icons/icon-1.svg" class="rounded-circle">
@@ -94,7 +94,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="mail-hosting.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img/email-hosting-services/icons/icon-1.png" class="rounded-circle">
@@ -107,7 +107,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="mobile-marketing.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img\moile-marketing-services\icons\icon-1.png" class="rounded-circle">
@@ -120,7 +120,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="email-marketing.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img/email-marketing-services/icons/icon-1.png" class="rounded-circle">
@@ -133,7 +133,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="local-business-marketing.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img\local-business-marketing\icons\icon-5.ico" class="rounded-circle">
@@ -146,7 +146,7 @@
                             
                         </div>
                         <div class="col-lg-2 col-sm-3 col-12">
-                            <a href="#">
+                            <a href="content-marketing.php">
                                 <div class="single-service single-blog bg-green color text-center">
                                     <div class="img-wrap">
                                         <img src="img/content-marketing-services/icons/icon-1.png" class="rounded-circle">
@@ -233,6 +233,283 @@
     </section>
     <!-- End of About Us -->
 
+    <!--  pROCESS sECTION  -->
+
+    <section class="tagpoint_row_section our_experience">
+        <div class="container tagpoint_container">
+            <div class="our-process sectionhover">
+      <div class="container ">
+        <div class="row wow fadeInDown" style="visibility: visible;">
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <div class="headbox1 text-center">
+              <h2 style="font-weight: 700px"><strong>Our Simple Process</strong></h2>
+              <p>Let's have a look at what creativity is in the digital experiences!</p>
+            </div>
+          </div>
+        </div>
+        <div class="row wow fadeInDown" style="visibility: visible;">
+          <div class="col-sm-12 col-md-2 col-lg-2 text-center">
+            <div class="simlepbox">
+              <div class="images">
+                <img alt="" src="img/process/Discuss.png">
+              </div>
+              <h3 style="padding-top: 20px;">Discuss</h3>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-2 col-lg-2 text-center">
+            <div class="simlepbox">
+              <div class="images">
+                <img alt="" src="img/process/Plan.png">
+              </div>
+              <h3 style="padding-top: 20px;">Plan</h3>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-2 col-lg-2 text-center">
+            <div class="simlepbox">
+              <div class="images">
+                <img alt="" src="img/process/Design-Dev.png">
+              </div>
+              <h3 style="padding-top: 20px;">Design &amp; Dev</h3>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-2 col-lg-2 text-center">
+            <div class="simlepbox">
+              <div class="images">
+                <img alt="" src="img/process/Testing.png">
+              </div>
+              <h3 style="padding-top: 20px;">Testing</h3>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-2 col-lg-2 text-center">
+            <div class="simlepbox">
+              <div class="images">
+                <img alt="" src="img/process/Launch.png">
+              </div>
+              <h3 style="padding-top: 20px;">Launch</h3>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-2 col-lg-2 text-center">
+            <div class="simlepbox slast">
+              <div class="images">
+                <img alt="" src="img/process/Promote.png">
+              </div>
+              <h3 style="padding-top: 20px;">Promote</h3>
+            </div>
+          </div>
+        </div>
+        <div class="row wow fadeInDown" style="visibility: visible;">
+          <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+            <img alt="" src="img/process/processimg.png" class="img-responsive" style="padding-top: 20px;"> </div>
+        </div><br><br>
+        <div class="row wow fadeInDown" style="visibility: visible;">
+          <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+            <div style="width:190px;text-align:center;padding:8px; margin:0 auto; background: #00a7c1"class="">
+              <a style="color:#fff;font-size:20px;"class="border_button sendmessage_btn" href="contact.php">Get Started Now</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+        </div>
+    </section>
+
+    <!--  PROCESS SECTION  -->
+
+
+    <!-- Take Our business to the nest level -->
+        
+    <section class="pt-30 pb-55">
+        <div class="container">
+           
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/website-development/img-1.png" alt="" data-rjs="2">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="number-one-content sm-device-padding" data-animate="fadeInUp" data-delay=".5">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
+                            Website Development
+                        </h4>   
+                        <p>
+                           <strong>Website Development</strong>, better known as SEO, is one of the most critical parts of e-commerce marketing. It is based on special algorithms that analyze the instances of specific keywords on your website. Because users navigate the Internet through search engines like Google, these results play a large role in the success of your website. A good SEO campaign can position your e-commerce website to rise to the top of the Google rankings.
+                        </p>
+
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Technology Expertise</h4>
+
+                        <div class="margin-left">
+                            <ul>
+                                <li>Web Application Development</li>
+                                <li>Web Application Development</li>
+                                <li>Web Application Development</li>
+                                <li>Web Application Development</li>
+                                <li>Web Application Development</li>
+                            </ul>
+                        </div>
+
+                        <a href="website-development.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+            </div>
+            
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80">
+                <div class="col-lg-6">
+                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Website Hosting</h4>
+                        <p>
+                            <strong>Web hosting</strong> is a service that allows businesses, organizations and other people to post a website or online page onto the web. A service provider may be a business that has the technologies and services needed for the site or pages to be viewed over the internet.
+                        </p>
+
+                        <a href="website-hosting.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+                
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
+                        <img src="img/web-hosting-services/img-1.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/domain-registering/img-1.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6  sm-device-padding">
+                    <div class="number-one-content sm-device-padding">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
+                            Domain Registration
+                        </h4>
+                        <p>
+                            Domain Registration can be very important to e-commerce websites. By creating an effective Facebook business page and enticing potential customers to ‘like’ your page with exclusive offers and discounts, you will not only gain immeasurable word-of-mouth advertising through the network, but will establish yourself as a trustworthy, reputable Internet business.
+                        </p>
+
+                        <a href="domain-registration.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+            </div>
+
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
+                        <img src="img/mobile-app-development/img-1.jpg" alt="" data-rjs="2">
+                    </div>
+                </div>
+                <div class="col-lg-6  sm-device-padding">
+                    <div class="number-one-content">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
+                            Mobile App Development
+                        </h4>   
+                        <p>
+                           It is perfectly clear that the interest for mobile applications has extended for all organizations. To cope with that, we have a tendency to end up your challenging style and build up the best mobile applications. Go Digital Marks might be the best quality application improvement organization giving mobile application development services to iPhone, Windows, and Android.
+                        </p>
+
+                        <a href="mobile-app-development.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+            </div>
+            
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80">
+                <div class="col-lg-6">
+                    <div class="number-one-content">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Mobile App Hosting</h4>
+                        <p>
+                            When it includes building succeeding huge factor, you want the freedom to work in up your apps, not running your groundwork. That is the reason you might want application facilitating from Go Digital Marks, the cloud that accompanies every one of the engineers and experts you want to deal with them. That strategy you'll have the capacity to pay some time on your code, instead of your groundwork.
+                        </p>
+
+                        <a href="mobile-app-hosting.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+                
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/mobile-app-hosting/img-9.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
+                        <img src="img/email-marketing-servers/img-1.png" alt="" >
+                    </div>
+                </div>
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="number-one-content">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
+                            Email Marketing Servers
+                        </h4>
+                        <p>
+                            An email advertising server is totally not the same as the regular active mail servers identified with free email providers i.e. Gmail, Yahoo and some more. Actually, exclusively a specialist causation service like turbo SMTP will support high volume email advancing efforts influencing certain the best conveyance to rate for all messages.
+                        </p>
+
+                        <a href="email-marketing-servers.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+            </div>
+
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="number-one-content">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Email Hosting</h4>
+                        <p>
+                            When it includes building succeeding huge factor, you want the freedom to work in up your apps, not running your groundwork. That is the reason you might want application facilitating from Go Digital Marks, the cloud that accompanies every one of the engineers and experts you want to deal with them. That strategy you'll have the capacity to pay some time on your code, instead of your groundwork.
+                        </p>
+
+                        <a href="mail-hosting.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+                
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/email-hosting/img-1.png" alt="" height="400px" width="300px">
+                    </div>
+                </div>
+            </div>
+
+            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/website-migration/img-1.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="number-one-content">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
+                            Website Migration
+                        </h4>
+                        <p>
+                            Website Migration is totally not the same as the regular active mail servers identified with free email providers i.e. Gmail, Yahoo and some more. Actually, exclusively a specialist causation service like turbo SMTP will support high volume email advancing efforts influencing certain the best conveyance to rate for all messages.
+                        </p>
+
+                        <a href="email-marketing-servers.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                       
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+    <!-- take our business to the next level -->
+
 
     <!--  counter section  -->
 
@@ -246,8 +523,8 @@
                             <img src="img/icons/keyword-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>6x</h1>
-                            <h4 style="font-weight:normal;color:#777;">Growth in <br/>keyword ranking</h4>
+                            <h1>6</h1>
+                            <h4 style="padding-top:20px;font-weight:normal;color:#777;text-transform: uppercase;">Years</h4>
                         </div>
                     </div>
                 </div>
@@ -257,8 +534,8 @@
                             <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>398%</h1>
-                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Organic traffic</h4>
+                            <h1>493</h1>
+                            <h4 style="padding-top:20px;font-weight:normal;color:#777;text-transform: uppercase;">Happy Clients</h4>
                         </div>
                     </div>
                 </div>
@@ -268,8 +545,8 @@
                             <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>1105%</h1>
-                            <h4 style="font-weight:normal;color:#777;">Increase in <br/>Top 10 ranking</h4>
+                            <h1>1100</h1>
+                            <h4 style="padding-top:20px;font-weight:normal;color:#777;text-transform: uppercase;">Project Completed</h4>
                         </div>
                     </div>
                 </div>
@@ -280,8 +557,8 @@
                             <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>129%</h1>
-                            <h4 style="font-weight:normal;color:#777;">Increase in <br>Visit duration</h4>
+                            <h1>115</h1>
+                            <h4 style="padding-top:20px;font-weight:normal;color:#777;text-transform: uppercase;">Awards</h4>
                         </div>
                     </div>
                 </div>
