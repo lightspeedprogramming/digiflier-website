@@ -61,14 +61,6 @@
                                     <li>
                                         <a href="#">Services <i class="fa fa-caret-down"></i></a>
                                         <ul>
-                                            <li><a href="website-migration.php">Website Migration</a></li>
-                                            <li><a href="email-marketing-servers.php">Email Marketing Servers</a></li>
-                                            <li><a href="mail-hosting.php">Email Hosting</a></li>
-                                            <li><a href="domain-registration.php">Domain Registering</a></li>
-                                            <li><a href="website-hosting.php">Website Hosting</a></li>
-                                            <li><a href="website-development.php">Website Development</a></li>
-                                            <li><a href="mobile-app-hosting.php">Mobile App Hosting</a></li>
-                                            <li><a href="mobile-app-designing.php">Mobile App Designing</a></li>
                                             <li><a href="seo.php">Search Engine Optimization</a></li>
                                             <li><a href="email-marketing.php">Email Marketing Service</a></li>
                                             <li><a href="ppc.php">Pay Per Click Service</a></li>
