@@ -30,11 +30,10 @@
             <div class="row">
                 <div class="col-md-12">
                     <p style="font-size:16px;line-height:1.8;margin-bottom:7px;color: #616161;">
-                        We Help You define Your Business Better. Our Ideas Give You RESULTS. We work on keeping your site as well as you happy. We are SEO Corporation.
+                        We are using mobile apps and web apps development that represents considerable authority in responsive mobile app developing, website development and various online marketing solutions. We have a full spotlight on conveying top of the line and quality key arrangements. Our staffs have the capacity to bring incorporated internet marketing development and other helpful services for both medium and independent business over the world. We are additionally prepared for the difficulties in types of measureable outcomes, well-timed carrying and quality customer desires. 
                     </p>
                     <p style="font-size:16px;line-height:1.9;margin-bottom:7px;color: #616161;">
-                        With 4 years of being in the field of digital marketing, some might call us too young for the business. But years can not define experience.<br>
-                        With 24 full time SEO Engineers, 12 Content Writers, 8 Web Developers & Designers, 17 Link Builders, 35 Offpage Optimization Experts and 8 Project Managers – we know what we are doing. What makes us even more trustworthy is our impressive portfolio. In our 4 years of business we have designed and developed around 500 small business websites, 40 premium E-commerce sites and optimized more than 1200 sites.<br>More than building your business we believe in building relationships, we would love to have you as a part of our extended family. If you are a small business or a startup, then talk us. We would love to help you.
+                        At XYZ, we give superb mobile app development services at exceptionally reasonable rates. We give proficient services which are supported by the speedy turning point, quality and, phenomenal client care and considerably more. Our organization can give some extra administrations. We create dynamic and proficient sites according to the requirements of our customers. Our web specialists and web markets are both experienced and gifted in the propelled app development tools and additionally methods to convey world-class answers for our clients. 
                     </p>
                     <p></p>
                 </div>
@@ -57,21 +56,21 @@
                 <div class="col-lg-6 sm-device-padding">
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="single-about-us" data-animate="fadeInUp" data-delay=".1">
+                            <div class="single-about-us">
                                 <h3 class="h4">OUR VISION</h3>
-                                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias similique sunt in culpa qui officia deserunt mollitia quidem rerum facilis est et expedita distinctio.</p>
+                                <p>To connect individuals and businesses from around the world into a community that would work seamlessly along no matter location and personnel. We have a tendency to equip our purchasers with the tools they have to market growth and structure of their business in a changing economic atmosphere.</p>
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <div class="single-about-us" data-animate="fadeInUp" data-delay=".4">
+                            <div class="single-about-us">
                                 <h3 class="h4">OUR MISSION</h3>
-                                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias similique sunt in culpa qui officia deserunt mollitia quidem rerum facilis est et expedita distinctio.</p>
+                                <p>Easiness, it's our directing light and the key esteem we swing to when forming all that we do. We trust that the best arrangements are regularly the least complex - and we've made it our main goal to give basic approaches to you to all the more likely connect with your supporters.</p>
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <div class="single-about-us" data-animate="fadeInUp" data-delay=".7">
+                            <div class="single-about-us">
                                 <h3 class="h4">OUR TEAM</h3>
-                                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias similique sunt in culpa qui officia deserunt mollitia quidem rerum facilis est et expedita distinctio.</p>
+                                <p>Our initiative has the vision to have any kind of effect by connecting opportune individuals at a perfect time in the most captivating way. We accept with this approach a great deal can be refined and built up for mankind in different perspectives.</p>
                             </div>
                         </div>
                     </div>
@@ -91,6 +90,10 @@
                     <h1 style="font-family: Lucida Fax; color: #000;font-size:35px ;text-transform: uppercase;text-align: center;padding-bottom:35px;font-weight: 100;">
                         How We <b>Do</b>
                     </h1>
+
+                    <p>
+                        Before beginning a mobile app development projects, it is basic to grasp the system drew in with a convincing site improvement battle. XYZ considers clients who require a concentrated, full-advantage approach to manage web search tool advertising. 
+                    </p>
                 </div>
             </div>
             <div class="row">
@@ -98,7 +101,7 @@
                     <div class="single-service text-center">
                         <img src="img/icons/keyword.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>KEYWORD</b> RESEARCH</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        <p>Keyword thickness uncovers to you the request in the web search tool in association with the total number of words it contains. </p>
                         
                     </div>
                 </div>
@@ -106,23 +109,23 @@
                     <div class="single-service text-center">
                         <img src="img/icons/onsite-optimization.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><b>ONSITE</b> OPTIMIZATION</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        <p>It points to all estimates that can be taken particularly inside the web or app site remembering about the objective to upgrade its position. </p>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center">
                         <img src="img/icons/link-building.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4><b>LINK</b><br> BUILDING</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        <h4><b>LINK</b> BUILDING</h4>
+                        <p>In the field of mobile app development, third party referencing centers at expanding the number and nature of inbound connects to a page. </p>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center">
                         <img src="img/icons/report-analysis.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4><b>REPORTING AND ANALYSIS</b></h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        <h4><b>REPORTING</b> & ANALYSIS</h4>
+                        <p>Our XYZ study involves a couple of factors like a substance, interfacing structure, online internet based life associates, and its trust over the internet.</p>
                         
                     </div>
                 </div>
@@ -133,52 +136,9 @@
     <!--# How We Do-->
 
 
-    <!-- Take Our business to the nest level -->
-        
-    <section class="pt-120 pb-55">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <h3 style="font-size:32px;">TAKE YOUR BUSINESS <b>TO THE NEXT LEVEL</b></h3>
-                    <p style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-                        Digi Flier can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
-                        technical and copywriting staff enables Digi Flier to successfully 
-                        meet the needs of companies with complex<br> 
-                        websites in competitive industries
-                    </p>
-                </div>
-            </div>
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 col-sm-12 mb-55">
-                    <div class="">
-                        <img src="img/best-seo.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="number-one-content">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">What Makes Us Different.</h4>
-                        <p>
-                            We do not only provide SEO and Internet marketing services 
-                            but we also offer a wide array of related services such as SEO 
-                            friendly web design, pay per click, affiliate marketing, website audits, 
-                            social media optimization, branding and several others.
-                        </p>
-                       
-                    </div>
-                </div>
-            </div>
-            
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">            
-        </div>
-    </section>
-    <!-- take our business to the next level -->
-
-
     <?php
+
+        include 'take-your-business-to-next-level.php';
         include("common.php");
-    ?>
-
-    <?php
         include("footer.php");
     ?>

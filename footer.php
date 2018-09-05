@@ -11,11 +11,11 @@
                                 <ul class="list-unstyled">
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">(+x) xxx-xxx-xxx</a>
+                                        <a href="tel:+x-xxx-xxx-xxxx">(+x) xxx-xxx-xxx</a>
                                     </li>
                                     <li>
                                         <i class="fas fa-envelope"></i>
-                                        <a href="mailto:serviney.demo@fakemail.com">contact@domain.com</a>
+                                        <a href="#">contact@xyz.com</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-map-marker"></i>

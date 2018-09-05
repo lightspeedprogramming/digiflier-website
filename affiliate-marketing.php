@@ -31,7 +31,7 @@
                     <div class="service-details">
                         <h1 style="font-weight: 900;">Affiliate Marketing</h1>
                         <p>
-                            Affiliate marketing is the process of earning a commission by promoting other people’s (or company’s) products. You find a product you like, promote it to others, and earn a piece of the profit for each sale that you make. Affiliate marketing is a cost effective means of combining established marketing techniques with technology for business success.
+                            It is the technique for winning a commission by advancing elective individuals' item. You can find an item you wish, advertise it to others, and win a piece of the benefit for each deal that you simply assemble. It could be a financially savvy implies that of blending set up showcasing systems with innovation for business development. 
                         </p>
                         
                     </div>
@@ -62,11 +62,9 @@
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">How Does Affiliate Marketing Work?</h4>
                         <p>
-                            Affiliate marketing is generally defined as a referral program that gives commissions those who successfully refer a potential client or leads to your site. Sometimes called an advertising affiliate Internet program, it is one of the most cost-effective and efficient means to drive online revenue.
+                           Affiliate marketing is for the most part sketched out as a referral program that offers commissions individuals who with progress for a conceivable buyer or results in your site. Normally point to as partner publicizing offshoot web program, it's one among the chief cost-productive and efficient proposes that to drive online income. Relate offshoot advertising is fundamentally a business office salaried bolstered their execution. Making partner associate offering project can allow you to point your consideration on various parts of your business.
                         </p>
-                        <p>
-                            Affiliate marketing is generally defined as a referral program that gives commissions those who successfully refer a potential client or leads to your site. Sometimes called an advertising affiliate Internet program, it is one of the most cost-effective and efficient means to drive online revenue.
-                        </p>
+                        
                        
                     </div>
                 </div>
@@ -76,7 +74,7 @@
     <!-- two column section -->
 
      <!-- Three column section -->
-    <section class="pt-120 pb-55">
+    <!--<section class="pt-120 pb-55">
         <div class="container">
           
             <div class="row justify-content-center">
@@ -143,7 +141,7 @@
             </div>
 
         </div>
-    </section>
+    </section>-->
     <!-- End  Three column section  -->
 
 
@@ -162,9 +160,12 @@
                         
                         <p>
                             <ul>
-                                <li>First, we get to know your business and your goals, so we can determine what the best strategy will be for creating or optimizing your Conversion Rate Optimization.</li>
-                                <li>As a conversion rate optimization company, our data-driven A/B tests and further UX improvements look to continuously improve your conversion rates, grow your contacts database, and drive more revenue.</li>
-                                <li>We analyze the results from our experiments to understand whether our hypothesis was correct. If a statistical significance has been reached and our hypothesis is correct, we roll out the successful variation of your landing page. If not, we test a new hypothesis and run the whole process again.</li>
+                                <li>Help select the correct member arranges that meet your objectives </li>
+                                <li>Set up the partner program on the picked systems </li>
+                                <li>Promote your member program and survey the subsidiary application and information exchange new partners </li>
+                                <li>Monthly, week after week associate correspondence </li>
+                                <li>Set up information sustains for associates </li>
+                                <li>Periodic writes about the execution of the associate promoting channel</li>
                             </ul>
                         </p>
                        
@@ -185,7 +186,7 @@
 
 
     <!-- single row section -->
-    <section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
+    <!--<section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="cl-md-12">
@@ -198,7 +199,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- single row section -->
 
 

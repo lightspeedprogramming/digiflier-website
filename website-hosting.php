@@ -28,7 +28,7 @@
                 <div class="col-lg-6">
                     <div class="service-details">
                         <h1><strong>Website Hosting</strong></h1>
-                        <p>Host your mobile application over our stage causes you to use whichever gadget and customer compose most reasonable to your objective client. Manufacture and convey an undertaking class application, while the whole lifecycle of your application is overseen and facilitated with High-execution API foundation.</p>
+                        <p>Web hosting could be an administration that grants associations and individuals to post a site or web content onto the internet. A web hosting administration provider could be a business that has the advancements and administrations required for the site or website page to be seen over the web. At the point when net clients need to take a gander at your site, all they need to endeavor to be sorting your site address or area into their program. Their PC would then be able to connect with your server and your site pages are conveyed to them through the program. Most facilitating organizations require that you basically claim your area in order to have with them. In the event that you are doing not have a site, the facilitating enterprises can help you to buy one. On the off chance that you pick to frame and host your site with XYZ Softwares, you'll have the capacity to get a custom space, email locations, and web facilitating all packaged into one membership.</p>
                                                 
                     </div>
                 </div>
@@ -47,77 +47,34 @@
     <section class="pt-50 pb-50">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="service-details">
-                        <h1><strong>TYPES OF WEB HOSTING SERVICES</strong></h1>
-                        <p>Host your mobile application over our stage causes you to use whichever gadget and customer compose most reasonable to your objective client. Manufacture and convey an undertaking class application, while the whole lifecycle of your application is overseen and facilitated with High-execution API foundation.</p>
-
-                        <h1>
-                            Hosting options available are:
-                        </h1>
-                        <div id="ul-div">
-                            <li>website developers</li>
-                        </div>
-                                                
-                    </div>
-                </div>
+                
                 <div class="col-lg-6">
                     <div class="service-img text-center">
                         <img src="img/web-hosting-services/img-2.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="service-details">
+                        <h1><strong>TYPES OF WEB HOSTING SERVICES</strong></h1>
+                        <p>There are different types of web hosting administrations available to have your site. Before gesture-based communication up for web facilitating administrations, it's crucial to get a handle on what very administration your site needs, the kind of server you or your business needs, your financial plan, and what style of administrations the online host offers. Web Hosting choices accessible are: </p>
+                        
+                        <ul style="list-style-type: none;">
+                            <li>Web designers</li>
+                            <li>Shared Hosting </li>
+                            <li>Devoted Hosting </li>
+                            <li>Gathered Hosting</li>
+                        </ul>
+                                                
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!-- End of Service Details -->
-    
-    <!-- Take Our business to the nest level -->
+
+
         
-    <section class="pt-30 pb-55">
-        <div class="container">
-           
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row pb-80">
-                <div class="col-md-12 text-left">
-                    <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                        <strong>MOBILE HOSTING SERVICES</strong>
-                    </h4>
-                    <p>
-                        Website developer services is also a spread of hosting service that caters to beginners who have to be compelled to host a website, however, lack the technical skills and information to form one. Website
-                    </p>
-
-                    <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                        <strong>Shared Hosting</strong>
-                    </h4>
-                    <p>
-                        In a hosting environment, different website owners shared one server. This includes sharing the physical server and thus the package applications at intervals the server. Shared hosting services are reasonable as a result of the price to work the server is shared between you and different owners.
-                    </p>
-
-                    <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                        <strong>Dedicated Hosting</strong>
-                    </h4>
-                    <p>
-                        Website developer services is also a spread of hosting service that caters to beginners who have to be compelled to host a website, however, lack the technical skills and information to form one. Website
-                    </p>
-
-                    <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                        <strong>Collocated Hosting</strong>
-                    </h4>
-                    <p>
-                        Website developer services is also a spread of hosting service that caters to beginners who have to be compelled to host a website, however, lack the technical skills and information to form one. Website
-                    </p>
-                </div>
-            </div>
-            
-            
-            
-            
-        </div>
-    </section>
-    <!-- take our business to the next level -->
-
-
-    
     <?php
         include("common.php");
     ?>

@@ -28,8 +28,11 @@
                 <div class="col-lg-6">
                     <div class="service-details">
                         <h1><strong>What should I use as a domain name?</strong></h1>
-                        <p>You can utilize a word or expression as a site name. If the domain is for an enterprise, you may wish to put your name inside the space; this makes it simpler for your clients to search out you on the web.</p>
-                                                
+                        <p>You can use a word or articulation as a site name. On the off chance that the area is for an enterprise, you may wish to put your name inside the space; this makes it less complex for your customers to look out you on the web. </p>
+                            
+                        <P>
+                            Disregarding the way that an extended space is harder to review, it will contain additional catchphrases that are basic as a portion of the web records use watchwords in an exceedingly name as a piece of the algorithmic run the show. Anyway, use alarm of domain names that measures too long, it makes it to recall and weak against customer input mistakes. 
+                        </P>                    
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -50,7 +53,15 @@
                 <div class="col-lg-6">
                     <div class="service-details">
                         <h1><strong>Domain Name Registration and Privacy</strong></h1>
-                        <p>When you enroll your name, you may see that your registrar will raise you for a little bit of data: your name, your email address, and your physical address. The information is utilized to complete 2 of the 3 enrollment profiles for your area name. At that point, every one of the 3 enrollment profiles will be publically possible and open on their registry's information.</p>
+                        <p>When you select your name, you may see that your recorder will raise you for a tad of information: your name, your email address, and your physical address. The data is used to finish 2 of the 3 enlistment profiles for your domain name. By then, every one of the 3 enlistment profiles will be publically conceivable and open on their registry's data. </p>
+
+                        <P>
+                            So think about how conceivable it is that you wish for your data to stay private. Everything considered, the information is publically conceivable, which infers spammers, con artists and stalkers will get to it, too. Moreover, lying on your enlistment data is unlawful. 
+                        </P>
+
+                        <P>
+                            Various selection focuses supply singular space enlistments, with or without an additional cost. With singular selection, your name can at introduce show up in perspective of the enlistment. Nevertheless, rather than your full contact profile, your recorder can list their data, a delegate enlistment.
+                        </P>
                                                 
                     </div>
                 </div>
@@ -72,16 +83,17 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details">
-                        <h1><strong>Domain name registration process</strong></h1>
-                        <p>Host your mobile application over our stage causes you to use whichever gadget and customer </p>
+                        <h1>Once you chose a name for your site, you may have to submit your name registration request to a registrar. </p>
 
                         <h3>
                             <strong>You will have to submit the subsequent data to the registrar:</strong>
                         </h3>
+
                         <div id="ul-div">
-                            <li>website developers</li>
-                            <li>website developers</li>
-                            <li>website developers</li>
+                            <li>The desired name</li>
+                            <li>The name and phone data including email address, physical address and phone number for the domain's someone.</li>
+                            <li>The desired domain registration term</li>
+                            <li>Payment data</li>
                         </div>
                                                 
                     </div>
@@ -97,7 +109,7 @@
     <!-- End of Service Details -->
 
     <!-- Service Details -->
-    <section class="pt-50 pb-50">
+    <!--<section class="pt-50 pb-50">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -110,7 +122,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     
     
 

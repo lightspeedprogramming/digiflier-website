@@ -29,11 +29,10 @@
                 <div class="col-lg-7 col-md-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1 style="font-weight: 900;">Pay Per Click</h1>
-                        <p><strong>PPC</strong> stands for pay-per-click, a model of internet
-                            marketing in which advertisers pay a fee each time one of their ads is clicked. Essentially, it’s a way of buying visits to your site, rather than attempting to “earn” those visits<br> organically.
+                        <p>PPC stands for pay-per-click. It is a model in which advertisers will only pay according to the number of advertisements clicked. It is a technique for purchasing visits to your site, instead of endeavoring to "procure" those visits naturally. It enables marketers to offer for an advertisement in a search engine when somebody seeks on a keyword that is identified with their business advertising.
                         </p>
                         <p>
-                            Search engine advertising is one of the most popular forms of PPC. It allows advertisers to bid for ad placement in a search engine’s sponsored links when someone searches on a keyword that is related to their business offering.
+                           PPC advertising gives you the chance to pay for top positions on mobile development and show up on relevant partner sites. Pay-per-click advertising conveys traffic and orders offers many approaches to complement existing mobile development systems by testing watchwords, plans of action, and commercial center verticals, and it enables you to build up your general Internet marketing methodology, and any mobile app designs outfitted with actualities, not suppositions. 
                         </p>
                         
                     </div>
@@ -59,9 +58,8 @@
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">PPC Management</h4>
                         <p>
-                            Platforms such as Google AdWords and Bing Ads are important to your business. With our pay-per-click marketing (PPC) expertise, we can help take your accounts to the next level. We customize strategy and reporting tailored to your needs.
-                            <br>
-                            We provide the support and guidance you require to accomplish your goal, be it maximizing return on investment, increasing leads, or driving brand awareness.
+                           With our PPC marketing expertise, we can help take your records to the following level. We tweak methodology and announcing custom-made to your necessities. We give the help and direction you require to achieve your objective, be it expanding rate of return, expanding leads, or driving brand mindfulness.
+
                         </p>
                        
                     </div>
@@ -86,7 +84,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>OUR PAY PER CLICK <strong>SERVICES</strong></h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                        
                     </div>
                 </div>
             </div>
@@ -98,8 +96,8 @@
                             <i class="fas fa-mouse-pointer"></i>
                         </div>
                         <div class="single-feature-content">
-                            <h4>PPC Audits</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>FACEBOOK ADS</h4>
+                            <p>Facebook is that social media platform where many products or items shows through the Facebook advertising, where the customers can purchase that can help to spread a message to wide area through their communications.</p>
                         </div>
                     </div>
                 </div>
@@ -110,7 +108,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Social Advertising</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <p>XYZ provide the paid social media marketing on the internet that is target the clients need through the social marketing.</p>
                         </div>
                     </div>
                 </div>
@@ -121,7 +119,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Google AdWords</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <p>At XYZ, We hiring the engineers of our company they give you the advantage of a full-time AdWords professional without the additional cost of addition another full-time worker.</p>
                         </div>
                     </div>
                 </div>
@@ -132,7 +130,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Bing Advertising</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <p>As advertising organizations, which provide the partnership deals with the many customers who are searcher, XYZ pay per click provide benefits of our customers.</p>
                         </div>
                     </div>
                 </div>
@@ -143,7 +141,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Display Advertising</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <p>We display all marketing products on our website through the display marketing which interact the customers interest for your product or services.</p>
                         </div>
                     </div>
                 </div>
@@ -153,8 +151,8 @@
                             <i class="fas fa-recycle"></i>
                         </div>
                         <div class="single-feature-content">
-                            <h4>Remarketing & Retargeting</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <h4>Remarketing</h4>
+                            <p>XYZ provides complete remarketing services including mobile app or web-based app and management services. Our top or professionals experienced ensures that business spend on the basis of money that the users most likely to convert, rather than throwing at the wall and hoping it sticks.</p>
                         </div>
                     </div>
                 </div>
@@ -167,7 +165,7 @@
 
     <!-- what we offer -->
         
-    <section class="pt-30" style="background-color: #efefef;">
+    <!--<section class="pt-30" style="background-color: #efefef;">
         <div class="container">
             
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
@@ -201,12 +199,12 @@
             </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- what we offer -->
 
 
     <!-- single row section -->
-    <section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
+    <!--<section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="cl-md-12">
@@ -219,7 +217,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- single row section -->
 
 

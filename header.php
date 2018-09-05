@@ -10,7 +10,7 @@
     <title><?php echo $title; ?></title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+    <!--<link rel="shortcut icon" type="image/png" href="favicon.png">-->
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500,700%7CSource+Sans+Pro:300i,400,400i,600,700">
@@ -67,6 +67,7 @@
                                             <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
                                             <li><a href="e-commerce marketing.php">Ecommerce Marketing</a></li>
                                             <li><a href="content-marketing.php">Content Marketing Service</a></li>
+                                            <li><a href="domain-registration.php">Domain Registration</a></li>
                                             <li><a href="online-presence-analysis.php">Online Presence Analysis</a></li>
                                             <li><a href="local-business-marketing.php">Local-Business-Marketing</a>
                                             </li>

@@ -1,4 +1,4 @@
-"use strict";
+/**"use strict";
 
 var ColorSwitcher = (function() {
     
@@ -71,3 +71,5 @@ var ColorSwitcher = (function() {
         init: initColorSwitcher
     };
 })();
+
+**/

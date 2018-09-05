@@ -32,17 +32,22 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;"><strong>Website Development</strong></h4>
                         <p>
-                            With a concentrated scope of applications winning inside the market, eye-getting styles and recognized user-interface are essential to draw clients towards your mobile applications. It is altogether accepted in light of the fact that the most imperative half for portable applications as entirely unexpected characteristics of mobiles apps in the market.
+                            XYZ is a qualified web development organization in India. It gives administrations to an organization or individual entranced by thinking of their methods and improvement wants of electronic projects. XYZ has possessed the capacity to supply the administrations to our clients over the world staying to our long stretches of skill in web improvement. It is truly outstanding of India's driving web composition, web development, software framework improvement and web Development Company. We offer time beyond any doubt, esteem compelling and cost supplemental administrations for innovation inventive business arrangements that need specific space understanding. We tend to give responsive website designing.
                         </p>
 
+                        <p>
+                            Our specialists take a shot at client pointed model and asylum you to increase your development by offering higher platform individually. We knows the time of globalization for which internet is the base. In this manner, we work in a way that can make data to be best utilized by clients all inclusive.
+                        </p>
+
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;"><strong>SERVICE WE PROVIDE:</strong></h4>
                         
-
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;"><strong>TECHNOLOGY EXPERTISE</strong></h4>
-
                         <ul>
-                            <li>hdkdksj</li>
-                            <li>jlajlkdasjdl</li>
-                            <li>ajklasjdjl</li>
+                            <li>Web Application Development</li>
+                            <li>PHP Development</li>
+                            <li>Custom Application Development.</li>
+                            <li>Portal Development</li>
+                            <li>Open Sources such as Joomla, WordPress, and Drupal</li>
+                            <li>E-Commerce Web Development & Shopping cart solution.</li>
                         </ul>
 
                     </div>

@@ -28,7 +28,7 @@
                 <div class="col-lg-8">
                     <div class="service-details" style="padding-right: 60px; ">
                         <h1><strong style="font-weight: 900;">Mobile Marketing</strong></h1>
-                        <p>Mobile Marketing is the latest technology that helps you attract more new customers –customers that spend more money, more frequently!!! We can help you launch a successful mobile marketing campaign to connect, communicate and keep your customers coming through the door again and again.</p>
+                        <p>Mobile marketing is the most recent innovation that encourages you attract in a great deal of new clients, which pay additional cash. We will help you to dispatch a most recent mobile marketing effort to connect and convey. </p>
                         
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>OUR <strong>SERVICES</strong></h2>
-                        <p>Online marketing is considered to be one of the most popular methods of marketing. But the sheer number of mobile users dwarfs the potential of an online marketing campaign. As mobile phone users are more in number, the effectiveness and the eventual success of a mobile marketing campaign would be far stronger than what you could expect from an online marketing campaign, which still is a very popular method of marketing today.</p>
+                        <p>Online internet advertising is considered as the most recent procedure for marketing advancing. As mobile clients are more in numbers, the viability and also a definitive achievement of a mobile advancing effort would be such a great amount of more grounded than what you may except from a internet marketing effort that still is an extremely well known system of promoting today. </p>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Mobile App Development</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers</p>
+                            <p>We help in making an extraordinary affair for your web applications on smartphones utilizing HTML, HTML5, CSS, and CSS3. </p>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Mobile Websites services</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers</p>
+                            <p>As an association, we improve you with the quantity of mobile web administrations, for example, mobile design, system, and application advancement and some more. </p>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>SMS Marketing</h4>
-                            <p>Solid SEO and search friendly Web design will help bring visitors to your Website</p>
+                            <p>Our marketing platform intended for your business grants to immediately convey and have connection with clients in a hurry. </p>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@
                             What we do
                         </h4>
                         <p>
-                            xyz website is a trusted mobile marketing partner to many of the world’s leading brands. Our clients consistently rave about our strategic services which unleash the power of our mobile technology, preference management, and rich analytics platform. Leverage our multi-channel capabilities across SMS, MMS, mobile web, voice, QR codes, and email to create great customer experiences across the entire lifecycle.
+                            XZY could be a trusty mobile marketing partner to a few of the world's driving brands. Our customers talk about our vital administrations that expand the office of our mobile innovation, inclination administration, and well off investigation stage. XYZ sends our abilities crosswise over various channels, for example, SMS, MMS, QR codes, and email to make best customer encounters over the entire lifecycle. 
                         </p>
                        
                     </div>
@@ -128,11 +128,13 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Our Mobile Marketing Services</h4>
                         <ul>
-                            <li>kjdaLKJDLasjdlAJD</li>
-                            <li>kjdaLKJDLasjdlAJD</li>
-                            <li>kjdaLKJDLasjdlAJD</li>
-                            <li>kjdaLKJDLasjdlAJD</li>
-                            <li>kjdaLKJDLasjdlAJD</li>
+                            <li>Mobile Websites </li>
+                            <li>SMS Marketing</li>
+                            <li>Mobile Search Campaigns </li>
+                            <li>Mobile Commerce</li>
+                            <li>2D Barcodes/QR Codes </li>
+                            <li>Mobile App Development </li>
+                            <li>Mobile Marketing display</li>
                         </ul>                       
                     </div>
                 </div>

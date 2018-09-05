@@ -6,6 +6,21 @@
     include("header.php");
 ?>
 
+
+    <!-- Banner -->
+    <section id="banner" style="max-width: 100%;height: 302px;">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="img-wrap-services" style="background-image: url('img/bg/bg-3.jpg');">
+                    <div class="heading-title">
+                        <h4 style=""><strong>Online Presence Analysis</strong></h4>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Banner -->
     
     <!-- Service Details -->
     <section class="pt-120 pb-120" style="background-color: #f7f7f7;">
@@ -15,10 +30,12 @@
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1><strong style="font-weight: 900;">Online Presence ANALYSIS</strong></h1>
                         <p>
-                            The Online Presence Analysis lets us look into how your business is  doing online. We will look at your website design, functionality, and content. We will also look into your ideal keywords and locations in respect to your competitors in relation to your competition.
-                            We will analyze your web presence in great detail, so that you will ultimately be able to pinpoint your strengths and weaknesses.
+                            Online Presence Analysis establishes that how your business is performing over the web. We'll investigate your site style, usefulness, and substance. We'll examine your ideal keyword and areas in connection to your competitors as for your opposition. 
                         </p>
                         
+                        <p>
+                            We will break down your online presence in decent detail with the goal that you'll ready to pinpoint your qualities and shortcomings. 
+                        </p>
                     </div>
                 </div>
                 <div class="col-lg-5">
@@ -44,8 +61,16 @@
                     <div class="number-one-content services-para">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Key part of online marketing strategy</h4>
                         <p>
-                            Any business, big or small, should have the online presence expansion as a key part of their online marketing strategy. Through an active online presence, you will increase visibility and build your brand’s reputation.This allows you to reach out to potential visitors who continue to inquire about your products and services.<br>In order to see exactly where your brand stands with its online presence in your industry, we offer what we call an Online Presence Analysis.<br>This analysis will help us determine how well your business is seen among potential visitors as compared to your major competitors.
+                            Any business, little or expansive, should have online presence broadening as a piece of their web based advertising system. Through a functioning on the web nearness, you'll increment perceivability and assemble your image's picture. This enables you to accomplish expectation on potential visitors who still ask concerning your item and administrations. 
                         </p>
+
+                        <p>
+                            Keeping in mind the end goal to look at where your image remains with its online nearness in your business, we give what we tend to choose a web Presence Analysis. 
+                        </p>
+
+                        <P>
+                            This investigation will help in confirming that how well your business is seen among potential visitors when contrasted with your real competitors.
+                        </P>
                        
                     </div>
                 </div>
@@ -82,24 +107,15 @@
                                 <li>On-page and Off-page analysis</li>
                                 <li>Competition comparison</li>
                                 <li>Content reporting</li>
-                                <li>
-                                    Where you stand when searching keywords related to your website
-                                </li>
+                                
                                 <li>
                                     Social Media presence
                                 </li>
-                                <li>
-                                    Brand’s visibility among search engines
-                                </li>
-                                <li>
-                                    Design and functionality of your website
-                                </li>
-                                <li>On-page and Off-page analysis</li>
-                                <li>Competition comparison</li>
-                                <li>Content reporting</li>
-                                <li>
-                                    Where you stand when searching keywords related to your website
-                                </li>
+                                <li>Brand’s visibility among search engines</li>
+                                <li>Design and functionality of your website</li>
+                                <li>Competitor analysis</li>
+                                <li>Web-traffic analysis & increasing traffic</li>
+                                <li>Ideas to gain more business</li>
                             </ul>                       
                     </div>
                 </div>
@@ -114,7 +130,6 @@
     <section class="pt-30">
         <div class="container">
           
-            
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
@@ -122,10 +137,10 @@
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;margin-left: 20px;">Your Online Presence Evaluation Consists Of:</h4>
                      
                             <ul class="service-ul">
-                                <li>A video review of our proprietary 30-point an analysis</li>
-                                <li>A detailed summary of our findings, recommendations and resources</li>
-                                <li>A 30-minute phone consultation</li>
-                                <li>Free email follow-up to insure results</li>
+                                <li>A video audit of our exclusive </li>
+                                <li>A point by point rundown of our discoveries, suggestions, and assets </li>
+                                <li>A 40-minute telephone meeting </li>
+                                <li>Free email follow-up to guarantee results</li>
                             </ul>                       
                     </div>
                 </div>
@@ -145,7 +160,7 @@
     <!--  single row column  -->
 
     <!-- Banner -->
-    <section class="pt-30" style="background-image: url(img/bg/bg-2.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
+    <!--<section class="pt-30" style="background-image: url(img/bg/bg-2.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
         <div class="container">
           
             
@@ -167,7 +182,7 @@
             </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- End of Banner -->
 
     <!-- # single row column  -->
@@ -175,7 +190,7 @@
     
     <!--  counter section  -->
 
-    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
+    <!--<section class="pt-120 pb-55" style="background-color: #f6f6f6;">
         <div class="container">
             
             <div class="row justify-content-center">
@@ -226,7 +241,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     
 
     <!--  #counter-section  -->

@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
-                    <div class="page-contacts-widget-wrapper light-bg d-flex align-items-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="page-contacts-widget-wrapper light-bg d-flex align-items-center">
                         <!-- Contact Info -->
                         <div class="page-contacts-widget">
                             <h3 class="h4">Contact Us</h3>
@@ -30,11 +30,11 @@
                                 <ul class="list-unstyled">
                                     <li>
                                         <i class="fa fa-phone"></i>
-                                        <a href="tel:+1234567890">(+x) xxx-xxxx-xxx</a>
+                                        <a href="tel:+x-xxx-xxx-xxxx">(+x) xxx-xxxx-xxx</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-envelope-o"></i>
-                                        <a href="mailto:serviney.demo@fakemail.com">contact@domain.com</a>
+                                        <a href="#">contact@domain.com</a>
                                     </li>
                                     <li>
                                         <i class="fa fa-map-marker"></i>
@@ -47,10 +47,10 @@
                 </div>
                 <div class="col-lg-8">
                     <!-- Contact Form -->
-                    <div class="contact-form parsley-validate-wrap mt-60" data-animate="fadeInUp" data-delay=".4">
+                    <div class="contact-form parsley-validate-wrap mt-60">
                         <h3 class="bordered-title">Get In Touch</h3>
                         <div class="form-response"></div>
-                        <form method="post" action="http://themelooks.net/demo/serviney/html/preview/sendmail.php">
+                        <form method="post" action="mailsend.php">
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-field">
@@ -76,7 +76,7 @@
                             <div class="form-field">
                                 <textarea name="message" class="theme-input-style" placeholder="Write your message" required></textarea>
                             </div>
-                            <button type="submit" class="btn">Send Message</button>
+                            <button name="submit" type="submit" class="btn">Send Message</button>
                         </form>
                     </div>
                     <!-- End of Contact Form -->

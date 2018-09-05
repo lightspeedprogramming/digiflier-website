@@ -6,6 +6,21 @@
     include("header.php");
 ?>
 
+
+    <!-- Banner -->
+    <section id="banner" style="max-width: 100%;height: 302px;">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="img-wrap-services" style="background-image: url('img/bg/bg-3.jpg');">
+                    <div class="heading-title">
+                        <h4 style=""><strong>Reputation Management</strong></h4>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Banner -->
     
     <!-- Service Details -->
     <section class="pt-120 pb-120" style="background-color: #f7f7f7;">
@@ -15,7 +30,7 @@
                     <div class="service-details">
                         <h1><strong style="font-weight: 900;">Reputation Management</strong></h1>
                         <p  style="padding-right: 40px;">
-                            Online reputation management is considered important to protect your business from negative feedback. Bad reviews and bad-mouthing about your business can put your business at risk. Online reputation management ensures that all the negative criticism about your company is rubbed off and your reputation is always clean as a clean slate.
+                            Online reputation management is considered important to protect your business against input. Undesirable audits and knocking with respect to your business will put your business in danger. It guarantees that every last negative feedback with respect to your organization is cut off.
                         </p>
                         
                     </div>
@@ -43,7 +58,7 @@
                     <div class="number-one-content services-para">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Reputation is everything</h4>
                         <p>
-                            In business, your reputation is everything. Thanks to social media and review sites like Yelp, you can build a great online reputation fast. There’s just one problem: The Internet moves fast, and with a few missteps, you can hit rock bottom just as quickly as you rose to that coveted 5-star rating.
+                           Your reputation is everything for your business. On account of internet based life and survey locales like Yelp and Google+, you'll have the capacity to construct an incredible online brand rapidly. There's solitary one issue that with a few slips you'll have the capacity to hit exceptionally modest even as fast as you rose to its coveted 5-star rating.
                         </p>
                        
                     </div>
@@ -68,7 +83,7 @@
                     <div class="number-one-content services-para">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Reputation Consultants</h4>
                         <p>
-                            If you currently have an online reputation management problem, our online reputation consultants can provide the tools you need to spot it and quietly remove it from search engines. If you’re lucky enough not to have a brand issue (yet), we’ll introduce you to reputation monitoring software that will help keep you abreast of what’s being said out there about your brand.
+                            On the off chance that you have an issue in regards to reputation management, at that point our advisors can help in giving the apparatuses that can settle your issues from web search tools. In the event that you are sufficiently fortunate not to have a brand issue, at that point we'll acquaint you with notoriety observing programming that will keep track you about your image.
                         </p>
                        
                     </div>
@@ -89,10 +104,8 @@
 
             <div class="row">
                 <div class="col-md-12 text-center services-para">
-                    <h3 style="font-size:32px;">EFFECTIVE SEARCH TECHNIQUES</h3>
-                    <p class="pt-30" style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-                        The following chart is a summary of each local marketing technique and we dive<br> into each category in detail below.
-                    </p>
+                    <h3 style="font-size:32px;">OUR PROCESS</h3>
+                    
                 </div>
             </div>
             
@@ -106,7 +119,7 @@
                             
                             <h4 style="font-weight:normal;color:#777;"><strong>EFFECTIVE SEARCH TECHNIQUES</strong></h4>
                             <p>
-                                Researching and identifying any mention of your company, name or brand name.
+                                Researching and characteristic any mention of your company, name or brand.
                             </p>
                         </div>
                     </div>
@@ -121,8 +134,7 @@
                             <h4 style="font-weight:normal;color:#777;"><strong>REMOVAL OF UNDESIRABLE INFORMATION</strong></h4>
 
                             <p>
-                                We have fine tuned the way we remove negative feedback from the top ten search results in Google, MSN, and Yahoo.
-                            </p>
+                                We have found the way to remove the negative feedback from the top search results in Google, MSN, and Yahoo.                            </p>
                         </div>
                     </div>
                 </div>
@@ -136,7 +148,7 @@
                             <h4 style="font-weight:normal;color:#777;"><strong>REPLACEMENT WITH POSITIVE INFORMATION</strong></h4>
 
                             <p>
-                                We help keep the positive reviews in the spotlight and let any negative reviews disappear into oblivion.
+                                We help in implementing the positive reviews highlighted and clear off negative ones.
                             </p>
                         </div>
                     </div>
@@ -152,7 +164,7 @@
                             <h4 style="font-weight:normal;color:#777;"><strong>ONGOING MONITORING ACTIVITIES</strong></h4>
 
                             <p>
-                                Because new posts can appear at any time, we'll keep an eye on what's being said about your company.
+                                We'll keep a watch on what is being said about your company as new posts will seem at any time.
                             </p>
                         </div>
                     </div>
@@ -182,15 +194,12 @@
                     <div class="number-one-content services-para">
                         <h4 style="color:#fff;font-size: 32px;line-height: 1.2;margin-bottom: 10px;">What We Provide</h4>
                      
-                        <p style="color: #fff;padding-top: 20px;">
-                            Our skilled team uses reverse search engine optimization to fix negative and unwanted Internet information about you or your business. By partnering with our company, you are guaranteed a positive and credible Internet reputation. The Internet reputation services we provide include:
-                        </p>    
                         <ul style="color: #fff;">
-                            <li>adjsadlassd</li>                 
-                            <li>adjsadlassd</li>
-                            <li>adjsadlassd</li>
-                            <li>adjsadlassd</li>
-                            <li>adjsadlassd</li>
+                            <li>Clearing negative web news stories </li>
+                            <li>Clearing evaluations and awful surveys </li>
+                            <li>Clearing data on court cases and prosecution </li>
+                            <li>Removing Rip-off Reports </li>
+                            <li>Clearing con artist sites</li>
                         </ul>
                     </div>
                 </div>
@@ -201,7 +210,7 @@
     <!-- End of Banner -->
 
     <!-- Banner -->
-    <section class="pt-30" style="background-image: url(img/reputation-management/bg-img-1.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
+    <!--<section class="pt-30" style="background-image: url(img/reputation-management/bg-img-1.jpg);background-size:cover;background-position: center;background-repeat: no-repeat;">
         <div class="container">
           
             
@@ -226,7 +235,7 @@
             </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- End of Banner -->
 
     <!-- # single row column  -->

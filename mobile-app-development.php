@@ -29,9 +29,9 @@
                 <div class="col-lg-6">
                     <div class="service-details">
                         <h1><strong>Mobile App Development</strong></h1>
-                        <p>Mobile marketing is the latest technology that helps you attract a lot of new customers, which pay extra money. We will assist you to launch a latest mobile marketing campaign to attach and communicate.</p>
+                        <p>We provide the best quality mobile app development services to ensure your comfort zone, with our service you can easily reach your market that also ensures your sales as well as enhance business growth.</p>
                         <p>
-                            Mobile marketing is the latest technology that helps you attract a lot of new customers, which pay extra money. We will assist you to launch a latest mobile marketing campaign to attach and communicate.
+                            Our best mobile application developers are creative and proficient to achieve your client's requests also as your business needs. With advanced and smart devices and innovation, our mobile applications developers can develop attractive mobile applications for our customer's needs.
                         </p>
                         
                     </div>
@@ -59,12 +59,14 @@
                 </div>
                 <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">What Set Us Apart From Competitive Indian Mobile App Developers?
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">We provide following services. 
                         </h4>
-                        <p>
-                            We first analyze a web site, followed by a step-by-step plan to have the website communicate keywords more effectively to search engines. Our ultimate goal is to get our clients more visitors and higher conversion of sales and leads.
-                        </p>
-                       
+                        <ul>
+                            <li>Android App Development Services</li>
+                            <li>iBeacon App Development Services</li>
+                            <li>Windows App Development Services</li>
+                            <li>Ionic App Development Services</li>
+                        </ul>                      
                     </div>
                 </div>
             </div>
@@ -75,8 +77,12 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;margin-left: 15px;">WHY DO YOU CHOOSE US?</h4>
                         <ul>
-                            <li>jdkajdkakd</li>
-                            <li>akjdlajdlakjdlska</li>
+                            <li>Experienced members of organizations</li>
+                            <li>Complete learning of stages and mobile innovations. </li>
+                            <li>Best-quality application improvement process.</li>
+                            <li>Time-bound distribution and profitable services. </li>
+                            <li>Reputed and Recognized for growing best mobile applications.</li>
+                            <li>Provide dynamic services to the different platform.</li>
                         </ul>
                        
                     </div>

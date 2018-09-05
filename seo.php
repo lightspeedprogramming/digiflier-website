@@ -28,7 +28,7 @@
                 <div class="col-lg-6">
                     <div class="service-details">
                         <h1><strong style="font-weight: 900;">Search Engine <br>Optimization</strong></h1>
-                        <p>On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</p>
+                        <p>It is the strategy for boosting the positioning or prominence of a site over a web. By and large, visit the site shows up on the page, the more visitors it will get a handle on from the web search tools customers. It might accept different kinds of quests, including picture look, close-by chase, video look for, educational request, and news request.</p>
                         
                     </div>
                 </div>
@@ -51,10 +51,7 @@
                 <div class="col-md-12 text-center">
                     <h3 style="font-size:32px;">TAKE YOUR BUSINESS <b>TO THE NEXT LEVEL</b></h3>
                     <p style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-                        Digi Flier can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
-                        technical and copywriting staff enables Digi Flier to successfully 
-                        meet the needs of companies with complex<br> 
-                        websites in competitive industries
+                       XYZ can increase the search engine rank and website traffic of any company. The experienced or professionals offered by <br>its technical and copywriting staff enables XYZ to successfully meet the needs of companies with complex <br>websites in competitive industries.
                     </p>
                 </div>
             </div>
@@ -68,10 +65,10 @@
                 <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                            Analyze a web site
+                            EXAMINE THE WEBSITE
                         </h4>
                         <p>
-                            We first analyze a web site, followed by a step-by-step plan to have the website communicate keywords more effectively to search engines. Our ultimate goal is to get our clients more visitors and higher conversion of sales and leads.
+                            Our teams initially examine a site by a well-ordered plan so that the site should communicate keywords more adequately to search engines. Our main objective is to grasp our customers with maximum number of visitors and let their business to a new height.
                         </p>
                        
                     </div>
@@ -84,7 +81,7 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">On-Page & Off-Page Optimization</h4>
                         <p>
-                            The goal of on page and off page optimization is to generate a theme consistent with your targeted keywords. The search engine is a robot, not a human … and therefore, you must follow our proven process to educate the robot so that it brings your website up when your potential customers are searching for specific business related keywords.
+                            The objective of on page and off page optimization is to implement a subject reliable with your focused on targeted words. The search engine is a robot, not a human and in this manner, you should take after our demonstrated procedure to teach the robot with the aim that it brings your site up when your potential clients are hunting down particular business-related keywords.
                         </p>
                        
                     </div>
@@ -104,7 +101,7 @@
 
     <!--How We Do Section-->
 
-    <section class="pt-50 pb-50">
+    <!--<section class="pt-50 pb-50">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -151,7 +148,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <!--# How We Do-->
 
@@ -159,7 +156,7 @@
 
     <!--  counter section  -->
 
-    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
+    <!--<section class="pt-120 pb-55" style="background-color: #f6f6f6;">
         <div class="container">
             
             <div class="row justify-content-center">
@@ -210,7 +207,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     
 
     <!--  #counter-section  -->
@@ -223,7 +220,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2><strong>WHY SEO IS BENEFICIAL</strong> TO YOUR BUSINESS?</h2>
-                        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+                        
                     </div>
                 </div>
             </div>
@@ -236,7 +233,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Ranking Importance</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers</p>
+                            <p>This year our XYZ Company is the top-most ranking in all country in SEO providing area.</p>
                         </div>
                     </div>
                 </div>
@@ -247,7 +244,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Effective strategy</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers</p>
+                            <p>SEO permits you to the ability to pick the keyword searched performed by the targeted or expert clients.</p>
                         </div>
                     </div>
                 </div>
@@ -258,11 +255,11 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Bring Visitors</h4>
-                            <p>Solid SEO and search friendly Web design will help bring visitors to your Website</p>
+                            <p>Our expert or professional developers will assist to design the best responsive website will help you to grasp the visitors to your websites.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-sm-6">
+                <!--<div class="col-lg-4 col-sm-6">
                     <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
                         <div class="single-feature-img">
                             <i class="fab fa-google"></i>
@@ -294,7 +291,7 @@
                             <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
                         </div>
                     </div>
-                </div>
+                </div>-->
             </div>
         </div>
     </section>

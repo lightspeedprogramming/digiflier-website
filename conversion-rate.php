@@ -7,6 +7,21 @@
 ?>
 
     
+    <!-- Banner -->
+    <section id="banner" style="max-width: 100%;height: 302px;">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="img-wrap-services" style="background-image: url('img/bg/bg-3.jpg');">
+                    <div class="heading-title">
+                        <h4 style=""><strong>Conversion Rate Optimization</strong></h4>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Banner -->
+
     <!-- Service Details -->
     <section class="pt-30 pb-30 light-bg">
         <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
@@ -15,12 +30,9 @@
                 <div class="col-lg-7 col-md-6">
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1 style="font-weight: 900;">Conversion Rate Optimization</h1>
-                        <p><strong>PPC</strong> stands for pay-per-click, a model of internet
-                            marketing in which advertisers pay a fee each time one of their ads is clicked. Essentially, it’s a way of buying visits to your site, rather than attempting to “earn” those visits<br> organically.
+                        <p>Conversion rate optimization is that technique for maximizing the number of audiences to a website that converts into customers. It is quickly gaining in quality as a result of its seen as the way to extend profits from sales while not raising your advertising spends. CRO is the method of optimizing your sponsored search ads, landing pages, and overall website design to raise your marketing rate.
                         </p>
-                        <p>
-                            Search engine advertising is one of the most popular forms of PPC. It allows advertisers to bid for ad placement in a search engine’s sponsored links when someone searches on a keyword that is related to their business offering.
-                        </p>
+                        
                         
                     </div>
                 </div>
@@ -43,7 +55,7 @@
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
                         <h2>WHAT IS A <strong>CONVERSION?</strong></h2>
-                        <p>A conversion is the specific action you want your web visitor to take on your website or landing page, such as:</p>
+                        <p>A conversion is that the specific action you would like your net visitor to require on your website or landing page, such as</p>
                     </div>
                 </div>
             </div>
@@ -117,7 +129,7 @@
 
 
     <!-- two column section -->
-        
+    <!--    
     <section class="pt-30">
         <div class="container">          
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
@@ -142,11 +154,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- two column section -->
 
    <!--How We Do Section-->
-
+<!--
     <section class="pt-120 pb-90">
         <div class="container">
             <div class="row">
@@ -192,12 +204,12 @@
             </div>
         </div>
     </section>
-
+-->
     <!--# How We Do-->
 
 
     <!-- our approach -->
-        
+    <!--    
     <section class="pt-30" style="background-color:">
         <div class="container">
             
@@ -227,12 +239,12 @@
             </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- what we offer -->
 
 
     <!-- single row section -->
-    <section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
+    <!--<section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="cl-md-12">
@@ -245,7 +257,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- single row section -->
 
 

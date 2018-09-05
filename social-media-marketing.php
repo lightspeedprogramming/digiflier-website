@@ -29,7 +29,15 @@
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1><strong style="font-weight: 900;">Social Media Marketing</strong></h1>
                         <p>
-                            A powerful tool of communication, social media allows companies to reach their customers where they are, while also characterizing their brands and expanding their customer base. If done correctly, social media marketing can also increase the efficacy of other marketing techniques – including SEO and SEM – by helping build natural links, and drive traffic, awareness, brand recognition and goodwill. If you have been struggling with social media strategy, management, or advertising we can help.
+                            Online life itself is a catch-all term for locales that may give drastically extraordinary social activities. Facebook interestingly is an out and out person to person communication site that takes into consideration sharing updates, photographs, joining occasions and an assortment of different exercises. 
+                        </p>
+
+                        <p>
+                            Web based life showcasing, or SMM, is a type of web advertising that includes making and sharing substance via web-based networking media arranges keeping in mind the end goal to accomplish your promoting and marking objectives. Online life promoting incorporates exercises like posting content and picture updates, recordings, and other substance that drives group of onlookers’ commitment, and in addition paid internet based life publicizing. 
+                        </p>
+
+                        <p>
+                            We've made this manual for give you a prologue to online life promoting and some starter internet based life advertising tips and preparing to enhance your business' social nearness. 
                         </p>
                         
                     </div>
@@ -61,7 +69,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/strategy-image.png" alt="" height="100px" width="100px" class="rounded-circle img-fluid mb-30">
                         <h4>SOCIAL MEDIA STRATEGY DEVELOPMENT</h4>
-                        <p>We provide a range of high-value social media consultancy services through which we help you to achieve tangible results from their social media activities.</p>
+                        <p>We give a scope of high-esteem online life consultancy benefits through which we assist you with achieving unmistakable outcomes from their internet based life exercises. </p>
                         
                     </div>
                 </div>
@@ -70,7 +78,7 @@
                         <img src="img/SOCIAL MEDIA ADVERTISING MANAGEMENT.png" height="100px" width="100px"  alt="" class="rounded-circle img-fluid mb-30">
                         <h4>SOCIAL MEDIA ADVERTISING MANAGEMENT</h4>
                         <p>
-                            Our social media advertising services are proven to accelerate growth. By advertising through social media, 100% of our clients have seen results.
+                            Our internet based life publicizing administrations are demonstrated to quicken development. By publicizing through online networking, 100% of our customers have gotten results. 
                         </p>
                         
                     </div>
@@ -80,7 +88,7 @@
                         <img src="img/SOCIAL MEDIA CONTENT CREATION.png" height="100px" width="100px"  alt="" class="rounded-circle img-fluid mb-30">
                         <h4>SOCIAL MEDIA CONTENT CREATION</h4>
                         <p>
-                            We provide a range of social media writing and posting services to help you directly or indirectly market your offerings through online social media.
+                            We give a scope of web based life composing and presenting administrations on help you straightforwardly or by implication advertise your contributions through online web based life. 
                         </p>
                         
                     </div>
@@ -93,7 +101,7 @@
 
 
     <!-- Take Our business to the nest level -->
-        
+    <!--    
     <section class="pt-30 pb-30">
         <div class="container">
             
@@ -117,11 +125,11 @@
             </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- take our business to the next level -->
 
     <!-- Abut Us -->
-    <section class="pt-30 pb-55">
+    <!--<section class="pt-30 pb-55">
         <div class="container">
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
@@ -168,7 +176,7 @@
             </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- End of About Us -->
 
 
@@ -188,7 +196,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/strategy-development.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>STRATEGY</strong> DEVELOPMENT</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        <!--<p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>-->
                         
                     </div>
                 </div>
@@ -196,7 +204,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".4">
                         <img src="img/advertising-management.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>ADVERTISING</strong> MANAGEMENT</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        <!--<p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>-->
                         
                     </div>
                 </div>
@@ -204,7 +212,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
                         <img src="img/community-management.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>COMMUNITY</strong> MANAGEMENT</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        
                         
                     </div>
                 </div>
@@ -212,7 +220,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
                         <img src="img/measurement-reporting.png" alt="" class="rounded-circle img-fluid mb-30">
                         <h4><strong>MEASUREMENT</strong> & REPORTING</h4>
-                        <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
+                        
                         
                     </div>
                 </div>
@@ -224,7 +232,7 @@
 
 
     <!-- single row section -->
-    <section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
+    <!--<section class="light-bg pt-120 pb-55" style="background-image: url(img/banner-2.jpg);">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="cl-md-12">
@@ -237,7 +245,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     <!-- single row section -->
 
 

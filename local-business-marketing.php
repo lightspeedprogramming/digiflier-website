@@ -30,7 +30,7 @@
                     <div class="service-details" data-animate="fadeInUp" data-delay=".1">
                         <h1 style="font-weight: 900;">Local Business Marketing</h1>
                         <p>
-                            Local marketing is a crucial aspect of a successful, comprehensive Internet marketing strategy. For the business with multiple locations or the corporation seeking more local customers, a traditional approach to SEO won’t be enough; in fact, marketing to a targeted local audience requires its own unique set of strategies. When done correctly, local online marketing allows businesses to improve their branding, positively engage with their community, increase customer loyalty and secure higher conversion rates.
+                            Local business marketing could be a main part of a fruitful online offering methodology. For the business with different areas or the company looking for a considerable measure of local client's then standard way to deal with mobile app development won't be sufficient and in fact, pitching to a focused on local crowd needs its own particular unmistakable arrangement of ways. We always offering grants organizations to help their marking totally have connection with their locale, increment customer devotion and secure higher transformation rates.
                         </p>                        
                     </div>
                 </div>
@@ -53,9 +53,7 @@
             <div class="row">
                 <div class="col-md-12 text-center services-para">
                     <h3 style="font-size:32px;">SERVICE <strong>PROCESS</strong></h3>
-                    <p class="pt-30" style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-                        The following chart is a summary of each local marketing technique and we dive<br> into each category in detail below.
-                    </p>
+                    
                 </div>
             </div>
             
@@ -78,7 +76,7 @@
                         </div>
                         <div class="single-feature-content mt-50">
                             
-                            <h4 style="font-weight:normal;color:#777;"><strong>BUSINESS</strong  LISTINGS</h4>
+                            <h4 style="font-weight:normal;color:#777;"><strong>BUSINESS</strong>  LISTINGS</h4>
                         </div>
                     </div>
                 </div>
@@ -120,7 +118,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h1 style="font-family: Lucida Fax; color: #000;font-size:35px ;text-transform: uppercase;text-align: center;padding-bottom:35px;font-weight: 100;">
-                       OUR LOCAL MARKETING <strong style="font-weight: 700;">SERVICES</strong>
+                       LOCAL MARKETING <strong style="font-weight: 700;">SERVICES</strong>
                     </h1>
                 </div>
             </div>
@@ -138,11 +136,14 @@
                             Local Search Engine Optimization (SEO)
                         </h4>
                         <p>
-                           Implementing a local SEO campaign is one of the first steps we take when launching a client’s online marketing strategy. We first ensure that a client’s website is properly and fully indexed by the major search engines that determine rankings, which involves submitting an XML sitemap to platforms like Google Webmaster.<br>
-                           We specialize in optimizing Google+ Local Business Pages, with appropriate images, video, description and other related factors that can get you in the top of search result and attract highly targeted customers to your business.
+                           The essential advances we take once propelling a customer's internet marketing technique are to execute a neighborhood SEO battle. We ensure that a customer's site is right and completely filed by the preeminent web search tools that affirm rankings, which include presenting a XML sitemap to stages like Google Webmaster. 
                         </p>
 
-                        <a href="seo.php" class="btn btn-md btn-info" style="color: #fff;">UNDERSTAND MORE</a>
+                        <p>
+                            We center on enhancing Google+ local Business Pages, with appropriate pictures, video, depiction and diverse associated factors that may get you inside the highest point of the query output and draw in to a great degree focused on clients to your business. 
+                        </p>
+
+                        <a href="seo.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
                        
                     </div>
                 </div>
@@ -153,7 +154,7 @@
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Local Business Directory Listings</h4>
                         <p>
-                            EasyWeb also creates client listings in numerous online business directories like Yelp! and Google+ Local to significantly boost a company’s local online presence. Our primary goal is to make every client’s company more visible and accessible and, despite the decline in popularity of the physical phone book, an online business directory is now the best method for achieving both of these objectives.
+                            XYZ conjointly makes customer postings in differed online professional references to support an organization's nearby online nearness. Our primary aphorism is to frame every customer's organization a ton of noticeable and available and, regardless of the decrease in nature of the physical telephone directory, a web professional reference is right now the best method for accomplishing every one of those targets. 
                         </p>
                     </div>
                 </div>
@@ -171,10 +172,10 @@
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Local PPC</h4>
                         <p>
-                            Local Pay per Click is the fastest way to attract ready to buy prospects to your local business and convert them in to recurring customers.<br>Local PPC Ads are only shown to people who are searching within a very Limited Geographic Area, mostly within 50 miles radios of your shop or office.<br>You only get high targeted traffic to your website, from people who are ready to buy right now. It’s damn effective, less expensive & gives positive results.
+                           Local Pay per Click is the most ideal approach to get plan for your nearby business and change over them into nonstop clients. PPC Ads are just appeared to individuals the individuals who are looking inside a constrained region, to a great extent at interims fifty miles range of your working environment. We let you with high focused on movement to your site that outcomes in the development of your business. It's viable, less exorbitant and offers positive outcomes.
                         </p>
 
-                        <a href="ppc.php" class="btn btn-md btn-info" style="color: #fff;">UNDERSTAND MORE</a>
+                        <a href="ppc.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
                        
                     </div>
                 </div>
@@ -186,7 +187,7 @@
                 </div>
             </div>
 
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6 d-none d-lg-block">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
@@ -213,7 +214,7 @@
                        
                     </div>
                 </div>
-            </div>
+            </div>-->
             
         </div>
     </section>
@@ -223,7 +224,7 @@
 
     <!--  counter section  -->
 
-    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
+    <!--<section class="pt-120 pb-55" style="background-color: #f6f6f6;">
         <div class="container">
             
             <div class="row justify-content-center">
@@ -274,7 +275,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     
 
     <!--  #counter-section  -->

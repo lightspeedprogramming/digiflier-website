@@ -24,11 +24,11 @@
                                                 <!-- Single Review -->
                                                 <div class="swiper-slide">
                                                     <div class="review-text">
-                                                        <p>One of the best theme I have ever used. Every minor detail has been taken care of. Clean, Modern Design can be used for any type of website. Excellent template.</p>
+                                                        <p>“We’ve been working with XYZ mobile app Development Company from long time now. They have great team of expert mobile apps developer”</p>
                                                     </div>
                                                     <div class="review-author d-flex align-items-center">
                                                         <div class="review-author-img">
-                                                            <img src="img/authors/female.png" alt="">
+                                                            <img src="img/client-1.jpg" alt="">
                                                         </div>
                                                         <div class="review-author-info">
                                                             <ul class="list-inline">
@@ -38,7 +38,7 @@
                                                                 <li><i class="fa fa-star"></i></li>
                                                                 <li><i class="fa fa-star"></i></li>
                                                             </ul>
-                                                            <span><strong>Marie J. Campbell</strong>  Miami, USA</span>
+                                                            <span><strong>King Shults</strong><br>  Miami, USA</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -47,11 +47,11 @@
                                                 <!-- Single Review -->
                                                 <div class="swiper-slide">
                                                     <div class="review-text">
-                                                        <p>Lida has assisted me with questions in regards to web hosting and has offered me more insight in half an hour than my current host did in all the years I have been with them.</p>
+                                                        <p>“We’re a really busy app development site gives our customers a really easy way to order, pay, and pick up their services so they can beat the line and beat that lunch rush.”</p>
                                                     </div>
                                                     <div class="review-author d-flex align-items-center">
                                                         <div class="review-author-img">
-                                                            <img src="img/authors/male.png" alt="">
+                                                            <img src="img/client-2.jpg " alt="">
                                                         </div>
                                                         <div class="review-author-info">
                                                             <ul class="list-inline">
@@ -61,7 +61,7 @@
                                                                 <li><i class="fa fa-star"></i></li>
                                                                 <li><i class="fa fa-star"></i></li>
                                                             </ul>
-                                                            <span><strong>Allen MacFlurry</strong><br> New York, U.S.A</span>
+                                                            <span><strong>Allen Cooper</strong><br> New York, U.S.A</span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -70,11 +70,11 @@
                                                 <!-- Single Review -->
                                                 <div class="swiper-slide">
                                                     <div class="review-text">
-                                                        <p>xyz has assisted me with questions in regards to web hosting and has offered me more insight in half an hour than my current host did in all the years I have been with them.</p>
+                                                        <p>“We have been designing mobile apps and services for many years for companies ranging from emerging start-ups to XYZ have been excellent development partners for Stomp Sessions. XYZ rapid development approach works in concert with our highly iterative process.”</p>
                                                     </div>
                                                     <div class="review-author d-flex align-items-center">
                                                         <div class="review-author-img">
-                                                            <img src="img/authors/author1.jpg" alt="">
+                                                            <img src="img/client-3.jpg" alt="">
                                                         </div>
                                                         <div class="review-author-info">
                                                             <ul class="list-inline">
@@ -84,7 +84,7 @@
                                                                 <li><i class="fa fa-star"></i></li>
                                                                 <li><i class="fa fa-star"></i></li>
                                                             </ul>
-                                                            <span><strong>Paul Ashfire</strong> Chiksaw, Mississipi</span>
+                                                            <span><strong>Bella Summers</strong> <br>Kantucky, U.S.A</span>
                                                         </div>
                                                     </div>
                                                 </div>

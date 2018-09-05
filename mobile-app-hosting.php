@@ -28,8 +28,11 @@
                 <div class="col-lg-6">
                     <div class="service-details">
                         <h1><strong>Mobile App Hosting</strong></h1>
-                        <p>Host your mobile application over our stage causes you to use whichever gadget and customer compose most reasonable to your objective client. Manufacture and convey an undertaking class application, while the whole lifecycle of your application is overseen and facilitated with High-execution API foundation.</p>
-                                                
+                        <p>When it incorporates building succeeding colossal factor, you need the flexibility to work in up your applications, not running your foundation. That is the reason you may need application encouraging from XYZ, the cloud that goes with each one of the specialists and specialists you need to manage them. That technique you'll have the ability to pay some time on your code, rather than your preparation. </p>
+                             
+                        <p>
+                            Host your mobile application over our stage makes you utilize whichever device and client form most sensible to your goal customer. Fabricate and pass on an endeavor class application, while the entire lifecycle of your application is regulated and encouraged with High-execution API establishment.
+                        </p>                   
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -52,22 +55,22 @@
             <div class="row pb-80">
                 <div class="col-md-12 text-center">
                     <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                        <strong>MOBILE HOSTING SERVICES</strong>
+                        <strong>MOBILE APP HOSTING SERVICES</strong>
                     </h4>
                 </div>
             </div>
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/mobile-app-hosting/img-3.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">You Build, We Host on App-Ready Architecture
                         </h4>
                         <p>
-                           nternet-based life, approaching or a government official application produced for business correspondence manufacture your apps and enable us to redesign and scale in our High handiness outline. A quick sends, a fast redesign relate degreed a perpetual perception is a thing that your application gets with our Mobile App Hosting Service.
+                           Web based life, drawing nearer or an administration official application delivered for business correspondence produce your applications and empowers us to update and scale in our High handiness plot. A brisk sends, a quick overhaul relate degreed a ceaseless recognition is a thing that your application gets with our Mobile App Hosting Service. 
                         </p>
                     </div>
                 </div>
@@ -76,17 +79,17 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">24x7 Performance Monitoring</h4>
                         <p>
-                            Your Mobile Apps should keep on-line persistently and payload rapidly and for that, we are prepared. The total 10GB/s arrange is checked firmly by experts in our Network Operations Center (NOC), so you run your most loved application consistently.
+                            Your Mobile Apps should keep on-line tenaciously and payload quickly and for that, we are readied. The aggregate 10GB/s organize is checked immovably by specialists in our Network Operations Center (NOC), so you run your most cherished application reliably. 
                         </p>
 
                     </div>
                 </div>
                 
                 <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/mobile-app-hosting/img-4.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
@@ -95,17 +98,17 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/mobile-app-hosting/img-5.png" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                            Pay only for what you use
+                            Pay just for what you use
                         </h4>
                         <p>
-                            Avoid additional value. The paid technology helps you save significantly, as you pay just for the resources you really use. In alternative things, after you release resources, we are able to free you of the price.
+                            Keep away from extra esteem. The paid innovation encourages you spare fundamentally, as you pay only for the assets you truly utilize. In elective things, after you discharge assets, we can free you of the cost. 
                         </p>
                     </div>
                 </div>
@@ -114,16 +117,16 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Let Your Developers Code a New Thing, With Complete Focus & Full Control</h4>
+                    <div class="number-one-content">
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Give Your Developers a chance to code a New Thing, With Complete Focus and Full Control </h4>
                         <p>
-                            Want to develop a substitute’s app, go ahead, and focus. Your developers will take hold through full root/ admin control of the servers. Store, operate languages like .NET and NodeJS, and many more. Get a strong and mobile backend.
+                            Need to build up a substitute's application, feel free to, center. Your designers will grab hold through full root/administrator control of the servers. Store, work dialects like .NET and NodeJS, and some more. Get a solid and mobile backend. 
                         </p>
                     </div>
                 </div>
                 
                 <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/mobile-app-hosting/img-6.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
@@ -132,17 +135,17 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/mobile-app-hosting/img-7.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             Cloud (Enterprise, Private, Hybrid) you choose your platform, We Deploy and Manage
                         </h4>
                         <p>
-                            Avoid additional value. The paid technology helps you save significantly, as you pay just for the resources you really use. In alternative things, after you release resources, we are able to free you of the price.
+                            Cloud is for the degree. Get and select your versatile applications up and running a decent stage. Make a solid, rapid anyway very secure backend on big business, individual, local or cross breed cloud and for exceedingly skillful portable applications. 
                         </p>
                     </div>
                 </div>
@@ -151,16 +154,16 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Full Protection and Security</h4>
                         <p>
-                            o risk-remission for your mobile application and keep protected against DDoS attacks and the other threats. With MTvScan, you will change against reaction that offers advanced technologies application level security and removes prospects of a delay.   
+                            To chance abatement for your portable application and keep ensured against DDoS assaults and alternate dangers. With MTvScan, you will change against response that offers trend setting innovations application level security and evacuates prospects of a postponement.
                         </p>
                     </div>
                 </div>
                 
                 <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center" >
                         <img src="img/mobile-app-hosting/img-8.jpg" alt="" data-rjs="2">
                     </div>
                 </div>

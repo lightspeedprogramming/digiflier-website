@@ -25,7 +25,7 @@
     
     <!-- Take Our business to the nest level -->
         
-    <section class="pt-30 pb-55">
+    <section class="pt-60 pb-50">
         <div class="container">
            
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
@@ -39,7 +39,15 @@
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">EMAIL MARKETING SERVERS
                         </h4>
                         <p>
-                          An email advertising server is totally not the same as the regular active mail servers identified with free email providers i.e. Gmail, Yahoo and some more. Actually, exclusively a specialist causation service like turbo SMTP will support high volume email advancing efforts influencing certain the best conveyance to rate for all messages.
+                          The primary point is that any regular free SMTP servers put a limit to the quantity of beneficiaries that you can deal with for each mailing, to prevent spammers from utilizing them. An email showcasing server is altogether different from the typical active mail servers related to free email suppliers i.e. Gmail, Yahoo. Actually, just an expert sending services like turboSMTP can support high volume email marketing efforts guaranteeing the best conveyance rate for all messages.
+                        </p>
+
+                        <p>
+                            At XYZ, services provide with due to high performance, email message assembly server providing construction, merging, customization, scalability, tracking, reporting, integration, and fail-safe operation.
+                        </p>
+
+                        <p>
+                            The SMTP email marketing server is allowed to feature powerful throughput, high deliverability, easy administration, campaign and message tracking, multi-homed virtual servers, built-in reporting and deep .Net API integration.
                         </p>
                     </div>
                 </div>
@@ -49,9 +57,20 @@
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
                     <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">EMAIL MARKETING SERVERS</h4>
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">EMAIL SERVER SETTINGS</h4>
                         <p>
-                            An email advertising server is totally not the same as the regular active mail servers identified with free email providers i.e. Gmail, Yahoo and some more. Actually, exclusively a specialist causation service like turbo SMTP will support high volume email advancing efforts influencing certain the best conveyance to rate for all messages.
+                            At the point when open your email account settings in your email programming, utilize these settings don't stress, we'll give you particular cases for the greater part of the non-nerds who aren't prepared to design their email account utilizing just the server settings underneath.
+                        </p>
+
+                        <ul>
+                            <li>Email User Name:  Your full email address</li>
+                            <li>Password:  your email password </li>
+                            <li>Incoming Mail POP or IMAP</li>
+                            <li>Outgoing Mail SMTP</li>
+                        </ul>
+
+                        <p>
+                            More very well, the SMTP server is responsible of the e-mail delivery method, whereas the POP server takes care of the ultimate pick-up of the message by the recipient.
                         </p>
 
                     </div>

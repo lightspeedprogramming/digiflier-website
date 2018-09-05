@@ -39,7 +39,7 @@
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">YOUR EMAIL, OUR COMPANY
                         </h4>
                         <p>
-                          Businesses, organizations, and firms run on email servers. It’s mean that communication happens among team members, customers, and traders. And to remain those wheels turning, you would like email hosting that matches your domain. We have a tendency to assist you thereupon.
+                         Many companies, business, organizations run on the mail servers. The main motto of email hosting is that it connects the team member, customers, suppliers and traders via communication channel. Certified email hosting plays a vital role when both incoming and outgoing emails are delivered by a separate shared or dedicated mail server. We will always assist you.
                         </p>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">WE CAN KEEP A SECRET</h4>
                         <p>
-                            We trust that email is between the gatherings concerned. That’s why we have a tendency to don’t access or share any of your information at any time or deliver ads throughout your online expertise. It's solitary one a considerable measure of techniques we're recognition your back.
+                            At XYZ, We try to keep your email secret on our server. You can trust our company because we can’t share your any type of information or data that deliver by you throughout your online experts. This is only thing a lot of things that we will always assist you for your back.
                         </p>
 
                     </div>
@@ -77,45 +77,42 @@
                             STORAGE? NO PROBLEM
                         </h4>
                         <p>
-                            There's nothing more awful than traveling through long stretches of messages basically to free some territory. Our designs differ from five to 15 GB of capacity for each client, which gives you sufficient space to store every one of the messages.
+                            There is nothing to worry we also provide large storage area for your data collections. Our plans vary from 20 GB storage per customers which provide you to much enough storage area to collect and keep your data that your all wish successfully.
                         </p>
                     </div>
                 </div>
             </div>
             
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80">
-                <div class="col-lg-6">
-                    <div class="number-one-content">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">SEARCH THAT MAKES PEOPLE JEALOUS</h4>
-                        <p>
-                            Having such enough space storage means you’ve got the area for tons of emails. Our search engine makes it easy to find out what you’re trying to find, and it’s simple to use. And once you’re ready to realize things in your archives, it makes your life easier. That’s a winning combination for you and us.
-                        </p>
-                    </div>
-                </div>
-                
-                <div class="col-lg-6">
-                    <div class="text-center" >
-                        <img src="img/email-hosting/img-4.jpg" alt="" data-rjs="2">
-                    </div>
-                </div>
-            </div>
+            
 
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6">
-                    <div class="text-center">
-                        <img src="img/email-hosting/img-5.png" alt="" >
-                    </div>
-                </div>
+                
                 <div class="col-lg-6">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             ON THE WEB OR ON THE GO
                         </h4>
                         <p>
-                            Avoid additional value. The paid technology helps you save significantly, as you pay just for the resources you really use. In alternative things, after you release resources, we are able to free you of the price.
+                            Keep your inbox in a set regardless of wherever you're with the ability of email hosting. Whether you’re on a mobile device, or on your desktop, we've arrangements which will work the technique you work for wherever.
                         </p>
+
+                        <h4>Trustworthy, secure email service is an essential in today’s business communications.</h4>
+                        
+                        <ul>
+                            <li>Safe, secure email</li>
+                            <li>Eliminate Spam and Viruses</li>
+                            <li>Get Organized</li>
+                            <li>Access Email From Any Browser</li>
+                            <li>Branded Emails</li>
+                            <li>Direct Marketing Emails</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="text-center">
+                        <img src="img/email-hosting/img-5.png" alt="" >
                     </div>
                 </div>
             </div>

@@ -28,7 +28,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="service-details">
                         <h1 style="font-weight: 900;">Email Marketing</h1>
-                        <p>Email marketing is directly marketing a commercial message to a group of people using email. In its broadest sense, every email sent to a potential or current customer could be considered email marketing. It usually involves using email to send ads, request business, or solicit sales or donations, and is meant to build loyalty, trust, or brand awareness.</p>
+                        <p>It is a methodology of promoting a business message to a social occasion of people using email. In its broadest sense, each email sent to a perfect customer could be considered email promoting. It enables email to send advancements, request business and is expected to produce unwavering quality and trust.</p>
                         
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Responsive Email Design</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers</p>
+                            <p>Our expert developers will design your email with HTML and CSS that utilizes media queries to achieve minimum formatting across all sizes of the device.</p>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Email Copywriting</h4>
-                            <p>SEO allows you the ability to choose keyword phrases for searches performed by potential customers</p>
+                            <p>Our email service will let you with higher profits from the marketing media with the highest ROI.</p>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Campaign Production & Deployment</h4>
-                            <p>Solid SEO and search friendly Web design will help bring visitors to your Website</p>
+                            <p>Our main motive is to maximize the performance of your business with behaviorally targeted, triggered communications.</p>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Automated Email Marketing</h4>
-                            <p>96% of Internet users begin their Web search through a major search engine (Google, Bing, Yahoo, AOL)</p>
+                            <p>Our marketing automation professionals will help you to increase your sales, profits, and gain more experience, all while saving you time and money.</p>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Fully Managed Email Marketing</h4>
-                            <p>In January 2016, more than 17.5 billion searches were performed with 342 billion search results</p>
+                            <p>Our experts are fully passionate about their work and they completely focus on making two email campaigns for every month.</p>
                         </div>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="single-feature-content">
                             <h4>Email List Cleaning</h4>
-                            <p>At vero eos et accusamus et iusto dignissimosus qui blanditiis praesentium uptatum</p>
+                            <p>We'll refresh the old email addresses that let you score maximum focuses.</p>
                         </div>
                     </div>
                 </div>
@@ -143,32 +143,32 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center">
                         <img src="img/icons/newsletter.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4><strong>CREATE</strong> NEWSLETTER</h4>
-                        <p>Design engaging email marketing campaigns with simple drag-and-drop tools. Fast and simple!</p>
+                        <h4><strong>Create</strong> an Email Newsletter</h4>
+                        <p>Plan your email marketing efforts with our intuitive instruments. We give you the affirmation that your site will look alluring in each inbox of the gadget. We let you with an outrageous level of solace and straightforwardness while building and sending email movement. </p>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center">
-                        <img src="img/icons/email-delivery.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4><b>DELIVERABILITY</b> TESTS</h4>
-                        <p>Onpage optimization refers to all measures that can be taken directly within the website in order to improve its position</p>
+                        <img src="img/icons/ab-split.jpg" alt="" class="rounded-circle img-fluid mb-30">
+                        <h4><strong>A/B</strong> Split Test </h4>
+                        <p>A/B Split Testing bolster you better appreciate supporter tendencies, get understanding into fight accomplishment and sufficiently track battles after some time. Split testing will perceive best practices for your exceptional social event of individuals, the components choosing your open and change rates and refine division. Test your feature, from name, email substance, CTA and sending day/time. </p>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center">
                         <img src="img/icons/campaign-deliver.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4>SEND YOUR CAMPAIGN</h4>
-                        <p>In the field of SEO, link building describes actions aimed at increasing the number and quality of inbound links to a webpage</p>
+                        <h4><strong>Send</strong> Your Campaign and Ensure Delivery</h4>
+                        <p>Email movement can be sent at whatever point it may suit you as we have put it on the cloud, which suggests you can get to it at whatever point and wherever using your work area, tablet or iPhone. Deal with your battles, or send it rapidly. Check conveyance reports and points of interest rapidly. High transport rates are guaranteed as we have criticism circles with all genuine system get to providers. </p>
                         
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center">
                         <img src="img/icons/campaign-tracking.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4>TRACK CAMPAIGNS</h4>
-                        <p>Our SEO review consists of several factors like a content, linking structure, social media efforts, and its trust on the internet</p>
+                        <h4>Track Campaigns Monitor Reports</h4>
+                        <p>Following your email marketing effort execution is less demanding with Go Digital Marks. You can without much of a stretch check to what number of beneficiaries opened your email, what number of messages erased, pull back rates and conveyance reports. XYZ let’s to explore and decipher your fight execution with outlines and data to empower you to improve your movement.</p>
                         
                     </div>
                 </div>
@@ -182,7 +182,7 @@
 
     <!-- Take Our business to the nest level -->
         
-    <section class="pt-50 pb-50">
+    <!--<section class="pt-50 pb-50">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -277,14 +277,14 @@
                 </div>
             
         </div>
-    </section>
+    </section>-->
     <!-- take our business to the next level -->
 
 
     
     <!--  counter section  -->
 
-    <section class="pt-120 pb-55" style="background-color: #f6f6f6;">
+    <!--<section class="pt-120 pb-55" style="background-color: #f6f6f6;">
         <div class="container">
             
             <div class="row justify-content-center">
@@ -335,7 +335,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
     
 
     <!--  #counter-section  -->

@@ -32,21 +32,20 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;"><strong>Mobile App Designing</strong></h4>
                         <p>
-                            With a concentrated scope of applications winning inside the market, eye-getting styles and recognized user-interface are essential to draw clients towards your mobile applications. It is altogether accepted in light of the fact that the most imperative half for portable applications as entirely unexpected characteristics of mobiles apps in the market.
+                            At XYZ, we create the innovative and attractive app design apps your smartphones. With a concentrated scope of applications winning inside the market, we recognized user-interface is essential to draw clients towards your mobile applications. It is altogether accepted in light of the fact that the most imperative half for mobile applications as entirely unexpected characteristics of mobiles apps in the market.
                         </p>
 
                         
-
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;"><strong>Go Digital Marks offers mobile app designing with rich features like:</strong></h4>
+                        <h4 style="line-height: 1.2;margin-bottom: 10px;"><strong>XYZ offers mobile app designing with rich features like:</strong></h4>
 
                         <ul>
-                            <li>hdkdksj</li>
-                            <li>jlajlkdasjdl</li>
-                            <li>ajklasjdjl</li>
+                            <li>Attractive looks for apps</li>
+                            <li>Attractive impact on  the best application user</li>
+                            <li>Creative user interface integrity</li>
                         </ul>
 
                         <p>
-                            Gadgets we use at Go Digital Marks include HTML, HTML5, and CSS3, Photoshop, Adobe and multiple most recent gadgets available in the market. Designing for mobile applications is the hardest task it needs gadgets compatibility with their screen sizes, resolutions, designs and elective perspectives. We are able to acquire every one of those conditions arranging user interface for mobile and tablets.
+                            Gadgets we use at XYZ include HTML, HTML5, and CSS3, Photoshop, Adobe and multiple most recent gadgets available in the market. Designing for mobile applications is the toughest task it needs gadgets compatibility with their screen sizes, resolutions, designs and elective perspectives. We are able to acquire every one of those conditions arranging user interface for designing of mobile apps and tablets apps.
                         </p>
                        
                     </div>
@@ -71,10 +70,14 @@
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
                     <div class="number-one-content">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;margin-left: 15px;">WHY CHOOSE US?</h4>
+                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;margin-left: 15px;">WHY DO YOU CHOOSE US?</h4>
                         <ul>
-                            <li>jdkajdkakd</li>
-                            <li>akjdlajdlakjdlska</li>
+                            <li>Efficient hard work with professional expertise</li>
+                            <li>Experience in mobile user-interface designing for more than 400 apps</li>
+                            <li>Theme and icon design various specifications</li>
+                            <li>Innovative designs.</li>
+                            <li>Compatible with all Smartphone, and Tablets.</li>
+                            <li>Least cost with best quality work surety.</li>
                         </ul>
                        
                     </div>

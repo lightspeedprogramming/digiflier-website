@@ -12,9 +12,9 @@
             <div class="col-md-12">
                 <div class="img-wrap" style="background-image: url('img/bg/bg-2.jpg');">
                     <div class="heading-title">
-                        <h1 style=""><strong>Fast & Easy</strong></h1>
+                        <h2><strong>STAY ON TOP OF YOUR BUSINESSES</strong></h2>
                         <p>
-                            We are building bridges in seo technology in order to <br>connect the client’s goal to reality.
+                            <strong>We offer many mobile apps and web apps that convert your creative <br>ideas for your smart business.</strong>
                         </p>
                     </div>
                 </div>
@@ -25,7 +25,7 @@
 
 
     <!-- Banner Services Section -->
-            <section id="banner-services" class="text-center" style="margin-top: -390px; z-index: 1;left: 7%;">
+            <section id="banner-services" class="text-center">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-lg-2 col-sm-3 col-12">
@@ -35,7 +35,7 @@
                                         <img src="img/mobile-app-development/icons/mobile-app-development.png" class="rounded-circle">
                                     </div>
                                     <div class="content text-center">
-                                        <h4>Mobile <br>App Development</h4>
+                                        <h4>Mobile App Development</h4>
                                     </div>
                                 </div>    
                             </a>
@@ -61,7 +61,7 @@
                                         <img src="img/mobile-app-hosting/icons/icon-1.png" class="rounded-circle">
                                     </div>
                                     <div class="content text-center">
-                                        <h4>Mobile<br> App <br>Hosting</h4>
+                                        <h4>Mobile App <br>Hosting</h4>
                                     </div>
                                 </div>    
                             </a>
@@ -198,10 +198,9 @@
         <div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h3 style="font-size:32px;">Get More <b>Friendly</b> in search engines</h3>
+					<h3 style="font-size:32px;">BE MORE <span style="color: #821b25;font-weight: bold;">FAMILIER</span> WITH OUR NEWLY<br> DESIGNED COOL SOFTWARES</h3>
 					<p style="font-size:18px;line-height:1.3;margin-bottom:7px;">
-						We are building bridges in seo technology in order to<br>
-						connect the client’s goal to reality.
+						We are the making various platform for the development of software application with a specific goal to facilitate<br> the customer's objective to this present reality. 
 					</p>
 				</div>
 			</div>
@@ -214,16 +213,25 @@
                 </div>
                 <div class="col-lg-6 col-md-12 sm-device-padding">
                     <div class="number-one-content">
-                        <h4 style="font-size: 24px;line-height: 1.2;margin-bottom: 10px;">We help your site get found.</h4>
+                        <h4 style="font-size: 24px;line-height: 1.2;margin-bottom: 10px;">WE OFFER YOU</h4>
                         <p>
-							Our Consultancy SEO services provide research, analysis and recommendations for all websites, but especially for those having difficulty with their Search Engine visibility. Digi Flier successfully meet the needs of companies with complex websites in competitive industries.
-							Some of the most common services we provide are:
+							Specializations and courses in software development address the way towards making software, including advancement tools and innovations, programming languages i.e. Python, C, Java, and programming framework and testing. 
 						</p>
+
+                        <p>
+                            We offer remarkable execution and incentive all around with our item package things and organizations while not drop out quality. Our counselors get dynamic approach all through the item package change lifecycle. We have the genuine presentation and headway capacity with chief specific specialists. 
+                        </p>
+
+                        <h5>
+                            We at Go Digital Marks let you with the best organizations that are: 
+                        </h5>
+
                         <ul>
-							<li>Search Engine Optimization</li>
-							<li>Pay Per Click Management</li>
-                            <li>Social Media Marketing</li>
-                            <li>Content Marketing Strategy</li>
+							<li>Video Chats </li>
+							<li>Data representation programming </li>
+                            <li>Programming testing </li>
+                            <li>Electronic life applications</li>
+                            <li>UI/UX designing and layout</li>
 						</ul>
                     </div>
                 </div>
@@ -243,7 +251,7 @@
           <div class="col-sm-12 col-md-12 col-lg-12">
             <div class="headbox1 text-center">
               <h2 style="font-weight: 700px"><strong>Our Simple Process</strong></h2>
-              <p>Let's have a look at what creativity is in the digital experiences!</p>
+              <p>Let's view what innovativeness is in the computerized encounters.</p>
             </div>
           </div>
         </div>
@@ -329,25 +337,15 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <div class="number-one-content sm-device-padding" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content sm-device-padding">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             Website Development
                         </h4>   
                         <p>
-                           <strong>Website Development</strong>, better known as SEO, is one of the most critical parts of e-commerce marketing. It is based on special algorithms that analyze the instances of specific keywords on your website. Because users navigate the Internet through search engines like Google, these results play a large role in the success of your website. A good SEO campaign can position your e-commerce website to rise to the top of the Google rankings.
+                           XYZ is top-most Website Development Company in India. We create and develop the best attractive and innovative web pages using the various tools and technologies i.e. JQuery, Bootstrap, Nodejs and many more for a responsive website development supporting the mobile and tablets.
                         </p>
 
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Technology Expertise</h4>
-
-                        <div class="margin-left">
-                            <ul>
-                                <li>Web Application Development</li>
-                                <li>Web Application Development</li>
-                                <li>Web Application Development</li>
-                                <li>Web Application Development</li>
-                                <li>Web Application Development</li>
-                            </ul>
-                        </div>
+                        
 
                         <a href="website-development.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
                        
@@ -358,10 +356,14 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Website Hosting</h4>
                         <p>
-                            <strong>Web hosting</strong> is a service that allows businesses, organizations and other people to post a website or online page onto the web. A service provider may be a business that has the technologies and services needed for the site or pages to be viewed over the internet.
+                            <strong>Web hosting</strong> is a service that allows the various companies or organizations and individuals to post a website or web page onto the Internet. A web hosting service provider, is a business that provides the best technologies and services needed for the website or webpage to be displayed in the Internet. 
+                        </p>
+
+                        <p>
+                            If you decide to create and host your website with .com domain name online store, you can get a custom domain, email addresses, and web hosting all bundled into one subscription.
                         </p>
 
                         <a href="website-hosting.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
@@ -377,29 +379,29 @@
             </div>
 
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+            <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
                     <div class="text-center">
-                        <img src="img/domain-registering/img-1.png" alt="">
+                        <img src="img/mobile-app-designing/image.png" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6  sm-device-padding">
                     <div class="number-one-content sm-device-padding">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                            Domain Registration
+                            Mobile App Designing
                         </h4>
                         <p>
-                            Domain Registration can be very important to e-commerce websites. By creating an effective Facebook business page and enticing potential customers to ‘like’ your page with exclusive offers and discounts, you will not only gain immeasurable word-of-mouth advertising through the network, but will establish yourself as a trustworthy, reputable Internet business.
+                            At XYZ, we create the best attractive and responsive web app design for better showing. Our best app designers design the app with its user interface to draw clients towards your mobile applications. The better app design shows the best attractive looks of you mobile application with the use of better user-interface designing.
                         </p>
 
-                        <a href="domain-registration.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                        <a href="mobile-app-designing.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
                        
                     </div>
                 </div>
             </div>
 
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+            <div class="row align-items-center pb-80">
                 <div class="col-lg-6 sm-device-padding">
                     <div class="text-center">
                         <img src="img/mobile-app-development/img-1.jpg" alt="" data-rjs="2">
@@ -411,7 +413,7 @@
                             Mobile App Development
                         </h4>   
                         <p>
-                           It is perfectly clear that the interest for mobile applications has extended for all organizations. To cope with that, we have a tendency to end up your challenging style and build up the best mobile applications. Go Digital Marks might be the best quality application improvement organization giving mobile application development services to iPhone, Windows, and Android.
+                           It is perfectly clear that the interest for mobile applications has extended for all organizations. To scope with that, we have a tendency to end up your challenging style and build up the best mobile applications. XYZ might be the best quality application improvement organization giving mobile application development services to iPhone, Windows, and Android.
                         </p>
 
                         <a href="mobile-app-development.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
@@ -442,7 +444,7 @@
             </div>
 
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+            <div class="row align-items-center pb-80">
                 <div class="col-lg-6 sm-device-padding">
                     <div class="text-center">
                         <img src="img/email-marketing-servers/img-1.png" alt="" >
@@ -454,7 +456,11 @@
                             Email Marketing Servers
                         </h4>
                         <p>
-                            An email advertising server is totally not the same as the regular active mail servers identified with free email providers i.e. Gmail, Yahoo and some more. Actually, exclusively a specialist causation service like turbo SMTP will support high volume email advancing efforts influencing certain the best conveyance to rate for all messages.
+                            An email marketing server is altogether different from the typical active mail servers related to free email suppliers i.e. Gmail, Yahoo. In fact, just an expert sending services like turboSMTP can support high volume email marketing efforts guaranteeing the best conveyance rate for all messages. 
+                        </p>
+
+                        <p>
+                            The fundamental point is that any basic free SMTP servers put a cutoff to the quantity of beneficiaries that you can deal with for each mailing, to prevent spammers from utilizing them.
                         </p>
 
                         <a href="email-marketing-servers.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
@@ -469,7 +475,7 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Email Hosting</h4>
                         <p>
-                            When it includes building succeeding huge factor, you want the freedom to work in up your apps, not running your groundwork. That is the reason you might want application facilitating from Go Digital Marks, the cloud that accompanies every one of the engineers and experts you want to deal with them. That strategy you'll have the capacity to pay some time on your code, instead of your groundwork.
+                            Email hosting is an administration in which a facilitating supplier rents our email servers to its clients. There are many free forms which give the different organizations while organizations exploit the adaptability and intensity of expert email administrations. Confirmed email facilitating assumes an imperative part when both approaching and active messages are conveyed by a different shared or devoted mail server.
                         </p>
 
                         <a href="mail-hosting.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
@@ -497,10 +503,10 @@
                             Website Migration
                         </h4>
                         <p>
-                            Website Migration is totally not the same as the regular active mail servers identified with free email providers i.e. Gmail, Yahoo and some more. Actually, exclusively a specialist causation service like turbo SMTP will support high volume email advancing efforts influencing certain the best conveyance to rate for all messages.
+                            A website migration is a term world-wide used by mobile app development professionals to define any event whereby a website undergoes substantial changes in areas that can significantly affect search engine visibility  always changes to the websites location, platform, its structure, content, design, or user-interface.
                         </p>
 
-                        <a href="email-marketing-servers.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                        <a href="website-migration.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
                        
                     </div>
                 </div>
@@ -601,7 +607,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay=".7">
                         <img src="img/icons/link-building.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4><b>LINK</b><br> BUILDING</h4>
+                        <h4><b>LINK</b> BUILDING</h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
                         
                     </div>
@@ -610,7 +616,7 @@
                     <div class="single-service text-center" data-animate="fadeInUp" data-delay="1">
 
                         <img src="img/icons/report-analysis.png" alt="" class="rounded-circle img-fluid mb-30">
-                        <h4><b>REPORTING AND ANALYSIS</b></h4>
+                        <h4><b>REPORTING & ANALYSIS</b></h4>
                         <p>Lorem ipsum dolor sit ametteturmpor incididunt most popular.</p>
 					</div>
                     </div>
@@ -622,70 +628,9 @@
     <!--# How We Do-->
 
 
-	<!-- Take Our business to the nest level -->
-		
-    <section class="pt-50 pb-55">
-        <div class="container">
-
-			<div class="row">
-				<div class="col-md-12 text-center">
-					<h3 style="font-size:32px;">TAKE YOUR BUSINESS <b>TO THE NEXT LEVEL</b></h3>
-					<p style="font-size:16px;line-height:1.6;margin-bottom:7px;">
-						xyzr can increase the search engine rank and site traffic of any company. The expertise offered by its<br> 
-						technical and copywriting staff enables Digi Flier to successfully 
-						meet the needs of companies with complex<br> 
-						websites in competitive industries
-					</p>
-				</div>
-			</div>
-			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-30" style="margin-bottom:35px;">
-                <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
-                        <img src="img/index-mage.png" alt="" data-rjs="2">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">What Makes Us Different.</h4>
-                        <p>
-													We do not only provide SEO and Internet marketing services
-													but we also offer a wide array of related services such as SEO
-													friendly web design, pay per click, affiliate marketing, website audits,
-													social media optimization, branding and several others.
-												</p>
-
-                    </div>
-                </div>
-            </div>
-
-			<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-30">
-                <div class="col-lg-6">
-                    <div class="number-one-content" >
-                        <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Increase in Organic traffic.</h4>
-                        <p>
-													We do not only provide SEO and Internet marketing services
-													but we also offer a wide array of related services such as SEO
-													friendly web design, pay per click, affiliate marketing, website audits,
-													social media optimization, branding and several others.
-												</p>
-
-                    </div>
-                </div>
-				
-				<div class="col-lg-6">
-                    <div class="text-center">
-                        <img src="img/oraganic-trafic-section.jpg" alt="" data-rjs="2">
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </section>
-	<!-- take our business to the next level -->
+	
 
 <?php
+    include 'take-your-business-to-next-level.php';
 	include("footer.php");
 ?>
