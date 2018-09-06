@@ -49,14 +49,17 @@
                         <span style="font-size: 23px;color: green;">$450.00/MO</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>15 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>01 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li><span>$250</span> Setup Fee*</li>
+                            <li>$350 Monthly Charge</li>
+                            <li><span>25</span> Keywords</li>
+                            <li><span>6</span> Locations</li>
+                            <li>Minimum of 20 Page 1 Ranking Guarantee</li>
+                            <li> <i  class="fas fa-check"></i>Site SEO Analysis</li>
+                            <li>Listing Submission to 10 directories</li>
+                            <li> <i  class="fas fa-times"></i>Phone Tracking</li>
                         </ul>
-                        <p><sup>$</sup>12.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                        <!--<p><sup>$</sup>12.50 <span>/Monthly</span></p>-->
+                        <a href="contact.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
                 <!--
@@ -83,14 +86,17 @@
                         <span style="font-size: 23px;color: green;">$850.00/MO</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>30 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>03 year</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li><span>$250</span> Setup Fee*</li>
+                            <li><span>$350</span> Monthly Charge</li>
+                            <li><span>25</span> Keywords</li>
+                            <li><span>6</span> Locations</li>
+                            <li>Minimum of 20 Page 1 Ranking Guarantee</li>
+                            <li> <i  class="fas fa-check"></i>Site SEO Analysis</li>
+                            <li>Listing Submission to 50 directories</li>
+                            <li> <i  class="fas fa-check"></i>Phone Tracking</li>
                         </ul>
-                        <p><sup>$</sup>49.50 <span>/Monthly</span></p>
-                        <a href="#" class="btn">Order This Plan</a>
+                        <!--<p><sup>$</sup>49.50 <span>/Monthly</span></p>-->
+                        <a href="contact.php" class="btn">Order This Plan</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -99,13 +105,16 @@
                         <span style="font-size: 23px;color: green;">$1499.00/MO</span>
                         <hr>
                         <ul class="list-unstyled">
-                            <li>Free installation</li>
-                            <li>Up to <span>39 Mpbs</span> download speed</li>
-                            <li>Unlimited data usages</li>
-                            <li><span>Unlimited</span> pricing lock guarantee</li>
-                            <li>Unlimited bandwidth</li>
+                            <li><span>$250</span> Setup Fee*</li>
+                            <li><span>$350</span> Monthly Charge</li>
+                            <li><span>25</span> Keywords</li>
+                            <li><span>6</span> Locations</li>
+                            <li>Minimum of 20 Page 1 Ranking Guarantee</li>
+                            <li> <i  class="fas fa-check"></i>Site SEO Analysis</li>
+                            <li>Listing Submission to 100 directories</li>
+                            <li> <i  class="fas fa-check"></i>Phone Tracking</li>
                         </ul>
-                        <p><sup>$</sup>79.50 <span>/Monthly</span></p>
+                        <!--<p><sup>$</sup>79.50 <span>/Monthly</span></p>-->
                         <a href="#" class="btn">Order This Plan</a>
                     </div>
                 </div>
@@ -208,16 +217,16 @@
                 </div>
             </div>
             <div class="row header mt-50" style="background-color: #77da55;">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4 class="">Features</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Basic</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Standard</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>
                         Proffessional
                     </h4>
@@ -225,16 +234,16 @@
             </div>
 
             <div class="row header" style="background-color: #77da55;">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4 class="">Price</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>$400/mo</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>$800/mo</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>
                         $1300/mo
                     </h4>
@@ -242,107 +251,122 @@
             </div>
 
             <div class="row price-font col-padding row-padding">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Keywords Optimized</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h6>5</h6>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h6>10</h6>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h6>20</h6>
                 </div>
             </div>
 
           <div class="row price-font color-icon row-padding row-light-grey">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Comprehensive On-site Analysis</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i  class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
             </div>
 
             <div class="row price-font color-icon row-padding">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>HTML Optimization</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
             </div>
 
             <div class="row price-font color-icon row-padding row-light-grey">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Robots.txt Creation</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
             </div>
 
             <div class="row price-font color-icon row-padding">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Sitemap.xml Creation</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
             </div>
 
             <div class="row price-font color-icon row-padding row-light-grey">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Internal Links Optimization</h4>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
+                    <i class="fas fa-times"></i>
+                </div>
+            </div>
+
+            <div class="row price-font color-icon row-padding row-light-grey">
+                <div class="col-md-3 col-3">
+                    <h4>Google Analytics Setup</h4>
+                </div>
+                <div class="col-md-3 col-3">
+                    <i class="fas fa-times"></i>
+                </div>
+                <div class="col-md-3 col-3">
+                    <i class="fas fa-times"></i>
+                </div>
+                <div class="col-md-3 col-3">
                     <i class="fas fa-check"></i>
                 </div>
             </div>
 
             <div class="row price-font color-icon row-padding ">
-                <div class="col-md-3">
+                <div class="col-md-3 col-3">
                     <h4>Call us for more info :</h4>
                 </div>
-                <div class="col-md-3">
-                    <a href="#" class="btn btn-sm magicmore">BUY</a>
+                <div class="col-md-3 col-3">
+                    <a href="contact.php" class="btn btn-sm magicmore">BUY</a>
                 </div>
-                <div class="col-md-3">
-                    <a href="#" class="btn btn-sm magicmore">BUY</a>
+                <div class="col-md-3 col-3">
+                    <a href="contact.php" class="btn btn-sm magicmore">BUY</a>
                 </div>
-                <div class="col-md-3">
-                    <a href="#" class="btn btn-sm magicmore">BUY</a>
+                <div class="col-md-3 col-3">
+                    <a href="contact.php" class="btn btn-sm magicmore">BUY</a>
                 </div>
             </div>
         </div>

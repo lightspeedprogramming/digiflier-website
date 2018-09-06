@@ -300,7 +300,7 @@
                             <img src="img/icons/organic-traffic-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>398%</h1>
+                            <h1>390</h1>
                             <h4 style="font-weight:normal;color:#777;">Increase in <br/>Organic traffic</h4>
                         </div>
                     </div>
@@ -311,7 +311,7 @@
                             <img src="img/icons/ranking-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>1105%</h1>
+                            <h1>1105</h1>
                             <h4 style="font-weight:normal;color:#777;">Increase in <br/>Top 10 ranking</h4>
                         </div>
                     </div>
@@ -323,7 +323,7 @@
                             <img src="img/icons/visit-counter.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
                         <div class="single-feature-content mt-50">
-                            <h1>129%</h1>
+                            <h1>120</h1>
                             <h4 style="font-weight:normal;color:#777;">Increase in <br>Visit duration</h4>
                         </div>
                     </div>

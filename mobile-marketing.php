@@ -48,7 +48,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
-                    <div class="section-title text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="section-title text-center">
                         <h2>OUR <strong>SERVICES</strong></h2>
                         <p>Online internet advertising is considered as the most recent procedure for marketing advancing. As mobile clients are more in numbers, the viability and also a definitive achievement of a mobile advancing effort would be such a great amount of more grounded than what you may except from a internet marketing effort that still is an extremely well known system of promoting today. </p>
                     </div>
@@ -57,7 +57,7 @@
 
             <div class="row">
                 <div class="col-lg-4 col-md-4">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fas fa-mobile-alt"></i>
                         </div>
@@ -68,7 +68,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
+                    <div class="single-feature single-feature-img-left text-left" 
                         <div class="single-feature-img">
                             <i class="fas fa-laptop-code"></i>
                         </div>
@@ -79,7 +79,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fas fa-comment-alt"></i>
                         </div>
@@ -109,7 +109,7 @@
                         <img src="img/mobile-marketing/img-2.png" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             What we do
@@ -139,8 +139,8 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
                         <img src="img/mobile-marketing/img-4.png" alt="" data-rjs="2">
                     </div>
                 </div>

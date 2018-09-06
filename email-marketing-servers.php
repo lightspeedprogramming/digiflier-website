@@ -30,12 +30,12 @@
            
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/email-marketing-servers/img-1.png" alt="">
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">EMAIL MARKETING SERVERS
                         </h4>
                         <p>
@@ -53,10 +53,10 @@
                 </div>
             </div>
             
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">-->
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">EMAIL SERVER SETTINGS</h4>
                         <p>
                             At the point when open your email account settings in your email programming, utilize these settings don't stress, we'll give you particular cases for the greater part of the non-nerds who aren't prepared to design their email account utilizing just the server settings underneath.
@@ -76,8 +76,8 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
                         <img src="img/email-marketing-servers/img-2.png" alt="" >
                     </div>
                 </div>

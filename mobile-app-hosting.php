@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center">
                         <img src="img/mobile-app-hosting/img-3.jpg" alt="" data-rjs="2">
                     </div>
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center">
                         <img src="img/mobile-app-hosting/img-4.jpg" alt="" data-rjs="2">
                     </div>
@@ -125,7 +125,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center">
                         <img src="img/mobile-app-hosting/img-6.jpg" alt="" data-rjs="2">
                     </div>
@@ -134,12 +134,12 @@
 
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center">
                         <img src="img/mobile-app-hosting/img-7.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             Cloud (Enterprise, Private, Hybrid) you choose your platform, We Deploy and Manage
@@ -162,7 +162,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
+                <div class="col-lg-6">
                     <div class="text-center" >
                         <img src="img/mobile-app-hosting/img-8.jpg" alt="" data-rjs="2">
                     </div>

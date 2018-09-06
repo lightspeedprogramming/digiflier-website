@@ -27,7 +27,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-6">
-                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                    <div class="service-details">
                         <h1 style="font-weight: 900;">Pay Per Click</h1>
                         <p>PPC stands for pay-per-click. It is a model in which advertisers will only pay according to the number of advertisements clicked. It is a technique for purchasing visits to your site, instead of endeavoring to "procure" those visits naturally. It enables marketers to offer for an advertisement in a search engine when somebody seeks on a keyword that is identified with their business advertising.
                         </p>
@@ -55,7 +55,7 @@
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-120">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">PPC Management</h4>
                         <p>
                            With our PPC marketing expertise, we can help take your records to the following level. We tweak methodology and announcing custom-made to your necessities. We give the help and direction you require to achieve your objective, be it expanding rate of return, expanding leads, or driving brand mindfulness.
@@ -66,7 +66,7 @@
                 </div>
                 
                 <div class="col-lg-6">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="text-center">
                         <img src="img/ppc-management.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
@@ -91,7 +91,7 @@
 
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".05">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fas fa-mouse-pointer"></i>
                         </div>
@@ -102,7 +102,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".2">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fab fa-adversal"></i>
                         </div>
@@ -113,7 +113,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".35">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fab fa-google"></i>
                         </div>
@@ -124,7 +124,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".5">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fas fa-comment-alt"></i>
                         </div>
@@ -135,7 +135,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".65">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fas fa-tv"></i>
                         </div>
@@ -146,7 +146,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
-                    <div class="single-feature single-feature-img-left text-left" data-animate="fadeInUp" data-delay=".8">
+                    <div class="single-feature single-feature-img-left text-left" >
                         <div class="single-feature-img">
                             <i class="fas fa-recycle"></i>
                         </div>

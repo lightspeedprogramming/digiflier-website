@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/mobile-app-development/img-3.jpg" alt="" data-rjs="2">
                     </div>

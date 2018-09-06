@@ -51,7 +51,7 @@
     <section class="pt-90">
         <div class="container">          
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-120">
+            <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/affiliate-marketing/img-2.jpg" alt="" data-rjs="2">
@@ -150,7 +150,7 @@
     <section class="pt-30" style="background-color:">
         <div class="container">
             
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">-->
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
                 <div class="col-lg-6">
                     <div class="number-one-content sm-device-padding" data-animate="fadeInUp" data-delay=".5">

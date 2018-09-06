@@ -32,7 +32,7 @@
                                                 
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="service-img text-center">
                         <img src="img/web-hosting-services/img-1.png" alt="">
                     </div>
@@ -54,7 +54,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="service-details">
                         <h1><strong>TYPES OF WEB HOSTING SERVICES</strong></h1>
                         <p>There are different types of web hosting administrations available to have your site. Before gesture-based communication up for web facilitating administrations, it's crucial to get a handle on what very administration your site needs, the kind of server you or your business needs, your financial plan, and what style of administrations the online host offers. Web Hosting choices accessible are: </p>

@@ -28,13 +28,13 @@
     <section class="pt-30 pb-55">
         <div class="container">
            
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+            <div class="row align-items-center pb-80" >
                 <div class="col-lg-6">
                     <div class="text-center">
-                        <img src="img/email-hosting/img-1.png" alt="" height="300px" width="200px">
+                        <img src="img/email-hosting/img-2.png" alt="" height="500px" width="300px">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">YOUR EMAIL, OUR COMPANY
                         </h4>
@@ -71,7 +71,7 @@
                         <img src="img/email-hosting/img-3.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             STORAGE? NO PROBLEM
@@ -110,7 +110,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="text-center">
                         <img src="img/email-hosting/img-5.png" alt="" >
                     </div>

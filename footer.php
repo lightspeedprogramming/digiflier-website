@@ -3,25 +3,15 @@
         <div class="footer-widgets light-bg border-top pt-80 pb-50">
             <div class="container">
                 <div class="row">
+
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widget mb-30">
-                            <h3 class="h4">Our Office</h3>
-                            <div class="contact-widget-content">
-                                <ul class="list-unstyled">
-                                    <li>
-                                        <i class="fa fa-phone"></i>
-                                        <a href="tel:+x-xxx-xxx-xxxx">(+x) xxx-xxx-xxx</a>
-                                    </li>
-                                    <li>
-                                        <i class="fas fa-envelope"></i>
-                                        <a href="#">contact@xyz.com</a>
-                                    </li>
-                                    <li>
-                                        <i class="fa fa-map-marker"></i>
-                                        <span>123/A xyz street, xyz, xxx-0000, xx</span>
-                                    </li>
-                                </ul>
+                            <h3 class="h4">ABOUT US</h3>
+                            <div class="menu-wrap">
+                                <P>
+                                    We are using mobile apps and web apps development that represents considerable authority in responsive mobile app developing, website development and various online marketing solutions.
+                                </P>
                             </div>
                         </div>
                     </div>
@@ -30,7 +20,7 @@
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widget mb-30">
-                            <h3 class="h4">CATEGORIES</h3>
+                            <h3 class="h4">SERVICES</h3>
                             <div class="menu-wrap">
                                 <ul class="menu">
                                     <li><a href="social-media-marketing.php">Social Media Marketing</a></li>
@@ -64,11 +54,22 @@
                     <!-- Footer Widget -->
                     <div class="col-lg-3 col-sm-6">
                         <div class="footer-widget mb-30">
-                            <h3 class="h4">ABOUT US</h3>
-                            <div class="menu-wrap">
-                                <P>
-                                    We are a team of online marketing professionals. We understand the search engine ecosystem. Our unique approach to SEO allows us the capability to take your site to the top of major search engines.
-                                </P>
+                            <h3 class="h4">Our Office</h3>
+                            <div class="contact-widget-content">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <i class="fa fa-phone"></i>
+                                        <a href="tel:+x-xxx-xxx-xxxx">(+x) xxx-xxx-xxx</a>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-envelope"></i>
+                                        <a href="#">contact@xyz.com</a>
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-map-marker"></i>
+                                        <span>123/A xyz street, xyz, xxx-0000, xx</span>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>

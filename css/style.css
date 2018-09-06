@@ -2972,3 +2972,8 @@ a.tip:hover {
         left: 7%;
     }
 }
+
+.single-package ul li i
+{
+    margin-right: 10px;
+}

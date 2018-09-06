@@ -223,7 +223,7 @@
                         </p>
 
                         <h5>
-                            We at Go Digital Marks let you with the best organizations that are: 
+                            We at Xyz let you with the best organizations that are: 
                         </h5>
 
                         <ul>
@@ -331,11 +331,7 @@
            
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6">
-                    <div class="text-center">
-                        <img src="img/website-development/img-1.png" alt="" data-rjs="2">
-                    </div>
-                </div>
+                
                 <div class="col-lg-6">
                     <div class="number-one-content sm-device-padding">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
@@ -351,11 +347,23 @@
                        
                     </div>
                 </div>
+
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
+                        <img src="img/website-development/img-1.png" alt="" data-rjs="2">
+                    </div>
+                </div>
             </div>
             
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
+                        <img src="img/web-hosting-services/img-1.png" alt="">
+                    </div>
+                </div>
+
+                <div class="col-lg-6 sm-device-padding">
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Website Hosting</h4>
                         <p>
@@ -371,31 +379,29 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 sm-device-padding">
-                    <div class="text-center">
-                        <img src="img/web-hosting-services/img-1.png" alt="">
-                    </div>
-                </div>
+                
             </div>
 
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80">
-                <div class="col-lg-6">
-                    <div class="text-center">
-                        <img src="img/mobile-app-designing/image.png" alt="">
-                    </div>
-                </div>
+                
                 <div class="col-lg-6  sm-device-padding">
                     <div class="number-one-content sm-device-padding">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
-                            Mobile App Designing
+                            Domain Registration
                         </h4>
                         <p>
-                            At XYZ, we create the best attractive and responsive web app design for better showing. Our best app designers design the app with its user interface to draw clients towards your mobile applications. The better app design shows the best attractive looks of you mobile application with the use of better user-interface designing.
+                            You can use a word or articulation as a site name. On the off chance that the area is for an enterprise, you may wish to put your name inside the space; this makes it less complex for your customers to look out you on the web. Disregarding the way that an extended space is harder to review, it will contain additional catchphrases that are basic as a portion of the web records use watchwords in an exceedingly name as a piece of the algorithmic run the show. 
                         </p>
 
-                        <a href="mobile-app-designing.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
+                        <a href="domain-registration.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
                        
+                    </div>
+                </div>
+
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center">
+                        <img src="img/domain-registering/img-1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -428,7 +434,7 @@
                     <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Mobile App Hosting</h4>
                         <p>
-                            When it includes building succeeding huge factor, you want the freedom to work in up your apps, not running your groundwork. That is the reason you might want application facilitating from Go Digital Marks, the cloud that accompanies every one of the engineers and experts you want to deal with them. That strategy you'll have the capacity to pay some time on your code, instead of your groundwork.
+                            When it incorporates building succeeding colossal factor, you need the flexibility to work in up your applications, not running your foundation. That is the reason you may need application encouraging from XYZ, the cloud that goes with each one of the specialists and specialists you need to manage them. That technique you'll have the ability to pay some time on your code, rather than your preparation. 
                         </p>
 
                         <a href="mobile-app-hosting.php" class="btn btn-md btn-info" style="color: #fff;">READ MORE</a>
@@ -436,7 +442,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="text-center">
                         <img src="img/mobile-app-hosting/img-9.png" alt="">
                     </div>
@@ -483,7 +489,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="text-center">
                         <img src="img/email-hosting/img-1.png" alt="" height="400px" width="300px">
                     </div>
@@ -577,7 +583,7 @@
 
     <!--How We Do Section-->
 
-    <section class="pt-120 pb-90">
+    <!--<section class="pt-120 pb-90">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -623,7 +629,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>-->
 
     <!--# How We Do-->
 
@@ -631,6 +637,6 @@
 	
 
 <?php
-    include 'take-your-business-to-next-level.php';
+    //include 'take-your-business-to-next-level.php';
 	include("footer.php");
 ?>

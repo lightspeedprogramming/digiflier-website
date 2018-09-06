@@ -33,7 +33,7 @@
                                         <a href="tel:+x-xxx-xxx-xxxx">(+x) xxx-xxxx-xxx</a>
                                     </li>
                                     <li>
-                                        <i class="fa fa-envelope-o"></i>
+                                        <i class="fas fa-envelope"></i>
                                         <a href="#">contact@domain.com</a>
                                     </li>
                                     <li>

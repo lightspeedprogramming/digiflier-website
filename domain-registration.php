@@ -27,7 +27,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <div class="service-details">
-                        <h1><strong>What should I use as a domain name?</strong></h1>
+                        <h1><strong>What would it be a good idea for me to use as a domain name? </strong></h1>
                         <p>You can use a word or articulation as a site name. On the off chance that the area is for an enterprise, you may wish to put your name inside the space; this makes it less complex for your customers to look out you on the web. </p>
                             
                         <P>
@@ -86,7 +86,7 @@
                         <h1>Once you chose a name for your site, you may have to submit your name registration request to a registrar. </p>
 
                         <h3>
-                            <strong>You will have to submit the subsequent data to the registrar:</strong>
+                            <strong>You will have to submit the subsequent data to the registrar :</strong>
                         </h3>
 
                         <div id="ul-div">

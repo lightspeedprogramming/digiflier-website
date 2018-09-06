@@ -1,6 +1,6 @@
 <!-- Take Our business to the nest level -->
         
-    <section class="pt-120 pb-55">
+    <section class="pt-30 pb-30">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -34,7 +34,7 @@
                 </div>
             </div>
             
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">            
+                      
         </div>
     </section>
     <!-- take our business to the next level -->

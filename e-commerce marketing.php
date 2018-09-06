@@ -77,7 +77,7 @@
                             Website outline change, also called SEO, is a champion among the most fundamental parts of online business exhibiting. It relies upon uncommon figuring that analyze the events of specific watchwords on your site. Since customers investigate the Internet through web lists like Google, these results accept a broad part in the achievement of your website. A good SEO campaign can position your web business website to climb to the most elevated 
                         </p>
 
-                        <a href="seo.php" class="btn btn-md btn-info" style="color: #fff">LEARN MORE</a>
+                        <a href="seo.php" class="btn btn-md btn-info" style="color: #fff">READ MORE</a>
                         
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                         <h4>PAY PER CLICK MANAGEMENT</h4>
                         <p>Pay-per-click publicizing works nearly to SEO since it relies upon catchphrases. Regardless, however, site change works normally (suggesting that an exhibiting firm doesn't have to pay for it), PPC results are the results that show up in yellow boxes on Google. Elevating endeavors pay to be addressed by specific watchwords and owe money each time a customer taps on one of these 'bolstered' associations. PPC and SEO campaigns consistently work amazingly well </p>
                         
-                        <a href="ppc.php" class="btn btn-md btn-info" style="color: #fff">LEARN MORE</a>
+                        <a href="ppc.php" class="btn btn-md btn-info" style="color: #fff">READ MORE</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6">
@@ -96,7 +96,7 @@
                         <h4>SOCIAL MEDIA <br>OPTIMIZATION</h4>
                         <p>Web-based systems administration publicizing can be fundamental to web business locales. By making a suitable Facebook business page and enticing potential customers to 'like' your page with tip-top offers and refunds, you won't simply increment tremendous verbal advancing through the framework, anyway will set up yourself as a reliable, dependable Internet business. </p>
                         
-                        <a href="social-media-marketing.php" class="btn btn-md btn-info" style="color: #fff">LEARN MORE</a>
+                        <a href="social-media-marketing.php" class="btn btn-md btn-info" style="color: #fff">READ MORE</a>
                     </div>
                 </div>
                 

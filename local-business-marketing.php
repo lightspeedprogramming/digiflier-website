@@ -27,7 +27,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-6">
-                    <div class="service-details" data-animate="fadeInUp" data-delay=".1">
+                    <div class="service-details">
                         <h1 style="font-weight: 900;">Local Business Marketing</h1>
                         <p>
                             Local business marketing could be a main part of a fruitful online offering methodology. For the business with different areas or the company looking for a considerable measure of local client's then standard way to deal with mobile app development won't be sufficient and in fact, pitching to a focused on local crowd needs its own particular unmistakable arrangement of ways. We always offering grants organizations to help their marking totally have connection with their locale, increment customer devotion and secure higher transformation rates.
@@ -59,7 +59,7 @@
             
             <div class="row justify-content-center pt-120">
                 <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".1">
+                    <div class="single-feature single-feature-img-top text-center" >
                         <div class="single-feature-img">
                             <img src="img/local-business-marketing/icons/icon-1.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".4">
+                    <div class="single-feature single-feature-img-top text-center" >
                         <div class="single-feature-img">
                             <img src="img/local-business-marketing/icons/icon-2.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
+                    <div class="single-feature single-feature-img-top text-center" >
                         <div class="single-feature-img">
                             <img src="img/local-business-marketing/icons/icon-3.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
@@ -93,7 +93,7 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6">
-                    <div class="single-feature single-feature-img-top text-center" data-animate="fadeInUp" data-delay=".7">
+                    <div class="single-feature single-feature-img-top text-center" >
                         <div class="single-feature-img">
                             <img src="img/local-business-marketing/icons/icon-4.png" alt="" class="rounded-circle img-fluid" height="100px" width="100px">
                         </div>
@@ -125,13 +125,13 @@
            
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
             <div class="row align-items-center pb-80" style="margin-bottom:35px;">
-                <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                <div class="col-lg-6 ">
+                    <div class="text-center" >
                         <img src="img/local-business-marketing/img-2.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
-                <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="number-one-content" >
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">
                             Local Search Engine Optimization (SEO)
                         </h4>
@@ -151,7 +151,7 @@
 
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content" >
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Local Business Directory Listings</h4>
                         <p>
                             XYZ conjointly makes customer postings in differed online professional references to support an organization's nearby online nearness. Our primary aphorism is to frame every customer's organization a ton of noticeable and available and, regardless of the decrease in nature of the physical telephone directory, a web professional reference is right now the best method for accomplishing every one of those targets. 
@@ -159,17 +159,17 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                <div class="col-lg-6" >
+                    <div class="text-center">
                         <img src="img/local-business-marketing/img-3.jpg" alt="" data-rjs="2">
                     </div>
                 </div>
             </div>
             
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">-->
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
-                    <div class="number-one-content" data-animate="fadeInUp" data-delay=".5">
+                    <div class="number-one-content">
                         <h4 style="font-size: 32px;line-height: 1.2;margin-bottom: 10px;">Local PPC</h4>
                         <p>
                            Local Pay per Click is the most ideal approach to get plan for your nearby business and change over them into nonstop clients. PPC Ads are just appeared to individuals the individuals who are looking inside a constrained region, to a great extent at interims fifty miles range of your working environment. We let you with high focused on movement to your site that outcomes in the development of your business. It's viable, less exorbitant and offers positive outcomes.
@@ -180,8 +180,8 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6 d-none d-lg-block">
-                    <div class="text-center" data-animate="fadeInUp" data-delay=".1">
+                <div class="col-lg-6 sm-device-padding">
+                    <div class="text-center" >
                         <img src="img/ppc-img-1.jpg" alt="" data-rjs="2">
                     </div>
                 </div>

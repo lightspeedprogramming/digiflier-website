@@ -56,7 +56,7 @@
                 </div>
             </div>
             <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
-            <div class="row align-items-center pb-80" style="margin-bottom:35px;">
+            <div class="row align-items-center pb-80" >
                 <div class="col-lg-6">
                     <div class="text-center">
                         <img src="img/business.jpg" alt="">
@@ -75,7 +75,7 @@
                 </div>
             </div>
             
-            <hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">
+            <!--<hr style="height:40px;width:100%;display:block;clear:both;border:0 none;">-->
             <div class="row align-items-center pb-80">
                 <div class="col-lg-6">
                     <div class="number-one-content">
@@ -87,7 +87,7 @@
                     </div>
                 </div>
                 
-                <div class="col-lg-6">
+                <div class="col-lg-6 sm-device-padding">
                     <div class="text-center" data-animate="fadeInUp" data-delay=".1">
                         <img src="img/seo-page-img-2.jpg" alt="" data-rjs="2">
                     </div>
